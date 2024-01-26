@@ -1221,7 +1221,7 @@
   },
   "ROOM.DEVICE_DETAIL.RESTART_DEVICE": {
     "Original": "Reboot",
-    "Custom": "Reinício"
+    "Custom": "Reiniciar"
   },
   "ROOM.DEVICE_DETAIL.SMART_SECURITY_DETAILS": {
     "Original": "Smart Security Details",
@@ -1385,11 +1385,11 @@
   },
   "ROOM.DEVICE_DETAIL.POWER_OPEN": {
     "Original": "ON",
-    "Custom": "SOBRE"
+    "Custom": "ON"
   },
   "ROOM.DEVICE_DETAIL.POWER_CLOSE": {
     "Original": "OFF",
-    "Custom": "DESLIGADO"
+    "Custom": "OFF"
   },
   "ROOM.DEVICE_DETAIL.POWER_STAY": {
     "Original": "Last state",
@@ -1397,11 +1397,11 @@
   },
   "ROOM.DEVICE_DETAIL.CLICK_TO_EXECUTE": {
     "Original": "Tap to run",
-    "Custom": "Toque para correr"
+    "Custom": "Toque para executar"
   },
   "ROOM.DEVICE_DETAIL.TIMER": {
     "Original": "Timer",
-    "Custom": "Cronômetro"
+    "Custom": "Timer"
   },
   "ROOM.DEVICE_DETAIL.VOLUME": {
     "Original": "Volume",
@@ -1869,7 +1869,7 @@
   },
   "ROOM.DEVICE_OFFLINE": {
     "Original": "Offline",
-    "Custom": "desligada"
+    "Custom": "Offline"
   },
   "ROOM.DEVICE_NAME_IS_NEED": {
     "Original": "Enter a device name",
@@ -1921,15 +1921,15 @@
   },
   "ROOM.SWITCH_ON": {
     "Original": "On",
-    "Custom": "Sobre"
+    "Custom": "On"
   },
   "ROOM.SWITCH_OFF": {
     "Original": "Off",
-    "Custom": "Desligado"
+    "Custom": "Off"
   },
   "ROOM.SWITCH_OFF_ON": {
     "Original": "Off-On",
-    "Custom": "Desligado-ligado"
+    "Custom": "Off-On"
   },
   "ROOM.SMOKE_DETECTED": {
     "Original": "Smoke Detected",
@@ -2913,7 +2913,7 @@
   },
   "SCENE.TAP_TO_RUN": {
     "Original": "Tap to run",
-    "Custom": "Toque para correr"
+    "Custom": "Toque para executar"
   },
   "SCENE.VIEW": {
     "Original": "View",
@@ -2965,11 +2965,11 @@
   },
   "SCENE.TIMER": {
     "Original": "Timer",
-    "Custom": "Cronômetro"
+    "Custom": "Timer"
   },
   "SCENE.ON": {
     "Original": "On",
-    "Custom": "Sobre"
+    "Custom": "On"
   },
   "SCENE.SWITCH_NOT_SELECTED": {
     "Original": "Not selected",
@@ -2993,11 +2993,11 @@
   },
   "SCENE.OFF": {
     "Original": "Off",
-    "Custom": "Desligado"
+    "Custom": "Off"
   },
   "SCENE.LIGHT_OPEN": {
     "Original": "On",
-    "Custom": "Sobre"
+    "Custom": "On"
   },
   "SCENE.DELAY": {
     "Original": "Delay",
@@ -3105,31 +3105,31 @@
   },
   "SCENE.MON": {
     "Original": "Mon",
-    "Custom": "Meu"
+    "Custom": "Seg"
   },
   "SCENE.TUE": {
     "Original": "Tue",
-    "Custom": "ter"
+    "Custom": "Ter"
   },
   "SCENE.WED": {
     "Original": "Wed",
-    "Custom": "qua"
+    "Custom": "Qua"
   },
   "SCENE.THU": {
     "Original": "Thu",
-    "Custom": "Coletar"
+    "Custom": "Qui"
   },
   "SCENE.FRI": {
     "Original": "Fri",
-    "Custom": "sex"
+    "Custom": "Sex"
   },
   "SCENE.SAT": {
     "Original": "Sat",
-    "Custom": "Sentado"
+    "Custom": "Sáb"
   },
   "SCENE.SUN": {
     "Original": "Sun",
-    "Custom": "Sol"
+    "Custom": "Dom"
   },
   "SCENE.NEXT_DAY": {
     "Original": "(next day)",
@@ -3141,7 +3141,7 @@
   },
   "SCENE.REVERSE": {
     "Original": "Reverse",
-    "Custom": "Reverter"
+    "Custom": "Inverter"
   },
   "SCENE.PERSENT": {
     "Original": "Percentage",
@@ -3173,7 +3173,7 @@
   },
   "SCENE.SEC": {
     "Original": "s",
-    "Custom": "é"
+    "Custom": "s"
   },
   "SCENE.END": {
     "Original": "To",
@@ -3205,7 +3205,7 @@
   },
   "SCENE.ON_OFF": {
     "Original": "on-off",
-    "Custom": "Ligado desligado"
+    "Custom": "on-off"
   },
   "SCENE.AUTOMODE_TIP": {
     "Original": "Auto mode will be temporarily disabled during the execution of the scene",
@@ -3297,11 +3297,11 @@
   },
   "SCENE.TTS_ENGINE_DELETE": {
     "Original": "TTS service provided by \"{name}\" will be removed if you delete the add-on from the add-on list. You can reinstall it to use the TTS service again later. Confirm to proceed?",
-    "Custom": "O serviço TTS fornecido por \"{name}\" será removido se você excluir o complemento da lista de complementos. Você pode reinstalá-lo para usar o serviço TTS novamente mais tarde. Confirmar para prosseguir?"
+    "Custom": "O serviço TTS fornecido por \"{name}\" será removido se você excluir o complemento da lista de add-on. Você pode reinstalá-lo para usar o serviço TTS novamente mais tarde. Confirmar para prosseguir?"
   },
   "SCENE.TTS_ENGINE_DELETE_TIP": {
     "Original": "Delete {name} from the add-on list",
-    "Custom": "Exclua {nome} da lista de complementos"
+    "Custom": "Exclua {nome} da lista de add-on"
   },
   "SCENE.TTS_IS_DELETED": {
     "Original": "TTS Add-on has been removed",
@@ -3329,7 +3329,7 @@
   },
   "SCENE.AI_BRIDGE_CONDITION.ALARMING": {
     "Original": "Alarming",
-    "Custom": "Alarmante"
+    "Custom": "Alarme"
   },
   "SCENE.AI_BRIDGE_CONDITION.NO_ALARM": {
     "Original": "No Alarm",
@@ -3485,7 +3485,7 @@
   },
   "SECURITY.HOME_MODE": {
     "Original": "Home Mode",
-    "Custom": "Modo inicial"
+    "Custom": "Modo em casa"
   },
   "SECURITY.AWAY_MODE": {
     "Original": "Away Mode",
@@ -3553,7 +3553,7 @@
   },
   "SECURITY.KEEP_ALARMING": {
     "Original": "Keep Alarming",
-    "Custom": "Continue alarmante"
+    "Custom": "Continue o alarme"
   },
   "SECURITY.VIEW": {
     "Original": "View",
@@ -3717,7 +3717,7 @@
   },
   "SETTING.FIRMWARE_VERSION": {
     "Original": "eWeLink CUBE Version",
-    "Custom": "Versão do CUBO eWeLink"
+    "Custom": "eWeLink CUBE Version"
   },
   "SETTING.IP_ADDRESS": {
     "Original": "IP Address",
@@ -3749,7 +3749,7 @@
   },
   "SETTING.POWER_ON_TIME": {
     "Original": "Power-on Time",
-    "Custom": "Hora de ligar"
+    "Custom": "Último boot"
   },
   "SETTING.CURRENT_PASSWORD": {
     "Original": "Current Password",
@@ -3777,7 +3777,7 @@
   },
   "SETTING.REBOOT": {
     "Original": "Reboot",
-    "Custom": "Reinício"
+    "Custom": "Reiniciar"
   },
   "SETTING.LINK_NOW": {
     "Original": "Link now",
@@ -4373,7 +4373,7 @@
   },
   "COMMON.S": {
     "Original": "s",
-    "Custom": "é"
+    "Custom": "s"
   },
   "COMMON.NO_DATA": {
     "Original": "No Data",
@@ -4561,11 +4561,11 @@
   },
   "ERROR.180007": {
     "Original": "Cast has been deleted",
-    "Custom": "O elenco foi excluído"
+    "Custom": "O Cast foi excluído"
   },
   "ERROR.180008": {
     "Original": "You have reached the max limit to add cast",
-    "Custom": "Você atingiu o limite máximo para adicionar elenco"
+    "Custom": "Você atingiu o limite máximo para adicionar Cast"
   },
   "ERROR.190001": {
     "Original": "Operation failed, add-on has been removed",
@@ -4629,7 +4629,7 @@
   },
   "CAST.NAME": {
     "Original": "Your Cast Name",
-    "Custom": "Seu nome de elenco"
+    "Custom": "Seu nome de Cast"
   },
   "CAST.WIDGET": {
     "Original": "Widgets",
@@ -4713,7 +4713,7 @@
   },
   "CAST.NAME_PLACEHOLDER": {
     "Original": "Enter a Cast Name",
-    "Custom": "Insira um nome de elenco"
+    "Custom": "Insira um nome para o Cast"
   },
   "CAST.SELECT_DEVICES": {
     "Original": "Select Devices",
@@ -4793,7 +4793,7 @@
   },
   "CAST.DELETE": {
     "Original": "Delete this Cast?",
-    "Custom": "Excluir este elenco?"
+    "Custom": "Excluir este Cast?"
   },
   "CAST.LIMITS_CAST": {
     "Original": "Limits reached for adding Cast",
@@ -4801,11 +4801,11 @@
   },
   "CAST.OLD_WINDOW_SYSTEM_TIP": {
     "Original": "If you are running an older Windows version or have a stricter network configuration, you might need to access cast at ",
-    "Custom": "Se você estiver executando uma versão mais antiga do Windows ou tiver uma configuração de rede mais rígida, talvez seja necessário acessar o cast em"
+    "Custom": "Se você estiver executando uma versão mais antiga do Windows ou tiver uma configuração de rede mais rígida, talvez seja necessário acessar o cast em "
   },
   "CAST.OR": {
     "Original": "  or  ",
-    "Custom": "  ou"
+    "Custom": "  ou  "
   },
   "CAST.USE_IP_ACCESS": {
     "Original": " (replace X.X.X.X with your iHost’s IP address)",
@@ -4813,7 +4813,7 @@
   },
   "CAST.CAST_DELETE": {
     "Original": "Cast has been deleted",
-    "Custom": "O elenco foi excluído"
+    "Custom": "O Cast foi excluído"
   },
   "CAST.GOT_IT": {
     "Original": "Got it",
@@ -4925,7 +4925,7 @@
   },
   "FEEDBACK.ATTACHMENT_TIP": {
     "Original": "Support uploading pictures, videos and log files",
-    "Custom": "Suporte para upload de fotos, vídeos e arquivos de log"
+    "Custom": "Suporta upload de fotos, vídeos e arquivos de log"
   },
   "FEEDBACK.MAX_FILES": {
     "Original": "Add up to 5 files",
@@ -4965,15 +4965,15 @@
   },
   "DOCKER.ALL_ADDON_ON": {
     "Original": "Add-on List",
-    "Custom": "Lista de complementos"
+    "Custom": "Lista de add-on"
   },
   "DOCKER.ADD": {
     "Original": "Add to list",
-    "Custom": "Adicionado a lista"
+    "Custom": "Adicionar à lista"
   },
   "DOCKER.TF_NAME": {
     "Original": "TF CARD",
-    "Custom": "CARTÃO TF"
+    "Custom": "Cartão TF"
   },
   "DOCKER.TF_DESCRIBE": {
     "Original": "Please insert a TF card with adequate capacity to your iHost before installing add-on. Do not remove the TF card after installation.",
@@ -4997,7 +4997,7 @@
   },
   "DOCKER.RUN": {
     "Original": "Run",
-    "Custom": "Correr"
+    "Custom": "Executar"
   },
   "DOCKER.DOCKER_HOST_PORT_PLACEHOLDER": {
     "Original": "Host Port",
@@ -5005,7 +5005,7 @@
   },
   "DOCKER.DOCKER_ADDON_PORT_PLACEHOLDER": {
     "Original": "Add-on Port",
-    "Custom": "Porta complementar"
+    "Custom": "Porta do Add-on"
   },
   "DOCKER.DOCKER_RAM_PLACEHOLDER": {
     "Original": "Set the memory limit for each Add-on runtime",
@@ -5321,7 +5321,7 @@
   },
   "DOCKER.RUN_ADD_ON": {
     "Original": "Run",
-    "Custom": "Correr"
+    "Custom": "Executar"
   },
   "DOCKER.TF_CARD_CHECKING": {
     "Original": "Checking the inserted card",
@@ -5421,7 +5421,7 @@
   },
   "DOCKER.VOLUME_MANAGE.VOLUME_USEFUL": {
     "Original": "Volume is used to store Add-on data.",
-    "Custom": "O volume é usado para armazenar dados complementares."
+    "Custom": "O volume é usado para armazenar dados do Add-on."
   },
   "DOCKER.VOLUME_MANAGE.VOLUME_VIEW": {
     "Original": "Install the \"filebrowser/filebrowser\" Add-on to manage files in the volume if needed.",
@@ -5501,7 +5501,7 @@
   },
   "DOCKER.VOLUME_MANAGE.VOLUME_USEFUL_CREATE": {
     "Original": "Volume is used to store Add-on data. Click \"Create volume\" to add a new volume.",
-    "Custom": "O volume é usado para armazenar dados complementares. Clique em “Criar volume” para adicionar um novo volume."
+    "Custom": "O volume é usado para armazenar dados do Add-on. Clique em “Criar volume” para adicionar um novo volume."
   },
   "DOCKER.VOLUME_MANAGE.FORMAT_TF_CARD": {
     "Original": "Format TF card",
@@ -5665,11 +5665,11 @@
   },
   "DOCKER.SMART_HOME": {
     "Original": "eWeLink Smart Home",
-    "Custom": "Casa inteligente eWeLink"
+    "Custom": "eWeLink Smart Home"
   },
   "DOCKER.PARAL_SYNC": {
     "Original": "Paral-sync",
-    "Custom": "Sincronização paralela"
+    "Custom": "Paral-sync"
   },
   "DOCKER.WEATHER_API": {
     "Original": "Tile2CUBE-Weatherapi",
@@ -5753,7 +5753,7 @@
   },
   "DOCKER.SEARCH_ADD_ON_TIP": {
     "Original": " Click {HERE} to view add-ons on Docker hub. The recommended Add-on architecture is linux/arm/v7, other architectures may fail to install.",
-    "Custom": " Clique {AQUI} para visualizar complementos no hub Docker. A arquitetura complementar recomendada é linux/arm/v7; outras arquiteturas podem falhar na instalação."
+    "Custom": " Clique {AQUI} para visualizar add-on no Docker Hub. A arquitetura recomendada do Add-on é linux/arm/v7; outras arquiteturas podem falhar na instalação."
   },
   "DOCKER.HERE": {
     "Original": "HERE",
@@ -5769,7 +5769,7 @@
   },
   "CUBE.ADDON": {
     "Original": "All Add-on",
-    "Custom": "Todos os complementos"
+    "Custom": "Todos os add-on"
   },
   "LABORATORY.LABORATORY": {
     "Original": "Pilot Features",
@@ -5789,7 +5789,7 @@
   },
   "LABORATORY.DESCRIPTION_MAY_DISAPPEAR": {
     "Original": "1、The pilot features may lack important functionality and may have future breaking changes, but is operational and available.",
-    "Custom": "1?Os Pilot Features podem não ter funcionalidades importantes e podem ter alterações significativas futuras, mas estão operacionais e disponíveis."
+    "Custom": "1. Os Pilot Features podem não ter funcionalidades importantes e podem ter alterações significativas futuras, mas estão operacionais e disponíveis."
   },
   "LABORATORY.DESCRIPTION_CONTACT_US": {
     "Original": "2、Some pilot features may be removed or replaced in later updates based on comprehensive considerations, DO NOT use them to run production workloads is highly recommended.",
@@ -5817,11 +5817,11 @@
   },
   "LABORATORY.SUPPORT": {
     "Original": "1.Support discovering and adding NON-ZigBee 3.0 devices that of eWeLink supported, such as SONOFF NON-ZigBee 3.0 devices.",
-    "Custom": "1.Suporte para descobrir e adicionar dispositivos NÃO-ZigBee 3.0 compatíveis com eWeLink, como dispositivos SONOFF NÃO-ZigBee 3.0."
+    "Custom": "1. Suporte para descobrir e adicionar dispositivos NÃO-ZigBee 3.0 compatíveis com eWeLink, como dispositivos SONOFF NÃO-ZigBee 3.0."
   },
   "LABORATORY.CANT_GUARANTEE": {
     "Original": "2.Can’t guarantee full support of Device Types or Features from other Brands.",
-    "Custom": "2.Não é possível garantir suporte total de tipos de dispositivos ou recursos de outras marcas."
+    "Custom": "2. Não é possível garantir suporte total de tipos de dispositivos ou recursos de outras marcas."
   },
   "LABORATORY.STANDARD": {
     "Original": "3.Standard device types, like Switches, Lights, and some Sensors, with standard features, like Power ON/OFF, Dim and Color Adjustment, and Open/ Close monitoring of contact sensors are supported now, while some special features of the devices, such as air pressure and water leakage monitoring, are not supported for the time being.",
@@ -5853,7 +5853,7 @@
   },
   "LABORATORY.REMOTE.NAME": {
     "Original": "eWeLink-Remote Control",
-    "Custom": "eWeLink-Controle Remoto"
+    "Custom": "eWeLink-Remote Control"
   },
   "LABORATORY.REMOTE.DESCRIPTION": {
     "Original": "Add an entry for adding eWeLink-Remote sub-devices on the home page.",
@@ -5869,7 +5869,7 @@
   },
   "LABORATORY.REMOTE.CONTROL": {
     "Original": "eWeLink-Remote Control",
-    "Custom": "eWeLink-Controle Remoto"
+    "Custom": "eWeLink-Remote Control"
   },
   "LABORATORY.REMOTE.OPEN_PAIR_FILED": {
     "Original": "Please go to the lab to enable the \"eWeLink-Remote Control\" function and try again.",
