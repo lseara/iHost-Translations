@@ -1,0 +1,6106 @@
+{
+  "locale": {
+    "Original": "en",
+    "Custom": ""
+  },
+  "Pagination.items_per_page": {
+    "Original": "/ page",
+    "Custom": ""
+  },
+  "Pagination.jump_to": {
+    "Original": "Go to",
+    "Custom": "Vá para"
+  },
+  "Pagination.jump_to_confirm": {
+    "Original": "confirm",
+    "Custom": "confirme"
+  },
+  "Pagination.prev_page": {
+    "Original": "Previous Page",
+    "Custom": "Página anterior"
+  },
+  "Pagination.next_page": {
+    "Original": "Next Page",
+    "Custom": "Próxima página"
+  },
+  "Pagination.prev_5": {
+    "Original": "Previous 5 Pages",
+    "Custom": "5 páginas anteriores"
+  },
+  "Pagination.next_5": {
+    "Original": "Next 5 Pages",
+    "Custom": "Próximas 5 páginas"
+  },
+  "Pagination.prev_3": {
+    "Original": "Previous 3 Pages",
+    "Custom": "3 páginas anteriores"
+  },
+  "Pagination.next_3": {
+    "Original": "Next 3 Pages",
+    "Custom": "Próximas 3 páginas"
+  },
+  "DatePicker.lang.placeholder": {
+    "Original": "Select date",
+    "Custom": "Selecione a data"
+  },
+  "DatePicker.lang.yearPlaceholder": {
+    "Original": "Select year",
+    "Custom": "Selecione o ano"
+  },
+  "DatePicker.lang.quarterPlaceholder": {
+    "Original": "Select quarter",
+    "Custom": "Selecione o trimestre"
+  },
+  "DatePicker.lang.monthPlaceholder": {
+    "Original": "Select month",
+    "Custom": "Selecione o mês"
+  },
+  "DatePicker.lang.weekPlaceholder": {
+    "Original": "Select week",
+    "Custom": "Selecione a semana"
+  },
+  "DatePicker.lang.rangePlaceholder.0": {
+    "Original": "Start date",
+    "Custom": "Data de início"
+  },
+  "DatePicker.lang.rangePlaceholder.1": {
+    "Original": "End date",
+    "Custom": "Data final"
+  },
+  "DatePicker.lang.rangeYearPlaceholder.0": {
+    "Original": "Start year",
+    "Custom": "Ano inicial"
+  },
+  "DatePicker.lang.rangeYearPlaceholder.1": {
+    "Original": "End year",
+    "Custom": "Fim de ano"
+  },
+  "DatePicker.lang.rangeQuarterPlaceholder.0": {
+    "Original": "Start quarter",
+    "Custom": "Trimestre inicial"
+  },
+  "DatePicker.lang.rangeQuarterPlaceholder.1": {
+    "Original": "End quarter",
+    "Custom": "Fim do trimestre"
+  },
+  "DatePicker.lang.rangeMonthPlaceholder.0": {
+    "Original": "Start month",
+    "Custom": "Mês de início"
+  },
+  "DatePicker.lang.rangeMonthPlaceholder.1": {
+    "Original": "End month",
+    "Custom": "Fim do mês"
+  },
+  "DatePicker.lang.rangeWeekPlaceholder.0": {
+    "Original": "Start week",
+    "Custom": "Semana de início"
+  },
+  "DatePicker.lang.rangeWeekPlaceholder.1": {
+    "Original": "End week",
+    "Custom": "Fim de semana"
+  },
+  "DatePicker.lang.locale": {
+    "Original": "en_US",
+    "Custom": "em nós"
+  },
+  "DatePicker.lang.today": {
+    "Original": "Today",
+    "Custom": "Hoje"
+  },
+  "DatePicker.lang.now": {
+    "Original": "Now",
+    "Custom": "Agora"
+  },
+  "DatePicker.lang.backToToday": {
+    "Original": "Back to today",
+    "Custom": "De volta a hoje"
+  },
+  "DatePicker.lang.ok": {
+    "Original": "Ok",
+    "Custom": "OK"
+  },
+  "DatePicker.lang.clear": {
+    "Original": "Clear",
+    "Custom": "Claro"
+  },
+  "DatePicker.lang.month": {
+    "Original": "Month",
+    "Custom": "Mês"
+  },
+  "DatePicker.lang.year": {
+    "Original": "Year",
+    "Custom": "Ano"
+  },
+  "DatePicker.lang.timeSelect": {
+    "Original": "select time",
+    "Custom": "selecione a hora"
+  },
+  "DatePicker.lang.dateSelect": {
+    "Original": "select date",
+    "Custom": "Selecione a data"
+  },
+  "DatePicker.lang.weekSelect": {
+    "Original": "Choose a week",
+    "Custom": "Escolha uma semana"
+  },
+  "DatePicker.lang.monthSelect": {
+    "Original": "Choose a month",
+    "Custom": "Escolha um mês"
+  },
+  "DatePicker.lang.yearSelect": {
+    "Original": "Choose a year",
+    "Custom": "Escolha um ano"
+  },
+  "DatePicker.lang.decadeSelect": {
+    "Original": "Choose a decade",
+    "Custom": "Escolha uma década"
+  },
+  "DatePicker.lang.yearFormat": {
+    "Original": "YYYY",
+    "Custom": "AAAA"
+  },
+  "DatePicker.lang.dateFormat": {
+    "Original": "M/D/YYYY",
+    "Custom": "M/D/AAAA"
+  },
+  "DatePicker.lang.dayFormat": {
+    "Original": "D",
+    "Custom": "D"
+  },
+  "DatePicker.lang.dateTimeFormat": {
+    "Original": "M/D/YYYY HH:mm:ss",
+    "Custom": "M/D/AAAA HH:mm:ss"
+  },
+  "DatePicker.lang.previousMonth": {
+    "Original": "Previous month (PageUp)",
+    "Custom": "Mês anterior (PageUp)"
+  },
+  "DatePicker.lang.nextMonth": {
+    "Original": "Next month (PageDown)",
+    "Custom": "Próximo mês (PageDown)"
+  },
+  "DatePicker.lang.previousYear": {
+    "Original": "Last year (Control + left)",
+    "Custom": "Ano passado (Control + esquerda)"
+  },
+  "DatePicker.lang.nextYear": {
+    "Original": "Next year (Control + right)",
+    "Custom": "No próximo ano (Controle + direita)"
+  },
+  "DatePicker.lang.previousDecade": {
+    "Original": "Last decade",
+    "Custom": "Última década"
+  },
+  "DatePicker.lang.nextDecade": {
+    "Original": "Next decade",
+    "Custom": "Próxima década"
+  },
+  "DatePicker.lang.previousCentury": {
+    "Original": "Last century",
+    "Custom": "Século passado"
+  },
+  "DatePicker.lang.nextCentury": {
+    "Original": "Next century",
+    "Custom": "Próximo século"
+  },
+  "DatePicker.timePickerLocale.placeholder": {
+    "Original": "Select time",
+    "Custom": "Selecione o horário"
+  },
+  "DatePicker.timePickerLocale.rangePlaceholder.0": {
+    "Original": "Start time",
+    "Custom": "Hora de início"
+  },
+  "DatePicker.timePickerLocale.rangePlaceholder.1": {
+    "Original": "End time",
+    "Custom": "Fim do tempo"
+  },
+  "TimePicker.placeholder": {
+    "Original": "Select time",
+    "Custom": "Selecione o horário"
+  },
+  "TimePicker.rangePlaceholder.0": {
+    "Original": "Start time",
+    "Custom": "Hora de início"
+  },
+  "TimePicker.rangePlaceholder.1": {
+    "Original": "End time",
+    "Custom": "Fim do tempo"
+  },
+  "Calendar.lang.placeholder": {
+    "Original": "Select date",
+    "Custom": "Selecione a data"
+  },
+  "Calendar.lang.yearPlaceholder": {
+    "Original": "Select year",
+    "Custom": "Selecione o ano"
+  },
+  "Calendar.lang.quarterPlaceholder": {
+    "Original": "Select quarter",
+    "Custom": "Selecione o trimestre"
+  },
+  "Calendar.lang.monthPlaceholder": {
+    "Original": "Select month",
+    "Custom": "Selecione o mês"
+  },
+  "Calendar.lang.weekPlaceholder": {
+    "Original": "Select week",
+    "Custom": "Selecione a semana"
+  },
+  "Calendar.lang.rangePlaceholder.0": {
+    "Original": "Start date",
+    "Custom": "Data de início"
+  },
+  "Calendar.lang.rangePlaceholder.1": {
+    "Original": "End date",
+    "Custom": "Data final"
+  },
+  "Calendar.lang.rangeYearPlaceholder.0": {
+    "Original": "Start year",
+    "Custom": "Ano inicial"
+  },
+  "Calendar.lang.rangeYearPlaceholder.1": {
+    "Original": "End year",
+    "Custom": "Fim de ano"
+  },
+  "Calendar.lang.rangeQuarterPlaceholder.0": {
+    "Original": "Start quarter",
+    "Custom": "Trimestre inicial"
+  },
+  "Calendar.lang.rangeQuarterPlaceholder.1": {
+    "Original": "End quarter",
+    "Custom": "Fim do trimestre"
+  },
+  "Calendar.lang.rangeMonthPlaceholder.0": {
+    "Original": "Start month",
+    "Custom": "Mês de início"
+  },
+  "Calendar.lang.rangeMonthPlaceholder.1": {
+    "Original": "End month",
+    "Custom": "Fim do mês"
+  },
+  "Calendar.lang.rangeWeekPlaceholder.0": {
+    "Original": "Start week",
+    "Custom": "Semana de início"
+  },
+  "Calendar.lang.rangeWeekPlaceholder.1": {
+    "Original": "End week",
+    "Custom": "Fim de semana"
+  },
+  "Calendar.lang.locale": {
+    "Original": "en_US",
+    "Custom": "em nós"
+  },
+  "Calendar.lang.today": {
+    "Original": "Today",
+    "Custom": "Hoje"
+  },
+  "Calendar.lang.now": {
+    "Original": "Now",
+    "Custom": "Agora"
+  },
+  "Calendar.lang.backToToday": {
+    "Original": "Back to today",
+    "Custom": "De volta a hoje"
+  },
+  "Calendar.lang.ok": {
+    "Original": "Ok",
+    "Custom": "OK"
+  },
+  "Calendar.lang.clear": {
+    "Original": "Clear",
+    "Custom": "Claro"
+  },
+  "Calendar.lang.month": {
+    "Original": "Month",
+    "Custom": "Mês"
+  },
+  "Calendar.lang.year": {
+    "Original": "Year",
+    "Custom": "Ano"
+  },
+  "Calendar.lang.timeSelect": {
+    "Original": "select time",
+    "Custom": "selecione a hora"
+  },
+  "Calendar.lang.dateSelect": {
+    "Original": "select date",
+    "Custom": "Selecione a data"
+  },
+  "Calendar.lang.weekSelect": {
+    "Original": "Choose a week",
+    "Custom": "Escolha uma semana"
+  },
+  "Calendar.lang.monthSelect": {
+    "Original": "Choose a month",
+    "Custom": "Escolha um mês"
+  },
+  "Calendar.lang.yearSelect": {
+    "Original": "Choose a year",
+    "Custom": "Escolha um ano"
+  },
+  "Calendar.lang.decadeSelect": {
+    "Original": "Choose a decade",
+    "Custom": "Escolha uma década"
+  },
+  "Calendar.lang.yearFormat": {
+    "Original": "YYYY",
+    "Custom": "AAAA"
+  },
+  "Calendar.lang.dateFormat": {
+    "Original": "M/D/YYYY",
+    "Custom": "M/D/AAAA"
+  },
+  "Calendar.lang.dayFormat": {
+    "Original": "D",
+    "Custom": "D"
+  },
+  "Calendar.lang.dateTimeFormat": {
+    "Original": "M/D/YYYY HH:mm:ss",
+    "Custom": "M/D/AAAA HH:mm:ss"
+  },
+  "Calendar.lang.previousMonth": {
+    "Original": "Previous month (PageUp)",
+    "Custom": "Mês anterior (PageUp)"
+  },
+  "Calendar.lang.nextMonth": {
+    "Original": "Next month (PageDown)",
+    "Custom": "Próximo mês (PageDown)"
+  },
+  "Calendar.lang.previousYear": {
+    "Original": "Last year (Control + left)",
+    "Custom": "Ano passado (Control + esquerda)"
+  },
+  "Calendar.lang.nextYear": {
+    "Original": "Next year (Control + right)",
+    "Custom": "No próximo ano (Controle + direita)"
+  },
+  "Calendar.lang.previousDecade": {
+    "Original": "Last decade",
+    "Custom": "Última década"
+  },
+  "Calendar.lang.nextDecade": {
+    "Original": "Next decade",
+    "Custom": "Próxima década"
+  },
+  "Calendar.lang.previousCentury": {
+    "Original": "Last century",
+    "Custom": "Século passado"
+  },
+  "Calendar.lang.nextCentury": {
+    "Original": "Next century",
+    "Custom": "Próximo século"
+  },
+  "Calendar.timePickerLocale.placeholder": {
+    "Original": "Select time",
+    "Custom": "Selecione o horário"
+  },
+  "Calendar.timePickerLocale.rangePlaceholder.0": {
+    "Original": "Start time",
+    "Custom": "Hora de início"
+  },
+  "Calendar.timePickerLocale.rangePlaceholder.1": {
+    "Original": "End time",
+    "Custom": "Fim do tempo"
+  },
+  "global.placeholder": {
+    "Original": "Please select",
+    "Custom": "Por favor selecione"
+  },
+  "Table.filterTitle": {
+    "Original": "Filter menu",
+    "Custom": "Menu Filtrar"
+  },
+  "Table.filterConfirm": {
+    "Original": "OK",
+    "Custom": "OK"
+  },
+  "Table.filterReset": {
+    "Original": "Reset",
+    "Custom": "Reiniciar"
+  },
+  "Table.filterEmptyText": {
+    "Original": "No filters",
+    "Custom": "Sem filtros"
+  },
+  "Table.filterCheckall": {
+    "Original": "Select all items",
+    "Custom": "Selecione todos os itens"
+  },
+  "Table.filterSearchPlaceholder": {
+    "Original": "Search in filters",
+    "Custom": "Pesquisar em filtros"
+  },
+  "Table.emptyText": {
+    "Original": "No data",
+    "Custom": "Sem dados"
+  },
+  "Table.selectAll": {
+    "Original": "Select current page",
+    "Custom": "Selecione a página atual"
+  },
+  "Table.selectInvert": {
+    "Original": "Invert current page",
+    "Custom": "Inverter página atual"
+  },
+  "Table.selectNone": {
+    "Original": "Clear all data",
+    "Custom": "Limpar todos os dados"
+  },
+  "Table.selectionAll": {
+    "Original": "Select all data",
+    "Custom": "Selecione todos os dados"
+  },
+  "Table.sortTitle": {
+    "Original": "Sort",
+    "Custom": "Organizar"
+  },
+  "Table.expand": {
+    "Original": "Expand row",
+    "Custom": "Expandir linha"
+  },
+  "Table.collapse": {
+    "Original": "Collapse row",
+    "Custom": "Recolher linha"
+  },
+  "Table.triggerDesc": {
+    "Original": "Click to sort descending",
+    "Custom": "Clique para classificar em ordem decrescente"
+  },
+  "Table.triggerAsc": {
+    "Original": "Click to sort ascending",
+    "Custom": "Clique para classificar em ordem crescente"
+  },
+  "Table.cancelSort": {
+    "Original": "Click to cancel sorting",
+    "Custom": "Clique para cancelar a classificação"
+  },
+  "Modal.okText": {
+    "Original": "OK",
+    "Custom": "OK"
+  },
+  "Modal.cancelText": {
+    "Original": "Cancel",
+    "Custom": "Cancelar"
+  },
+  "Modal.justOkText": {
+    "Original": "OK",
+    "Custom": "OK"
+  },
+  "Popconfirm.okText": {
+    "Original": "OK",
+    "Custom": "OK"
+  },
+  "Popconfirm.cancelText": {
+    "Original": "Cancel",
+    "Custom": "Cancelar"
+  },
+  "Transfer.searchPlaceholder": {
+    "Original": "Search here",
+    "Custom": "Procure aqui"
+  },
+  "Transfer.itemUnit": {
+    "Original": "item",
+    "Custom": "item"
+  },
+  "Transfer.itemsUnit": {
+    "Original": "items",
+    "Custom": "Unid"
+  },
+  "Transfer.remove": {
+    "Original": "Remove",
+    "Custom": "Remover"
+  },
+  "Transfer.selectCurrent": {
+    "Original": "Select current page",
+    "Custom": "Selecione a página atual"
+  },
+  "Transfer.removeCurrent": {
+    "Original": "Remove current page",
+    "Custom": "Remover página atual"
+  },
+  "Transfer.selectAll": {
+    "Original": "Select all data",
+    "Custom": "Selecione todos os dados"
+  },
+  "Transfer.removeAll": {
+    "Original": "Remove all data",
+    "Custom": "Remover todos os dados"
+  },
+  "Transfer.selectInvert": {
+    "Original": "Invert current page",
+    "Custom": "Inverter página atual"
+  },
+  "Upload.uploading": {
+    "Original": "Uploading...",
+    "Custom": "Enviando..."
+  },
+  "Upload.removeFile": {
+    "Original": "Remove file",
+    "Custom": "Remover arquivo"
+  },
+  "Upload.uploadError": {
+    "Original": "Upload error",
+    "Custom": "Erro ao carregar"
+  },
+  "Upload.previewFile": {
+    "Original": "Preview file",
+    "Custom": "Visualizar arquivo"
+  },
+  "Upload.downloadFile": {
+    "Original": "Download file",
+    "Custom": "? Fazer download do arquivo"
+  },
+  "Empty.description": {
+    "Original": "No Data",
+    "Custom": "Sem dados"
+  },
+  "Icon.icon": {
+    "Original": "icon",
+    "Custom": "ícone"
+  },
+  "Text.edit": {
+    "Original": "Edit",
+    "Custom": "Editar"
+  },
+  "Text.copy": {
+    "Original": "Copy",
+    "Custom": "cópia de"
+  },
+  "Text.copied": {
+    "Original": "Copied",
+    "Custom": "Copiado"
+  },
+  "Text.expand": {
+    "Original": "Expand",
+    "Custom": "Expandir"
+  },
+  "PageHeader.back": {
+    "Original": "Back",
+    "Custom": "Voltar"
+  },
+  "Form.optional": {
+    "Original": "(optional)",
+    "Custom": "(opcional)"
+  },
+  "Form.defaultValidateMessages.default": {
+    "Original": "Field validation error for ${label}",
+    "Custom": "Erro de validação de campo para ${label}"
+  },
+  "Form.defaultValidateMessages.required": {
+    "Original": "Please enter ${label}",
+    "Custom": "Insira ${label}"
+  },
+  "Form.defaultValidateMessages.enum": {
+    "Original": "${label} must be one of [${enum}]",
+    "Custom": "${label} deve ser um de [${enum}]"
+  },
+  "Form.defaultValidateMessages.whitespace": {
+    "Original": "${label} cannot be a blank character",
+    "Custom": "${label} não pode ser um caractere em branco"
+  },
+  "Form.defaultValidateMessages.date.format": {
+    "Original": "${label} date format is invalid",
+    "Custom": "O formato de data ${label} é inválido"
+  },
+  "Form.defaultValidateMessages.date.parse": {
+    "Original": "${label} cannot be converted to a date",
+    "Custom": "${label} não pode ser convertido em uma data"
+  },
+  "Form.defaultValidateMessages.date.invalid": {
+    "Original": "${label} is an invalid date",
+    "Custom": "${label} é uma data inválida"
+  },
+  "Form.defaultValidateMessages.types.string": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.types.method": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.types.array": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.types.object": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.types.number": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.types.date": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.types.boolean": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.types.integer": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.types.float": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.types.regexp": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.types.email": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.types.url": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.types.hex": {
+    "Original": "${label} is not a valid ${type}",
+    "Custom": "${label} não é um ${type} válido"
+  },
+  "Form.defaultValidateMessages.string.len": {
+    "Original": "${label} must be ${len} characters",
+    "Custom": "${label} deve ter ${len} caracteres"
+  },
+  "Form.defaultValidateMessages.string.min": {
+    "Original": "${label} must be at least ${min} characters",
+    "Custom": "${label} deve ter pelo menos ${min} caracteres"
+  },
+  "Form.defaultValidateMessages.string.max": {
+    "Original": "${label} must be up to ${max} characters",
+    "Custom": "${label} deve ter até ${max} caracteres"
+  },
+  "Form.defaultValidateMessages.string.range": {
+    "Original": "${label} must be between ${min}-${max} characters",
+    "Custom": "${label} deve ter entre ${min}-${max} caracteres"
+  },
+  "Form.defaultValidateMessages.number.len": {
+    "Original": "${label} must be equal to ${len}",
+    "Custom": "${label} deve ser igual a ${len}"
+  },
+  "Form.defaultValidateMessages.number.min": {
+    "Original": "${label} must be minimum ${min}",
+    "Custom": "${label} deve ser no mínimo ${min}"
+  },
+  "Form.defaultValidateMessages.number.max": {
+    "Original": "${label} must be maximum ${max}",
+    "Custom": "${label} deve ter no máximo ${max}"
+  },
+  "Form.defaultValidateMessages.number.range": {
+    "Original": "${label} must be between ${min}-${max}",
+    "Custom": "${label} deve estar entre ${min}-${max}"
+  },
+  "Form.defaultValidateMessages.array.len": {
+    "Original": "Must be ${len} ${label}",
+    "Custom": "Deve ser ${len} ${label}"
+  },
+  "Form.defaultValidateMessages.array.min": {
+    "Original": "At least ${min} ${label}",
+    "Custom": "Pelo menos ${min} ${label}"
+  },
+  "Form.defaultValidateMessages.array.max": {
+    "Original": "At most ${max} ${label}",
+    "Custom": "No máximo ${max} ${label}"
+  },
+  "Form.defaultValidateMessages.array.range": {
+    "Original": "The amount of ${label} must be between ${min}-${max}",
+    "Custom": "O valor de ${label} deve estar entre ${min}-${max}"
+  },
+  "Form.defaultValidateMessages.pattern.mismatch": {
+    "Original": "${label} does not match the pattern ${pattern}",
+    "Custom": "${label} não corresponde ao padrão ${pattern}"
+  },
+  "Image.preview": {
+    "Original": "Preview",
+    "Custom": "Visualização"
+  },
+  "lang.placeholder": {
+    "Original": "Select date",
+    "Custom": "Selecione a data"
+  },
+  "lang.yearPlaceholder": {
+    "Original": "Select year",
+    "Custom": "Selecione o ano"
+  },
+  "lang.quarterPlaceholder": {
+    "Original": "Select quarter",
+    "Custom": "Selecione o trimestre"
+  },
+  "lang.monthPlaceholder": {
+    "Original": "Select month",
+    "Custom": "Selecione o mês"
+  },
+  "lang.weekPlaceholder": {
+    "Original": "Select week",
+    "Custom": "Selecione a semana"
+  },
+  "lang.rangePlaceholder.0": {
+    "Original": "Start date",
+    "Custom": "Data de início"
+  },
+  "lang.rangePlaceholder.1": {
+    "Original": "End date",
+    "Custom": "Data final"
+  },
+  "lang.rangeYearPlaceholder.0": {
+    "Original": "Start year",
+    "Custom": "Ano inicial"
+  },
+  "lang.rangeYearPlaceholder.1": {
+    "Original": "End year",
+    "Custom": "Fim de ano"
+  },
+  "lang.rangeQuarterPlaceholder.0": {
+    "Original": "Start quarter",
+    "Custom": "Trimestre inicial"
+  },
+  "lang.rangeQuarterPlaceholder.1": {
+    "Original": "End quarter",
+    "Custom": "Fim do trimestre"
+  },
+  "lang.rangeMonthPlaceholder.0": {
+    "Original": "Start month",
+    "Custom": "Mês de início"
+  },
+  "lang.rangeMonthPlaceholder.1": {
+    "Original": "End month",
+    "Custom": "Fim do mês"
+  },
+  "lang.rangeWeekPlaceholder.0": {
+    "Original": "Start week",
+    "Custom": "Semana de início"
+  },
+  "lang.rangeWeekPlaceholder.1": {
+    "Original": "End week",
+    "Custom": "Fim de semana"
+  },
+  "lang.locale": {
+    "Original": "en_US",
+    "Custom": "em nós"
+  },
+  "lang.today": {
+    "Original": "Today",
+    "Custom": "Hoje"
+  },
+  "lang.now": {
+    "Original": "Now",
+    "Custom": "Agora"
+  },
+  "lang.backToToday": {
+    "Original": "Back to today",
+    "Custom": "De volta a hoje"
+  },
+  "lang.ok": {
+    "Original": "Ok",
+    "Custom": "OK"
+  },
+  "lang.clear": {
+    "Original": "Clear",
+    "Custom": "Claro"
+  },
+  "lang.month": {
+    "Original": "Month",
+    "Custom": "Mês"
+  },
+  "lang.year": {
+    "Original": "Year",
+    "Custom": "Ano"
+  },
+  "lang.timeSelect": {
+    "Original": "select time",
+    "Custom": "selecione a hora"
+  },
+  "lang.dateSelect": {
+    "Original": "select date",
+    "Custom": "Selecione a data"
+  },
+  "lang.weekSelect": {
+    "Original": "Choose a week",
+    "Custom": "Escolha uma semana"
+  },
+  "lang.monthSelect": {
+    "Original": "Choose a month",
+    "Custom": "Escolha um mês"
+  },
+  "lang.yearSelect": {
+    "Original": "Choose a year",
+    "Custom": "Escolha um ano"
+  },
+  "lang.decadeSelect": {
+    "Original": "Choose a decade",
+    "Custom": "Escolha uma década"
+  },
+  "lang.yearFormat": {
+    "Original": "YYYY",
+    "Custom": "AAAA"
+  },
+  "lang.dateFormat": {
+    "Original": "M/D/YYYY",
+    "Custom": "M/D/AAAA"
+  },
+  "lang.dayFormat": {
+    "Original": "D",
+    "Custom": "D"
+  },
+  "lang.dateTimeFormat": {
+    "Original": "M/D/YYYY HH:mm:ss",
+    "Custom": "M/D/AAAA HH:mm:ss"
+  },
+  "lang.previousMonth": {
+    "Original": "Previous month (PageUp)",
+    "Custom": "Mês anterior (PageUp)"
+  },
+  "lang.nextMonth": {
+    "Original": "Next month (PageDown)",
+    "Custom": "Próximo mês (PageDown)"
+  },
+  "lang.previousYear": {
+    "Original": "Last year (Control + left)",
+    "Custom": "Ano passado (Control + esquerda)"
+  },
+  "lang.nextYear": {
+    "Original": "Next year (Control + right)",
+    "Custom": "No próximo ano (Controle + direita)"
+  },
+  "lang.previousDecade": {
+    "Original": "Last decade",
+    "Custom": "Última década"
+  },
+  "lang.nextDecade": {
+    "Original": "Next decade",
+    "Custom": "Próxima década"
+  },
+  "lang.previousCentury": {
+    "Original": "Last century",
+    "Custom": "Século passado"
+  },
+  "lang.nextCentury": {
+    "Original": "Next century",
+    "Custom": "Próximo século"
+  },
+  "timePickerLocale.placeholder": {
+    "Original": "Select time",
+    "Custom": "Selecione o horário"
+  },
+  "timePickerLocale.rangePlaceholder.0": {
+    "Original": "Start time",
+    "Custom": "Hora de início"
+  },
+  "timePickerLocale.rangePlaceholder.1": {
+    "Original": "End time",
+    "Custom": "Fim do tempo"
+  },
+  "LOGIN.TIME_ZONE": {
+    "Original": "Time Zone",
+    "Custom": "Fuso horário"
+  },
+  "LOGIN.PASSWORD": {
+    "Original": "Password",
+    "Custom": "Senha"
+  },
+  "LOGIN.ENTER_PASSWORD": {
+    "Original": "Enter password",
+    "Custom": "Digite a senha"
+  },
+  "LOGIN.RE_ENTER_PASSWORD": {
+    "Original": "Re-enter password",
+    "Custom": "Digite novamente a senha"
+  },
+  "LOGIN.CONFIRM_PASSWORD": {
+    "Original": "Confirm Password",
+    "Custom": "Confirme sua senha"
+  },
+  "LOGIN.KEEP_LOGIN": {
+    "Original": "Remember password",
+    "Custom": "Lembrar senha"
+  },
+  "LOGIN.LOG_IN": {
+    "Original": "LOG IN",
+    "Custom": "CONECTE-SE"
+  },
+  "LOGIN.TIP": {
+    "Original": "TIP",
+    "Custom": "DICA"
+  },
+  "LOGIN.DATE_TIME": {
+    "Original": "Date & Time",
+    "Custom": "Data hora"
+  },
+  "LOGIN.FORGOT_PASSWORD": {
+    "Original": "Forgot Password",
+    "Custom": "Esqueceu sua senha"
+  },
+  "LOGIN.FAILED_PLEASE_CHECK": {
+    "Original": "Failed, please check if the device has been reset",
+    "Custom": "Falha, verifique se o dispositivo foi redefinido"
+  },
+  "LOGIN.PRESS_FIVE": {
+    "Original": "Insert a paper clip or a SIM-eject tool into the reset hole and push in twice towards your devices, then click the 'Next step' button below to initiate the password reset procedure after the indicator blinks in blue. ",
+    "Custom": "Insira um clipe de papel ou uma ferramenta de ejeção de SIM no orifício de redefinição e empurre-o duas vezes em direção aos seus dispositivos. Em seguida, clique no botão \"Próxima etapa\" abaixo para iniciar o procedimento de redefinição de senha depois que o indicador piscar em azul."
+  },
+  "LOGIN.INDICATOR": {
+    "Original": "The indicator is blinking rapidly",
+    "Custom": "O indicador está piscando rapidamente"
+  },
+  "LOGIN.PLEASE_FINISH": {
+    "Original": "Please reset the password within 5 minutes.",
+    "Custom": "Por favor, redefina a senha dentro de 5 minutos."
+  },
+  "LOGIN.NEXT": {
+    "Original": "Next",
+    "Custom": "Próximo"
+  },
+  "LOGIN.FORGET_PASSWORD": {
+    "Original": "Forget Password",
+    "Custom": "Esqueceu a senha"
+  },
+  "LOGIN.NEW_PASSWORD": {
+    "Original": "New Password",
+    "Custom": "Nova Senha"
+  },
+  "LOGIN.CONFIRM_NEW_PASSWORD": {
+    "Original": "Confirm your new password",
+    "Custom": "Confirme sua nova senha"
+  },
+  "LOGIN.AT_OVERDUE": {
+    "Original": "Login timeout, please log in again",
+    "Custom": "Tempo limite de login, faça login novamente"
+  },
+  "LOGIN.RES_FAIL": {
+    "Original": "Failed to respond, try again later",
+    "Custom": "Falha ao responder, tente novamente mais tarde"
+  },
+  "LOGIN.BACK": {
+    "Original": "Return",
+    "Custom": "Retornar"
+  },
+  "LOGIN.ENTER_YOUR_PASSWORD": {
+    "Original": "Enter the password",
+    "Custom": "Digite a senha"
+  },
+  "LOGIN.PASSWORD_CAN_NOT_INCLOUD_SPACE": {
+    "Original": "Password can't contain spaces",
+    "Custom": "A senha não pode conter espaços"
+  },
+  "LOGIN.PASSWORD_LENGTH_MAX": {
+    "Original": "Password length of up to 64 characters",
+    "Custom": "Comprimento da senha de até 64 caracteres"
+  },
+  "LOGIN.PASSWORD_UNSAME": {
+    "Original": "The new password does not match",
+    "Custom": "A nova senha não corresponde"
+  },
+  "LOGIN.LOGIN_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "LOGIN.RESET_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "LOGIN.LOGOUT": {
+    "Original": "Confirm to log out?",
+    "Custom": "Confirmar para sair?"
+  },
+  "LOGIN.RETRY": {
+    "Original": "Retry",
+    "Custom": "Tentar novamente"
+  },
+  "LOGIN.RESET_TIMEOUT": {
+    "Original": "Reset password timeout",
+    "Custom": "Redefinir tempo limite da senha"
+  },
+  "LOGIN.PLEASE_TRY_AGAIN": {
+    "Original": "Please try again",
+    "Custom": "Por favor, tente novamente"
+  },
+  "LOGIN.RESET_PASSWORD_TIMEOUT": {
+    "Original": "Time out. Please restart the previous steps to reset your password",
+    "Custom": "Tempo esgotado. Reinicie as etapas anteriores para redefinir sua senha"
+  },
+  "LOGIN.VERSION": {
+    "Original": "version：",
+    "Custom": "versão:"
+  },
+  "LOGIN.FOLLOW_THE_STEPS": {
+    "Original": "Please follow the steps to reset your password.",
+    "Custom": "Siga as etapas para redefinir sua senha."
+  },
+  "ROOM.ADD_ROOMS.SELECT_DEVICE_AND_GROUP": {
+    "Original": "Select devices and groups",
+    "Custom": "Selecione dispositivos e grupos"
+  },
+  "ROOM.ADD_ROOMS.ROOM_NAME_IS_NEED": {
+    "Original": "Enter a Room name",
+    "Custom": "Insira um nome de sala"
+  },
+  "ROOM.ADD_ROOMS.ROOM_NAME_NO_SPACE": {
+    "Original": "Please enter the Room name",
+    "Custom": "Por favor insira o nome da sala"
+  },
+  "ROOM.ADD_DEVICES.USER_MANUAL_MODE": {
+    "Original": "Please refer to the user manual and set the device in paring mode.",
+    "Custom": "Consulte o manual do usuário e coloque o dispositivo no modo de emparelhamento."
+  },
+  "ROOM.ADD_DEVICES.UP_TO_128": {
+    "Original": "Add up to 128 devices in total.",
+    "Custom": "Adicione até 128 dispositivos no total."
+  },
+  "ROOM.ADD_DEVICES.PAIR_TIP": {
+    "Original": "Please take the device as close to the gateway as possible.",
+    "Custom": "Por favor, leve o dispositivo o mais próximo possível do gateway."
+  },
+  "ROOM.ADD_DEVICES.PAIR": {
+    "Original": "Pair",
+    "Custom": "Par"
+  },
+  "ROOM.ADD_DEVICES.MAX_ADVICES": {
+    "Original": "Max end devices added",
+    "Custom": "Máximo de dispositivos finais adicionados"
+  },
+  "ROOM.ADD_DEVICES.DEVICES_FOUND": {
+    "Original": "devices found",
+    "Custom": "dispositivos encontrados"
+  },
+  "ROOM.ADD_DEVICES.ROOM": {
+    "Original": "Room",
+    "Custom": "Sala"
+  },
+  "ROOM.ADD_DEVICES.QUIT": {
+    "Original": "Quit",
+    "Custom": "Desistir"
+  },
+  "ROOM.CREATE_GROUPS.CONTROL_GROUP": {
+    "Original": "Control selected devices all at once by organizing them into a smart group",
+    "Custom": "Controle os dispositivos selecionados de uma só vez, organizando-os em um grupo inteligente"
+  },
+  "ROOM.CREATE_GROUPS.DISMISS_GROUP": {
+    "Original": "Delete Group",
+    "Custom": "Excluir grupo"
+  },
+  "ROOM.CREATE_GROUPS.CHOOSE_A_ROOM": {
+    "Original": "Choose a room",
+    "Custom": "Escolha um quarto"
+  },
+  "ROOM.CREATE_GROUPS.MANAGE_DEVICES": {
+    "Original": "Manage Devices",
+    "Custom": "Gerenciar dispositivos"
+  },
+  "ROOM.CREATE_GROUPS.CUSTOM_GROUP_NAME": {
+    "Original": "Custom group name",
+    "Custom": "Nome do grupo personalizado"
+  },
+  "ROOM.CREATE_GROUPS.DISMISS_DISBAND_GROUP": {
+    "Original": "Devices will be removed from this group",
+    "Custom": "Os dispositivos serão removidos deste grupo"
+  },
+  "ROOM.CREATE_GROUPS.DISMISS_CONTINUE": {
+    "Original": "and this group will be deleted. Proceed?",
+    "Custom": "e este grupo será excluído. Continuar?"
+  },
+  "ROOM.CREATE_GROUPS.GROUP_NAME_IS_NEED": {
+    "Original": "Enter a group name",
+    "Custom": "Insira um nome de grupo"
+  },
+  "ROOM.CREATE_GROUPS.GROUP_NAME_NO_SPACE": {
+    "Original": "Please enter the Group name",
+    "Custom": "Por favor insira o nome do grupo"
+  },
+  "ROOM.CREATE_GROUPS.AT_LEAST_ONE_DEVICE": {
+    "Original": "Please select at least one device",
+    "Custom": "Selecione pelo menos um dispositivo"
+  },
+  "ROOM.DEVICE_DETAIL.OPERATION_LOG": {
+    "Original": "Operation Log",
+    "Custom": "Registro de operação"
+  },
+  "ROOM.DEVICE_DETAIL.DEBUG_LOG": {
+    "Original": "Debug Log",
+    "Custom": "Registro de depuração"
+  },
+  "ROOM.DEVICE_DETAIL.BASIC_INFO": {
+    "Original": "Basic Info",
+    "Custom": "Informação básica"
+  },
+  "ROOM.DEVICE_DETAIL.SHORTCUTS": {
+    "Original": "Shortcuts",
+    "Custom": "Atalhos"
+  },
+  "ROOM.DEVICE_DETAIL.FAHRENHEIT": {
+    "Original": "Fahrenheit",
+    "Custom": "Fahrenheit"
+  },
+  "ROOM.DEVICE_DETAIL.CELSIUS": {
+    "Original": "Celsius",
+    "Custom": "Celsius"
+  },
+  "ROOM.DEVICE_DETAIL.DEVICES_STATUS": {
+    "Original": "Device Status",
+    "Custom": "Status do dispositivo"
+  },
+  "ROOM.DEVICE_DETAIL.WIFI_SIGNAL": {
+    "Original": "RSSI",
+    "Custom": "RSSI"
+  },
+  "ROOM.DEVICE_DETAIL.BATTERY": {
+    "Original": "Battery",
+    "Custom": "Bateria"
+  },
+  "ROOM.DEVICE_DETAIL.DEVICE_INFO": {
+    "Original": "Device Info",
+    "Custom": "Informação do dispositivo"
+  },
+  "ROOM.DEVICE_DETAIL.DEVICE_SETTING": {
+    "Original": "Device Settings",
+    "Custom": "Configurações do dispositivo"
+  },
+  "ROOM.DEVICE_DETAIL.VIEW_RECORDS": {
+    "Original": "View Records",
+    "Custom": "Ver registros"
+  },
+  "ROOM.DEVICE_DETAIL.GROUP_DETAIL": {
+    "Original": "Group Details",
+    "Custom": "Detalhes do grupo"
+  },
+  "ROOM.DEVICE_DETAIL.GROUP_NAME": {
+    "Original": "Group Name",
+    "Custom": "Nome do grupo"
+  },
+  "ROOM.DEVICE_DETAIL.GROUP_DEVICE": {
+    "Original": "All Devices",
+    "Custom": "Todos os dispositivos"
+  },
+  "ROOM.DEVICE_DETAIL.GROUP_POSITION": {
+    "Original": "Location",
+    "Custom": "Localização"
+  },
+  "ROOM.DEVICE_DETAIL.CANCEL": {
+    "Original": "Cancel",
+    "Custom": "Cancelar"
+  },
+  "ROOM.DEVICE_DETAIL.CONFIRM": {
+    "Original": "Confirm",
+    "Custom": "confirme"
+  },
+  "ROOM.DEVICE_DETAIL.IS_DELETE_DEVICE_FROM": {
+    "Original": "Confirm to remove the device from {groupName}?",
+    "Custom": "Confirmar para remover o dispositivo de {groupName}?"
+  },
+  "ROOM.DEVICE_DETAIL.MANUFACTURER": {
+    "Original": "Manufacturer",
+    "Custom": "Fabricante"
+  },
+  "ROOM.DEVICE_DETAIL.GROUPS": {
+    "Original": "Groups",
+    "Custom": "Grupos"
+  },
+  "ROOM.DEVICE_DETAIL.TEMP_UNITS": {
+    "Original": "Temp Units",
+    "Custom": "Unidades de temperatura"
+  },
+  "ROOM.DEVICE_DETAIL.AUTO_SETTING": {
+    "Original": "Auto Setting",
+    "Custom": "Configuração automática"
+  },
+  "ROOM.DEVICE_DETAIL.MANUAL_SETTING": {
+    "Original": "Manual Setting",
+    "Custom": "Configuração manual"
+  },
+  "ROOM.DEVICE_DETAIL.COMFORT_LEVEL": {
+    "Original": "Comfort Level",
+    "Custom": "Nível de conforto"
+  },
+  "ROOM.DEVICE_DETAIL.COMFORT_LEVEL_SETTING": {
+    "Original": "Comfort Level Setting",
+    "Custom": "Configuração do nível de conforto"
+  },
+  "ROOM.DEVICE_DETAIL.RESTART_DEVICE": {
+    "Original": "Reboot",
+    "Custom": "Reinício"
+  },
+  "ROOM.DEVICE_DETAIL.SMART_SECURITY_DETAILS": {
+    "Original": "Smart Security Details",
+    "Custom": "Detalhes de segurança inteligente"
+  },
+  "ROOM.DEVICE_DETAIL.CURRENT_VERSION": {
+    "Original": "Current Version",
+    "Custom": "Versão Atual"
+  },
+  "ROOM.DEVICE_DETAIL.DATE": {
+    "Original": "Date",
+    "Custom": "Data"
+  },
+  "ROOM.DEVICE_DETAIL.EXPORT": {
+    "Original": "Export",
+    "Custom": "Exportar"
+  },
+  "ROOM.DEVICE_DETAIL.INDEX": {
+    "Original": "Index",
+    "Custom": "Índice"
+  },
+  "ROOM.DEVICE_DETAIL.TYPE": {
+    "Original": "Type",
+    "Custom": "Tipo"
+  },
+  "ROOM.DEVICE_DETAIL.LOG_CONTENT": {
+    "Original": "Log Content",
+    "Custom": "Registrar conteúdo"
+  },
+  "ROOM.DEVICE_DETAIL.CLOSED": {
+    "Original": "Closed",
+    "Custom": "Fechado"
+  },
+  "ROOM.DEVICE_DETAIL.SCENE_DETAILS": {
+    "Original": "Scene Details",
+    "Custom": "Detalhes da cena"
+  },
+  "ROOM.DEVICE_DETAIL.SCENE_NAME": {
+    "Original": "Scene Name",
+    "Custom": "Nome da cena"
+  },
+  "ROOM.DEVICE_DETAIL.DELETE_DEVICE": {
+    "Original": "Delete Device",
+    "Custom": "Excluir dispositivo"
+  },
+  "ROOM.DEVICE_DETAIL.TRIGGERS": {
+    "Original": "Triggers",
+    "Custom": "Gatilhos"
+  },
+  "ROOM.DEVICE_DETAIL.ACTIONS": {
+    "Original": "Actions",
+    "Custom": "Ações"
+  },
+  "ROOM.DEVICE_DETAIL.EFFECTIVE_PERIOD": {
+    "Original": "Effective Period",
+    "Custom": "Período Efetivo"
+  },
+  "ROOM.DEVICE_DETAIL.STATUS": {
+    "Original": "Status",
+    "Custom": "Status"
+  },
+  "ROOM.DEVICE_DETAIL.ASSIGN_LOCATION": {
+    "Original": "Assign Location",
+    "Custom": "Atribuir localização"
+  },
+  "ROOM.DEVICE_DETAIL.DEVICES_DELETE": {
+    "Original": "Devices will be removed from this room and the room will be deleted.",
+    "Custom": "Os dispositivos serão removidos desta sala e a sala será excluída."
+  },
+  "ROOM.DEVICE_DETAIL.NO_RECORDS": {
+    "Original": "No records",
+    "Custom": "Não há registros"
+  },
+  "ROOM.DEVICE_DETAIL.OPERATION": {
+    "Original": "Operation",
+    "Custom": "Operação"
+  },
+  "ROOM.DEVICE_DETAIL.ARMED": {
+    "Original": "Armed",
+    "Custom": "Armado"
+  },
+  "ROOM.DEVICE_DETAIL.DEACTIVATE": {
+    "Original": "Disable",
+    "Custom": "Desativar"
+  },
+  "ROOM.DEVICE_DETAIL.DISARMED": {
+    "Original": "Disarmed",
+    "Custom": "Desarmado"
+  },
+  "ROOM.DEVICE_DETAIL.TRIGGER_DEVICES": {
+    "Original": "Trigger devices",
+    "Custom": "Dispositivos de gatilho"
+  },
+  "ROOM.DEVICE_DETAIL.ALARM_BEEPS": {
+    "Original": "Alarm Beeps",
+    "Custom": "Bipes de alarme"
+  },
+  "ROOM.DEVICE_DETAIL.MODE_NAME": {
+    "Original": "Mode Name",
+    "Custom": "Nome do modo"
+  },
+  "ROOM.DEVICE_DETAIL.DEVICE_DETAIL": {
+    "Original": "Device Info",
+    "Custom": "Informação do dispositivo"
+  },
+  "ROOM.DEVICE_DETAIL.SIGN_STATUS_BAD": {
+    "Original": "Weak",
+    "Custom": "Fraco"
+  },
+  "ROOM.DEVICE_DETAIL.SIGN_STATUS_GOOD": {
+    "Original": "Good",
+    "Custom": "Bom"
+  },
+  "ROOM.DEVICE_DETAIL.SIGN_STATUS_VERY_GOOD": {
+    "Original": "Strong",
+    "Custom": "Forte"
+  },
+  "ROOM.DEVICE_DETAIL.LOW_BATTERY_MESSAGE": {
+    "Original": "below 10% power, please replace the battery in time!",
+    "Custom": "abaixo de 10% de energia, substitua a bateria a tempo!"
+  },
+  "ROOM.DEVICE_DETAIL.AI_DETECTION": {
+    "Original": "AI Detection",
+    "Custom": "Detecção de IA"
+  },
+  "ROOM.DEVICE_DETAIL.AI_DETECTION_DETAIL": {
+    "Original": "AI Detection Details",
+    "Custom": "Detalhes de detecção de IA"
+  },
+  "ROOM.DEVICE_DETAIL.NAME": {
+    "Original": "Name",
+    "Custom": "Nome"
+  },
+  "ROOM.DEVICE_DETAIL.DETECTION_OBJECT": {
+    "Original": "Detection",
+    "Custom": "Detecção"
+  },
+  "ROOM.DEVICE_DETAIL.INTERACTION": {
+    "Original": "Actions",
+    "Custom": "Ações"
+  },
+  "ROOM.DEVICE_DETAIL.DELAY": {
+    "Original": "Delay",
+    "Custom": "Atraso"
+  },
+  "ROOM.DEVICE_DETAIL.GO_TO_EDIT": {
+    "Original": "Edit",
+    "Custom": "Editar"
+  },
+  "ROOM.DEVICE_DETAIL.AI_DETECTION_TIP": {
+    "Original": "Detection is enabled, you can't edit now",
+    "Custom": "A detecção está ativada, você não pode editar agora"
+  },
+  "ROOM.DEVICE_DETAIL.MOTOR_REVERSE": {
+    "Original": "Reverse Motor",
+    "Custom": "Motor reverso"
+  },
+  "ROOM.DEVICE_DETAIL.POWER_REACTION": {
+    "Original": "The state of the device when the power restores from a power outage or being turned off physically.",
+    "Custom": "O estado do dispositivo quando a energia é restaurada após uma queda de energia ou quando é desligada fisicamente."
+  },
+  "ROOM.DEVICE_DETAIL.POWER_OPEN": {
+    "Original": "ON",
+    "Custom": "SOBRE"
+  },
+  "ROOM.DEVICE_DETAIL.POWER_CLOSE": {
+    "Original": "OFF",
+    "Custom": "DESLIGADO"
+  },
+  "ROOM.DEVICE_DETAIL.POWER_STAY": {
+    "Original": "Last state",
+    "Custom": "Último estado"
+  },
+  "ROOM.DEVICE_DETAIL.CLICK_TO_EXECUTE": {
+    "Original": "Tap to run",
+    "Custom": "Toque para correr"
+  },
+  "ROOM.DEVICE_DETAIL.TIMER": {
+    "Original": "Timer",
+    "Custom": "Cronômetro"
+  },
+  "ROOM.DEVICE_DETAIL.VOLUME": {
+    "Original": "Volume",
+    "Custom": "Volume"
+  },
+  "ROOM.DEVICE_DETAIL.SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "ROOM.DEVICE_DETAIL.SENSITIVITY": {
+    "Original": "Sensitivity",
+    "Custom": "Sensibilidade"
+  },
+  "ROOM.DEVICE_DETAIL.DETECTION_INTERVAL": {
+    "Original": "Detection Period",
+    "Custom": "Período de detecção"
+  },
+  "ROOM.DEVICE_DETAIL.SENSITIVITY_TIP": {
+    "Original": "Detection range increases with sensitivity.",
+    "Custom": "O alcance de detecção aumenta com a sensibilidade."
+  },
+  "ROOM.DEVICE_DETAIL.DETECTION_INTERVAL_TIP": {
+    "Original": "Report no one present after specified duration of time.",
+    "Custom": "Informe que ninguém está presente após o período de tempo especificado."
+  },
+  "ROOM.DEVICE_DETAIL.DETECTION_INTERVAL_GREATER_THAN_ZERO": {
+    "Original": "The detection interval must be greater than 0",
+    "Custom": "O intervalo de detecção deve ser maior que 0"
+  },
+  "ROOM.DEVICE_DETAIL.TARGET_TEMPERATURE": {
+    "Original": "Target Temp.",
+    "Custom": "Temperatura alvo."
+  },
+  "ROOM.DEVICE_DETAIL.RUN_MODE": {
+    "Original": "Modes",
+    "Custom": "Modos"
+  },
+  "ROOM.DEVICE_DETAIL.MODE_AUTO": {
+    "Original": "Auto",
+    "Custom": "Auto"
+  },
+  "ROOM.DEVICE_DETAIL.MODE_REFRIGERATION": {
+    "Original": "Cool",
+    "Custom": "Legal"
+  },
+  "ROOM.DEVICE_DETAIL.MODE_HEAT": {
+    "Original": "Heat",
+    "Custom": "Aquecer"
+  },
+  "ROOM.DEVICE_DETAIL.MODE_AIR_SUPPLY": {
+    "Original": "Fan",
+    "Custom": "Fã"
+  },
+  "ROOM.DEVICE_DETAIL.MODE_DEHUMIDIFICATION": {
+    "Original": "Dry",
+    "Custom": "Seco"
+  },
+  "ROOM.DEVICE_DETAIL.GEAR": {
+    "Original": "speed",
+    "Custom": "velocidade"
+  },
+  "ROOM.DEVICE_DETAIL.WIND_SPEED": {
+    "Original": "Fan Speed",
+    "Custom": "Velocidade do ventilador"
+  },
+  "ROOM.DEVICE_DETAIL.FUNCTION": {
+    "Original": "Functions",
+    "Custom": "Funções"
+  },
+  "ROOM.DEVICE_DETAIL.FUNCTION_SWING_UP_DOWN": {
+    "Original": "V.Swing",
+    "Custom": "V.Swing"
+  },
+  "ROOM.DEVICE_DETAIL.FUNCTION_SWING_LEFT_RIGHT": {
+    "Original": "H.Swing",
+    "Custom": "H.Swing"
+  },
+  "ROOM.DEVICE_DETAIL.FUNCTION_ANTI_DIRECT": {
+    "Original": "Breeze Away",
+    "Custom": "Brisa longe"
+  },
+  "ROOM.DEVICE_DETAIL.FUNCTION_ECO": {
+    "Original": "eco",
+    "Custom": "ecológico"
+  },
+  "ROOM.DEVICE_DETAIL.MODE_NORMAL": {
+    "Original": "Normal",
+    "Custom": "Normal"
+  },
+  "ROOM.DEVICE_DETAIL.MODE_SLEEP": {
+    "Original": "Sleep",
+    "Custom": "Dormir"
+  },
+  "ROOM.DEVICE_DETAIL.MODE_CHILD": {
+    "Original": "Child",
+    "Custom": "Criança"
+  },
+  "ROOM.DEVICE_DETAIL.SWING_HORIZONTAL": {
+    "Original": "Horizontal Swing",
+    "Custom": "Balanço Horizontal"
+  },
+  "ROOM.DEVICE_DETAIL.SWING_VERTICAL": {
+    "Original": "Vertical Swing",
+    "Custom": "Balanço Vertical"
+  },
+  "ROOM.DEVICE_DETAIL.COLD_LIGHT": {
+    "Original": "Cool",
+    "Custom": "Legal"
+  },
+  "ROOM.DEVICE_DETAIL.WARM_LIGHT": {
+    "Original": "Warm",
+    "Custom": "Esquentar"
+  },
+  "ROOM.DEVICE_DETAIL.NEUTRAL_LIGHT": {
+    "Original": "Neutral",
+    "Custom": "Neutro"
+  },
+  "ROOM.DEVICE_DETAIL.POWER": {
+    "Original": "Power",
+    "Custom": "Poder"
+  },
+  "ROOM.DEVICE_DETAIL.POWER_CONSUMPTION": {
+    "Original": "Consumption",
+    "Custom": "Consumo"
+  },
+  "ROOM.DEVICE_DETAIL.REAL_TIME_POWER_CONSUMPTION": {
+    "Original": "Real-time",
+    "Custom": "Tempo real"
+  },
+  "ROOM.DEVICE_DETAIL.START": {
+    "Original": "Start",
+    "Custom": "Começar"
+  },
+  "ROOM.DEVICE_DETAIL.HISTORY_RECORD": {
+    "Original": "History Record",
+    "Custom": "Registro histórico"
+  },
+  "ROOM.DEVICE_DETAIL.STOP": {
+    "Original": "Stop",
+    "Custom": "Parar"
+  },
+  "ROOM.DEVICE_DETAIL.FROM": {
+    "Original": "From",
+    "Custom": "De"
+  },
+  "ROOM.DEVICE_DETAIL.TO": {
+    "Original": "To",
+    "Custom": "Para"
+  },
+  "ROOM.DEVICE_DETAIL.FEE_RATE": {
+    "Original": "Rate",
+    "Custom": "Avaliar"
+  },
+  "ROOM.DEVICE_DETAIL.FEE_RATE_IS_NEED": {
+    "Original": "Enter rate",
+    "Custom": "Insira a taxa"
+  },
+  "ROOM.DEVICE_DETAIL.THRESHOLD_SETTING": {
+    "Original": "OPS",
+    "Custom": "OPS"
+  },
+  "ROOM.DEVICE_DETAIL.NOT_SETTING": {
+    "Original": "Not set",
+    "Custom": "Não configurado"
+  },
+  "ROOM.DEVICE_DETAIL.THRESHOLD_SETTING_TIP": {
+    "Original": "Any conditions met, the device will turn itself off.",
+    "Custom": "Quaisquer condições atendidas, o dispositivo desligará automaticamente."
+  },
+  "ROOM.DEVICE_DETAIL.THRESHOLD_SETTING_MODAL_TIP": {
+    "Original": "Set parameters based on user manual.",
+    "Custom": "Defina parâmetros com base no manual do usuário."
+  },
+  "ROOM.DEVICE_DETAIL.MIN_POWER": {
+    "Original": "Min. Power",
+    "Custom": "Min. Poder"
+  },
+  "ROOM.DEVICE_DETAIL.MAX_POWER": {
+    "Original": "Max. Power",
+    "Custom": "Máx. Poder"
+  },
+  "ROOM.DEVICE_DETAIL.VOLTAGE": {
+    "Original": "Voltage",
+    "Custom": "Tensão"
+  },
+  "ROOM.DEVICE_DETAIL.CURRENT": {
+    "Original": "Current",
+    "Custom": "Atual"
+  },
+  "ROOM.DEVICE_DETAIL.KWH": {
+    "Original": "kWh",
+    "Custom": "kWh"
+  },
+  "ROOM.DEVICE_DETAIL.MIN_POWER_RANGE_WARNING": {
+    "Original": "Min. Power Range {min}~{max}{unit}",
+    "Custom": "Min. Faixa de potência {min}~{max}{unit}"
+  },
+  "ROOM.DEVICE_DETAIL.MAX_POWER_RANGE_WARNING": {
+    "Original": "Max. Power Range {min}~{max}{unit}",
+    "Custom": "Máx. Faixa de potência {min}~{max}{unit}"
+  },
+  "ROOM.DEVICE_DETAIL.MAX_ELECTRIC_RANGE_WARNING": {
+    "Original": "Voltage Range {min}~{max}{unit}",
+    "Custom": "Faixa de tensão {min}~{max}{unit}"
+  },
+  "ROOM.DEVICE_DETAIL.MAX_VOLTAGE_RANGE_WARNING": {
+    "Original": "Current Range {min}~{max}{unit}",
+    "Custom": "Intervalo atual {min}~{max}{unit}"
+  },
+  "ROOM.DEVICE_DETAIL.MAX_POWER_VALUE_SHOULD_HIGHER_THAN_MIN_POWER_VALUE": {
+    "Original": "The maximum power must be higher than the minimum.",
+    "Custom": "A potência máxima deve ser superior à mínima."
+  },
+  "ROOM.DEVICE_DETAIL.PLEASE_ENTER_VALUE": {
+    "Original": "Please enter a value.",
+    "Custom": "Por favor insira um valor."
+  },
+  "ROOM.DEVICE_DETAIL.MIN_VALUE": {
+    "Original": "Min",
+    "Custom": "Mínimo"
+  },
+  "ROOM.DEVICE_DETAIL.MAX_VALUE": {
+    "Original": "Max",
+    "Custom": "Máx."
+  },
+  "ROOM.CAMERA.THE_USERNAME_OR_PASSWORD": {
+    "Original": "The username or password does not match the one in RTSP",
+    "Custom": "O nome de usuário ou senha não corresponde ao do RTSP"
+  },
+  "ROOM.CAMERA.TO_ONVIF": {
+    "Original": "Auto Search",
+    "Custom": "Pesquisa automatica"
+  },
+  "ROOM.CAMERA.TO_ONVIF_DETAIL": {
+    "Original": "Searching for ONVIF cameras",
+    "Custom": "Procurando câmeras ONVIF"
+  },
+  "ROOM.CAMERA.MANUAL_ADD": {
+    "Original": "Add Manually",
+    "Custom": "Adicionar manualmente"
+  },
+  "ROOM.CAMERA.MANUAL_ADD_DETAIL": {
+    "Original": "Add RTSP camera manually",
+    "Custom": "Adicionar câmera RTSP manualmente"
+  },
+  "ROOM.CAMERA.ADD_ESP_DETAIL": {
+    "Original": "Add ESP32-CAM",
+    "Custom": "Adicionar ESP32-CAM"
+  },
+  "ROOM.CAMERA.ESP_STREAM": {
+    "Original": "Image Path",
+    "Custom": "Caminho da imagem"
+  },
+  "ROOM.CAMERA.ERROR_FORMAT": {
+    "Original": "Incorrect format",
+    "Custom": "Formato incorreto"
+  },
+  "ROOM.CAMERA.ADD": {
+    "Original": "Add",
+    "Custom": "Adicionar"
+  },
+  "ROOM.CAMERA.SUPPORT_ESP": {
+    "Original": "Support ESP32-CAM,Refer to",
+    "Custom": "Suporte ESP32-CAM, consulte"
+  },
+  "ROOM.CAMERA.ONVIF_REST": {
+    "Original": "In LAN searching, remaining",
+    "Custom": "Na pesquisa de LAN, o restante"
+  },
+  "ROOM.CAMERA.ONVIF_AGAIN": {
+    "Original": "Search again",
+    "Custom": "Procure denovo"
+  },
+  "ROOM.CAMERA.PLEASE": {
+    "Original": "Please make sure the camera",
+    "Custom": "Por favor, certifique-se de que a câmera"
+  },
+  "ROOM.CAMERA.THE_SAME_NETWORK": {
+    "Original": "and iHost are connected to the same network",
+    "Custom": "e iHost estão conectados à mesma rede"
+  },
+  "ROOM.CAMERA.NUM_CAMERA_FOUND": {
+    "Original": "device(s) found",
+    "Custom": "dispositivos encontrados"
+  },
+  "ROOM.CAMERA.NO_SEARCH_CAMERA": {
+    "Original": "Not found",
+    "Custom": "Não encontrado"
+  },
+  "ROOM.CAMERA.CAN_NOT_ONVIF": {
+    "Original": "iHost is searching for ONVIF cameras, please try later. Or you can add RTSP cameras manually.",
+    "Custom": "O iHost está procurando câmeras ONVIF. Tente mais tarde. Ou você pode adicionar câmeras RTSP manualmente."
+  },
+  "ROOM.CAMERA.CLOSE": {
+    "Original": "Closed",
+    "Custom": "Fechado"
+  },
+  "ROOM.CAMERA.IP_ADDRESS": {
+    "Original": "IP Address",
+    "Custom": "Endereço de IP"
+  },
+  "ROOM.CAMERA.CAMERA_USER_NAME": {
+    "Original": "Username",
+    "Custom": "Nome de usuário"
+  },
+  "ROOM.CAMERA.CAMERA_PASSWORD": {
+    "Original": "Password",
+    "Custom": "Senha"
+  },
+  "ROOM.CAMERA.USERNAME_PASSWORD_TIP": {
+    "Original": "Please fill out your username and password if the camera requires authentication to access the video stream",
+    "Custom": "Preencha seu nome de usuário e senha se a câmera exigir autenticação para acessar o stream de vídeo"
+  },
+  "ROOM.CAMERA.ALREADY_ADD": {
+    "Original": "Added",
+    "Custom": "Adicionado"
+  },
+  "ROOM.CAMERA.CAMERA_USER_NAME_NO_SPACE": {
+    "Original": "Please enter the Username",
+    "Custom": "Por favor insira o nome de usuário"
+  },
+  "ROOM.CAMERA.CAMERA_USER_NAME__NO_CHINESE": {
+    "Original": "Username not allowed to be Chinese",
+    "Custom": "O nome de usuário não pode ser chinês"
+  },
+  "ROOM.CAMERA.CAMERA_PASSWORD_NO_SPACE": {
+    "Original": "Please enter the Password",
+    "Custom": "Por favor insira a senha"
+  },
+  "ROOM.CAMERA.CAMERA_PASSWORD__NO_CHINESE": {
+    "Original": "Password not allowed to be Chinese",
+    "Custom": "A senha não pode ser chinesa"
+  },
+  "ROOM.CAMERA.ESP_STREAM_IS_NEED": {
+    "Original": "Enter an image path",
+    "Custom": "Insira um caminho de imagem"
+  },
+  "ROOM.CAMERA.ESP_STREAM_NO_SPACE": {
+    "Original": "Please enter the image path",
+    "Custom": "Por favor insira o caminho da imagem"
+  },
+  "ROOM.CAMERA.ADD_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "ROOM.CAMERA.RTSP_ADDRESS": {
+    "Original": "RTSP address",
+    "Custom": "Endereço RTSP"
+  },
+  "ROOM.CAMERA.CAMERA_IP": {
+    "Original": "IP address",
+    "Custom": "endereço de IP"
+  },
+  "ROOM.CAMERA.EDIT_IP_TIP": {
+    "Original": "Please be cautious that changing the IP address can affect your video viewing and the enabled AI Detection.",
+    "Custom": "Tenha cuidado, pois a alteração do endereço IP pode afetar a visualização do vídeo e a detecção de IA ativada."
+  },
+  "ROOM.CAMERA.NO_FILL": {
+    "Original": "Unfilled",
+    "Custom": "Não preenchido"
+  },
+  "ROOM.CAMERA.EDIT_USERNAME_PASSWORD_EDIT": {
+    "Original": "Please be cautious that changing the username or password can affect your video viewing and the enabled AI Detection.",
+    "Custom": "Tenha cuidado, pois a alteração do nome de usuário ou da senha pode afetar a visualização do vídeo e a detecção de IA ativada."
+  },
+  "ROOM.CAMERA.IP_IS_NEED": {
+    "Original": "Please enter the IP Address",
+    "Custom": "Por favor insira o endereço IP"
+  },
+  "ROOM.CAMERA.IP_NO_SPACE": {
+    "Original": "Please enter the IP Address",
+    "Custom": "Por favor insira o endereço IP"
+  },
+  "ROOM.CAMERA.CAMERA_USER_NAME_IS_NEED": {
+    "Original": "Please enter the Username",
+    "Custom": "Por favor insira o nome de usuário"
+  },
+  "ROOM.CAMERA.CAMERA_PASSWORD_IS_NEED": {
+    "Original": "Please enter the Password",
+    "Custom": "Por favor insira a senha"
+  },
+  "ROOM.CAMERA.ADD_CAMERA": {
+    "Original": "Add cameras",
+    "Custom": "Adicionar câmeras"
+  },
+  "ROOM.CAMERA.RTSP_ADDRESS_IS_NEED": {
+    "Original": "Enter a RTSP address",
+    "Custom": "Insira um endereço RTSP"
+  },
+  "ROOM.CAMERA.RTSP_ADDRESS_NO_SPACE": {
+    "Original": "Please enter the RTSP address",
+    "Custom": "Por favor insira o endereço RTSP"
+  },
+  "ROOM.CAMERA.CONNECT_ERROR_TRY_AGAIN": {
+    "Original": "Failed to view,Please try again",
+    "Custom": "Falha ao visualizar, tente novamente"
+  },
+  "ROOM.CAMERA.CONNECT_ERROR": {
+    "Original": "Failed to view",
+    "Custom": "Falha ao visualizar"
+  },
+  "ROOM.CAMERA.DEVICE_OFFLINE": {
+    "Original": "Device offline",
+    "Custom": "Dispositivo off-line"
+  },
+  "ROOM.CAMERA.CHECK_IMG_PATH": {
+    "Original": "Please check if the image path is correct",
+    "Custom": "Verifique se o caminho da imagem está correto"
+  },
+  "ROOM.CAMERA.ACCOUNT_OR_PASSWORD_MISTAKE": {
+    "Original": "incorrect username or password, please check.",
+    "Custom": "nome de usuário ou senha incorretos, verifique."
+  },
+  "ROOM.CAMERA.VIDEO_FORMAT_MISTAKE": {
+    "Original": "Unsupported video format",
+    "Custom": "Formato de vídeo não suportado"
+  },
+  "ROOM.CAMERA.VIDEO_UNNETWORK": {
+    "Original": "Device offline, unable to operate",
+    "Custom": "Dispositivo off-line, incapaz de operar"
+  },
+  "ROOM.CAMERA.CAMERA": {
+    "Original": "Camera",
+    "Custom": "Câmera"
+  },
+  "ROOM.CAMERA.CAMERA_IS_PLAYING": {
+    "Original": "Camera is streaming",
+    "Custom": "A câmera está transmitindo"
+  },
+  "ROOM.CAMERA.OTHER_CAMERA_IN_DETECTION": {
+    "Original": "Only support the camera with AI detection rule enabled.",
+    "Custom": "Suporta apenas a câmera com a regra de detecção de IA habilitada."
+  },
+  "ROOM.ADD_REMOTE.TITLE": {
+    "Original": "Add eWeLink-Remote Sub-devices",
+    "Custom": "Adicionar subdispositivos eWeLink-Remote"
+  },
+  "ROOM.ADD_REMOTE.DESCRIPTION": {
+    "Original": "iHost supports adding SONOFF R5, Smate, and other eWeLink-Remote sub-devices when you toggle \"eWeLink-Remote Control\" on. Click \"Add eWeLink-Remote sub-devices\" on the device list page to add sub-devices you need. You can add up to 50 eWeLink-Remote sub-devices to your iHost.",
+    "Custom": "O iHost suporta a adição de SONOFF R5, Smate e outros subdispositivos eWeLink-Remote quando você ativa o \"eWeLink-Remote Control\". Clique em \"Adicionar subdispositivos eWeLink-Remote\" na página da lista de dispositivos para adicionar os subdispositivos necessários. Você pode adicionar até 50 subdispositivos eWeLink-Remote ao seu iHost."
+  },
+  "ROOM.ADD_REMOTE.ADD_TIP": {
+    "Original": "Click \"Start Pairing\" button and place your eWeLink-Remote sub-devices as close as possible to the iHost. You can add up to 50 eWeLink-Remote sub-devices to your iHost.",
+    "Custom": "Clique no botão \"Iniciar emparelhamento\" e coloque seus subdispositivos eWeLink-Remote o mais próximo possível do iHost. Você pode adicionar até 50 subdispositivos eWeLink-Remote ao seu iHost."
+  },
+  "ROOM.ADD_REMOTE.START_ADD": {
+    "Original": "Pair",
+    "Custom": "Par"
+  },
+  "ROOM.ADD_REMOTE.STOP_PAIR": {
+    "Original": "Stop pairing",
+    "Custom": "Pare de emparelhar"
+  },
+  "ROOM.ADD_REMOTE.ADDED_DEVICE": {
+    "Original": "eWeLink-Remote {subDevice} have been added.",
+    "Custom": "eWeLink-Remote {subDevice} foi adicionado."
+  },
+  "ROOM.ADD_REMOTE.ADD_REMIND": {
+    "Original": "Please press any button on eWeLink-Remote sub-devices to finish pairing in the countdown.",
+    "Custom": "Pressione qualquer botão nos subdispositivos eWeLink-Remote para finalizar o emparelhamento na contagem regressiva."
+  },
+  "ROOM.ADD": {
+    "Original": "Add",
+    "Custom": "Adicionar"
+  },
+  "ROOM.DEVICE_OFFLINE": {
+    "Original": "Offline",
+    "Custom": "desligada"
+  },
+  "ROOM.DEVICE_NAME_IS_NEED": {
+    "Original": "Enter a device name",
+    "Custom": "Insira um nome de dispositivo"
+  },
+  "ROOM.DEVICE_NAME_NO_SPACE": {
+    "Original": "Please enter the Device name",
+    "Custom": "Por favor insira o nome do dispositivo"
+  },
+  "ROOM.CHANNEL_NAME_IS_NEED": {
+    "Original": "Enter a Channel name",
+    "Custom": "Insira um nome de canal"
+  },
+  "ROOM.CHANNEL_NAME_NO_SPACE": {
+    "Original": "Please enter the Channel name",
+    "Custom": "Por favor insira o nome do canal"
+  },
+  "ROOM.RESTART_DEVICE_TIP": {
+    "Original": "Tips: After clicking \"ok\", the device will restart immediately and try to connect network again in a few minutes, In the meantime, Data may be lost.",
+    "Custom": "Dicas: Após clicar em \"ok\", o dispositivo será reiniciado imediatamente e tentará se conectar à rede novamente em alguns minutos. Enquanto isso, os dados poderão ser perdidos."
+  },
+  "ROOM.DELETE_DEVICE_TIP": {
+    "Original": "Once deleted, All data of the device in iHost will be deleted, confirm to delete the device?",
+    "Custom": "Uma vez excluídos, todos os dados do dispositivo no iHost serão excluídos. Confirme para excluir o dispositivo?"
+  },
+  "ROOM.IS_CONFIRM_DELETE_CAMERA": {
+    "Original": "Confirm to delete this camera?",
+    "Custom": "Confirmar para excluir esta câmera?"
+  },
+  "ROOM.EDIT_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "ROOM.ALL_DEVICES": {
+    "Original": "All Devices",
+    "Custom": "Todos os dispositivos"
+  },
+  "ROOM.NOT_GROUP": {
+    "Original": "Unassigned",
+    "Custom": "Não atribuído"
+  },
+  "ROOM.DRIPPING": {
+    "Original": "Dripping",
+    "Custom": "Gotejamento"
+  },
+  "ROOM.DRIPPING_NOT": {
+    "Original": "No leak detected",
+    "Custom": "Nenhum vazamento detectado"
+  },
+  "ROOM.SWITCH_ON": {
+    "Original": "On",
+    "Custom": "Sobre"
+  },
+  "ROOM.SWITCH_OFF": {
+    "Original": "Off",
+    "Custom": "Desligado"
+  },
+  "ROOM.SWITCH_OFF_ON": {
+    "Original": "Off-On",
+    "Custom": "Desligado-ligado"
+  },
+  "ROOM.SMOKE_DETECTED": {
+    "Original": "Smoke Detected",
+    "Custom": "Fumaça detectada"
+  },
+  "ROOM.MOTION_DETECTED": {
+    "Original": "Motion Detected",
+    "Custom": "Movimento detectado"
+  },
+  "ROOM.MOTION_NOT_DETECTED": {
+    "Original": "No Motion Detected",
+    "Custom": "Nenhum movimento detectado"
+  },
+  "ROOM.OPEN": {
+    "Original": "Open",
+    "Custom": "Abrir"
+  },
+  "ROOM.OPEN_PERSENT": {
+    "Original": "Open {persent}%",
+    "Custom": "Aberto {percent}%"
+  },
+  "ROOM.OPENED": {
+    "Original": "Opened",
+    "Custom": "Aberto"
+  },
+  "ROOM.MULTI_CLICK": {
+    "Original": "{channelName} Click",
+    "Custom": "{canalName} Clique"
+  },
+  "ROOM.CLICK": {
+    "Original": "Click",
+    "Custom": "Clique"
+  },
+  "ROOM.DOUBLE_CLICK": {
+    "Original": "Double-click",
+    "Custom": "Duplo click"
+  },
+  "ROOM.MULTI_DOUBLE_CLICK": {
+    "Original": "{channelName} Double-click",
+    "Custom": "{channelName} Clique duas vezes"
+  },
+  "ROOM.LONG_PRESS": {
+    "Original": "Long Press",
+    "Custom": "Pressão longa"
+  },
+  "ROOM.MULTI_LONG_PRESS": {
+    "Original": "{channelName} Long Press",
+    "Custom": "{channelName} Toque longo"
+  },
+  "ROOM.FULLY_OPENED": {
+    "Original": "Fully Opened",
+    "Custom": "Totalmente aberto"
+  },
+  "ROOM.FULLY_CLOSED": {
+    "Original": "Fully Closed",
+    "Custom": "Totalmente fechado"
+  },
+  "ROOM.CHANNEL": {
+    "Original": "Channel ",
+    "Custom": "Canal"
+  },
+  "ROOM.BUTTON": {
+    "Original": "Button ",
+    "Custom": "Botão"
+  },
+  "ROOM.BRIGHTNESS": {
+    "Original": "Brightness",
+    "Custom": "Brilho"
+  },
+  "ROOM.BRIGHTNESS_PERSENT": {
+    "Original": "Brightness {persent}%",
+    "Custom": "Brilho {persistente}%"
+  },
+  "ROOM.COLOR_TEMP": {
+    "Original": "Color Temp",
+    "Custom": "Temperatura de cor"
+  },
+  "ROOM.TEMP": {
+    "Original": "Temp",
+    "Custom": "Temperatura"
+  },
+  "ROOM.HUMIDITY": {
+    "Original": "Humidity",
+    "Custom": "Umidade"
+  },
+  "ROOM.CURRENT_TEMP": {
+    "Original": "Current Temp",
+    "Custom": "Temperatura atual"
+  },
+  "ROOM.CURRENT_TEMP_PERSENT": {
+    "Original": "Current Temp {temperature}",
+    "Custom": "Temperatura atual {temperatura}"
+  },
+  "ROOM.CURRENT_HUMIDITY": {
+    "Original": "Current Humidity",
+    "Custom": "Umidade Atual"
+  },
+  "ROOM.CURRENT_HUMIDITY_PERCENT": {
+    "Original": "Current Humidity {humidity}%",
+    "Custom": "Umidade atual {humidade}%"
+  },
+  "ROOM.DELETE_ROOM": {
+    "Original": "Delete this room",
+    "Custom": "Excluir esta sala"
+  },
+  "ROOM.ADD_ROOM": {
+    "Original": "Add Room",
+    "Custom": "Adicionar quarto"
+  },
+  "ROOM.EDIT_ROOM": {
+    "Original": "Edit room",
+    "Custom": "Editar sala"
+  },
+  "ROOM.ADD_CAMERA": {
+    "Original": "Add cameras",
+    "Custom": "Adicionar câmeras"
+  },
+  "ROOM.ROOM_NAME": {
+    "Original": "Room Name",
+    "Custom": "Nome da sala"
+  },
+  "ROOM.CUSTOM_ROOM_NAME": {
+    "Original": "Custom room name",
+    "Custom": "Nome personalizado da sala"
+  },
+  "ROOM.CHOOSE_DEVICES": {
+    "Original": "Choose devices",
+    "Custom": "Escolha dispositivos"
+  },
+  "ROOM.DEVICE_NAME": {
+    "Original": "Device Name",
+    "Custom": "Nome do dispositivo"
+  },
+  "ROOM.INPUT_DEVICE_NAME": {
+    "Original": "Enter a device name",
+    "Custom": "Insira um nome de dispositivo"
+  },
+  "ROOM.ADD_GROUP": {
+    "Original": "Add Group",
+    "Custom": "Adicionar grupo"
+  },
+  "ROOM.DEVICE_IN_AUTOMODE": {
+    "Original": "Device is in auto mode.",
+    "Custom": "O dispositivo está no modo automático."
+  },
+  "ROOM.GROUP_NAME": {
+    "Original": "Group Name",
+    "Custom": "Nome do grupo"
+  },
+  "ROOM.END_DEVICE": {
+    "Original": "End Device",
+    "Custom": "Dispositivo final"
+  },
+  "ROOM.ROUTER_DEVICE": {
+    "Original": "Router Device",
+    "Custom": "Dispositivo roteador"
+  },
+  "ROOM.LIGHT_SCENE.BRIGHT": {
+    "Original": "Bright",
+    "Custom": "Brilhante"
+  },
+  "ROOM.LIGHT_SCENE.GOOD_NIGHT": {
+    "Original": "GoodNight",
+    "Custom": "Boa noite"
+  },
+  "ROOM.LIGHT_SCENE.READ": {
+    "Original": "Read",
+    "Custom": "Ler"
+  },
+  "ROOM.LIGHT_SCENE.NIGHTLIGHT": {
+    "Original": "NightLight",
+    "Custom": "Luz noturna"
+  },
+  "ROOM.LIGHT_SCENE.WORK": {
+    "Original": "Work",
+    "Custom": "Trabalhar"
+  },
+  "ROOM.NO_DEVICE": {
+    "Original": "No device",
+    "Custom": "Nenhum dispositivo"
+  },
+  "ROOM.CONFIRM_DELETE_ROOM": {
+    "Original": "Confirm to delete this room?",
+    "Custom": "Confirmar para excluir esta sala?"
+  },
+  "ROOM.ADD_ZIGBEE_DEVICE": {
+    "Original": "Add Zigbee Device",
+    "Custom": "Adicionar dispositivo Zigbee"
+  },
+  "ROOM.SAVE_SUCCESS": {
+    "Original": "Saved",
+    "Custom": "Salvou"
+  },
+  "ROOM.PAIRING": {
+    "Original": "Pairing,Remaining",
+    "Custom": "Emparelhamento, restante"
+  },
+  "ROOM.ALREADY_ADD_NUM_DEVICE": {
+    "Original": "Added {deviceNum} device(s)",
+    "Custom": "Dispositivo(s) {deviceNum} adicionados"
+  },
+  "ROOM.TO_EDIT_GROUP": {
+    "Original": "Edit Group",
+    "Custom": "Editar grupo"
+  },
+  "ROOM.PLEASE_SETTING": {
+    "Original": "Please set limit position with remote control first",
+    "Custom": "Por favor, defina a posição limite com o controle remoto primeiro"
+  },
+  "ROOM.DELETE_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "ROOM.RESTART_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "ROOM.HAVE_NOT_SMOKE": {
+    "Original": "No smoke detected",
+    "Custom": "Nenhuma fumaça detectada"
+  },
+  "ROOM.HAVE_SMOKE": {
+    "Original": "Smoke detected",
+    "Custom": "Fumaça detectada"
+  },
+  "ROOM.HAVE_NO_SMOKE": {
+    "Original": "No smoke",
+    "Custom": "Não fume"
+  },
+  "ROOM.HAVE_WATER": {
+    "Original": "Dripping",
+    "Custom": "Gotejamento"
+  },
+  "ROOM.HAVE_NO_WATER": {
+    "Original": "No leak detected",
+    "Custom": "Nenhum vazamento detectado"
+  },
+  "ROOM.HAVE_SOMEBODY_MOVE": {
+    "Original": "Motion Detected",
+    "Custom": "Movimento detectado"
+  },
+  "ROOM.HAVE_NO_SOMEBODY_MOVE": {
+    "Original": "No Motion",
+    "Custom": "Sem movimento"
+  },
+  "ROOM.HAVE_SOMEBODY_MOVE_AND_BRIGHT": {
+    "Original": "Motion Detected and Ambient Light is Bright",
+    "Custom": "Movimento detectado e luz ambiente brilhante"
+  },
+  "ROOM.HAVE_SOMEBODY_MOVE_AND_DARK": {
+    "Original": "Motion Detected and Ambient Light is Dim",
+    "Custom": "Movimento detectado e luz ambiente fraca"
+  },
+  "ROOM.CLOSED": {
+    "Original": "Closed",
+    "Custom": "Fechado"
+  },
+  "ROOM.PAUSER": {
+    "Original": "Pause",
+    "Custom": "Pausa"
+  },
+  "ROOM.TEM": {
+    "Original": "Adjust color temperature",
+    "Custom": "Ajustar a temperatura da cor"
+  },
+  "ROOM.ADJUST_COLOR": {
+    "Original": "Adjust color",
+    "Custom": "Ajustar cor"
+  },
+  "ROOM.UNKNOWN_OPERATE": {
+    "Original": "Unknown operation",
+    "Custom": "Operação desconhecida"
+  },
+  "ROOM.COLOR": {
+    "Original": "Color",
+    "Custom": "Cor"
+  },
+  "ROOM.ADD_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "ROOM.MACK_SURE": {
+    "Original": "Make sure the device is active and click to get device info",
+    "Custom": "Certifique-se de que o dispositivo esteja ativo e clique para obter informações do dispositivo"
+  },
+  "ROOM.CATEGORY.PLUG": {
+    "Original": "Outlet",
+    "Custom": "Tomada"
+  },
+  "ROOM.CATEGORY.SWITCH": {
+    "Original": "Switch",
+    "Custom": "Trocar"
+  },
+  "ROOM.CATEGORY.CURTAIN": {
+    "Original": "Curtain",
+    "Custom": "Cortina"
+  },
+  "ROOM.CATEGORY.LIGHT": {
+    "Original": "Light",
+    "Custom": "Luz"
+  },
+  "ROOM.CATEGORY.WATER_DETECT": {
+    "Original": "Water Leak Sensor",
+    "Custom": "Sensor de vazamento de água"
+  },
+  "ROOM.CATEGORY.SMOKE_DETECT": {
+    "Original": "Smoke Detector",
+    "Custom": "Detector de fumaça"
+  },
+  "ROOM.CATEGORY.BUTTON": {
+    "Original": "Wireless Button",
+    "Custom": "Botão sem fio"
+  },
+  "ROOM.CATEGORY.TEMP_HUM": {
+    "Original": "Temperature/Humidity Sensor",
+    "Custom": "Sensor de temperatura/umidade"
+  },
+  "ROOM.CATEGORY.TEMP": {
+    "Original": "Temperature Sensor",
+    "Custom": "Sensor de temperatura"
+  },
+  "ROOM.CATEGORY.HUM": {
+    "Original": "Humidity Sensor",
+    "Custom": "Sensor de umidade"
+  },
+  "ROOM.CATEGORY.PIR_DETECT": {
+    "Original": "Motion Sensor",
+    "Custom": "Sensor de movimento"
+  },
+  "ROOM.CATEGORY.DOOR_DETECT": {
+    "Original": "Door/Window Sensor",
+    "Custom": "Sensor de porta/janela"
+  },
+  "ROOM.CATEGORY.CO2": {
+    "Original": "Co2、temperature and humidity sensor",
+    "Custom": "Co2?sensor de temperatura e umidade"
+  },
+  "ROOM.CATEGORY.ILLUMINATION": {
+    "Original": "Illumination sensor",
+    "Custom": "Sensor de iluminação"
+  },
+  "ROOM.CATEGORY.SOILSENSOR": {
+    "Original": "Soil Moisture and Temperature Sensors",
+    "Custom": "Sensores de umidade e temperatura do solo"
+  },
+  "ROOM.CATEGORY.THREE_IN_ONE": {
+    "Original": "3 in 1 sensor",
+    "Custom": "Sensor 3 em 1"
+  },
+  "ROOM.CATEGORY.EIGHT_IN_ONE": {
+    "Original": "8 in 1 sensor",
+    "Custom": "Sensor 8 em 1"
+  },
+  "ROOM.CATEGORY.FAN_LIGHT": {
+    "Original": "fanLight",
+    "Custom": "ventiladorLight"
+  },
+  "ROOM.CATEGORY.REPEATER": {
+    "Original": "Repeater",
+    "Custom": "Repetidor"
+  },
+  "ROOM.CATEGORY.AIR_CONDITIONER": {
+    "Original": "air conditioner",
+    "Custom": "ar condicionado"
+  },
+  "ROOM.CATEGORY.FAN": {
+    "Original": "fan",
+    "Custom": "fã"
+  },
+  "ROOM.CATEGORY.THERMOSTAT": {
+    "Original": "Thermostatic Radiator Valves",
+    "Custom": "Válvulas termostáticas de radiador"
+  },
+  "ROOM.CATEGORY.LIGHT_STRIP": {
+    "Original": "Light Strip",
+    "Custom": "Faixa de luz"
+  },
+  "ROOM.CATEGORY.CAMERA": {
+    "Original": "Camera",
+    "Custom": "Câmera"
+  },
+  "ROOM.CATEGORY.SENSOR": {
+    "Original": "Sensor",
+    "Custom": "Sensor"
+  },
+  "ROOM.POWER_REACTION": {
+    "Original": "Power-on State",
+    "Custom": "Estado ligado"
+  },
+  "ROOM.SCENARIO": {
+    "Original": "Scenario",
+    "Custom": "Cenário"
+  },
+  "ROOM.CLICK_MORE": {
+    "Original": "More Records",
+    "Custom": "Mais registros"
+  },
+  "ROOM.DAY": {
+    "Original": "Day",
+    "Custom": "Dia"
+  },
+  "ROOM.MONTH": {
+    "Original": "Month",
+    "Custom": "Mês"
+  },
+  "ROOM.HALF_YEAR": {
+    "Original": "Half a year",
+    "Custom": "Meio ano"
+  },
+  "ROOM.TIME": {
+    "Original": "Time",
+    "Custom": "Tempo"
+  },
+  "ROOM.HIGH": {
+    "Original": "High",
+    "Custom": "Alto"
+  },
+  "ROOM.LOW": {
+    "Original": "Low",
+    "Custom": "Baixo"
+  },
+  "ROOM.ALARMED": {
+    "Original": "Alarmed",
+    "Custom": "Alarmado"
+  },
+  "ROOM.OFFLINE": {
+    "Original": "Device offline",
+    "Custom": "Dispositivo off-line"
+  },
+  "ROOM.PLEASE_CHECK": {
+    "Original": "Please check if there is any of the following problems:",
+    "Custom": "Verifique se há algum dos seguintes problemas:"
+  },
+  "ROOM.CHECK_IS_POWER": {
+    "Original": "1.The device is not powered.",
+    "Custom": "1.O dispositivo não está ligado."
+  },
+  "ROOM.CHECK_RSSI_DISTANCE": {
+    "Original": "2.The device is far from the gateway, the signal is weak.",
+    "Custom": "2.O dispositivo está longe do gateway, o sinal está fraco."
+  },
+  "ROOM.UNKNOWN": {
+    "Original": "Unknown",
+    "Custom": "Desconhecido"
+  },
+  "ROOM.REPORTING_CYCLE": {
+    "Original": "uplink interval",
+    "Custom": "intervalo de ligação ascendente"
+  },
+  "ROOM.AIR_TEMPERATURE": {
+    "Original": "Temperature",
+    "Custom": "Temperatura"
+  },
+  "ROOM.AIR_HUMIDITY": {
+    "Original": "Humidity",
+    "Custom": "Umidade"
+  },
+  "ROOM.WIND_DIRECTION": {
+    "Original": "wind direction",
+    "Custom": "Direção do vento"
+  },
+  "ROOM.AIR_PRESSURE": {
+    "Original": "Pressure",
+    "Custom": "Pressão"
+  },
+  "ROOM.CONDUCTIVITY": {
+    "Original": "Conductivity",
+    "Custom": "Condutividade"
+  },
+  "ROOM.CO2": {
+    "Original": "CO2",
+    "Custom": "CO2"
+  },
+  "ROOM.MOISTURE": {
+    "Original": "Soil moisture",
+    "Custom": "Umidade do solo"
+  },
+  "ROOM.SOIL_TEMPERATURE": {
+    "Original": " Soil temperature",
+    "Custom": " Temperatura do solo"
+  },
+  "ROOM.ULTRAVIOLET_RAY": {
+    "Original": "UV index",
+    "Custom": "índice UV"
+  },
+  "ROOM.PRECIPITATION": {
+    "Original": "Precipitation",
+    "Custom": "Precipitação"
+  },
+  "ROOM.ILLUMINATION_INTENSITY": {
+    "Original": "Illumination",
+    "Custom": "Iluminação"
+  },
+  "ROOM.WIND_SPEED": {
+    "Original": "Wind",
+    "Custom": "Vento"
+  },
+  "ROOM.HECTOPASCAL": {
+    "Original": "hPa",
+    "Custom": "hPa"
+  },
+  "ROOM.MILLIMETER_HOUR": {
+    "Original": "mm/h",
+    "Custom": "mm/h"
+  },
+  "ROOM.CHECK_THIRD_SERVICE": {
+    "Original": "2.{appName} related service is available.",
+    "Custom": "2. O serviço relacionado ao {appName} está disponível."
+  },
+  "ROOM.THIRD": {
+    "Original": "Related",
+    "Custom": "Relacionado"
+  },
+  "ROOM.THIRD_CONTROL_FAIL": {
+    "Original": "Failed,{appName} related service is unavailable.",
+    "Custom": "Falha, o serviço relacionado ao {appName} não está disponível."
+  },
+  "ROOM.ELECTRICITY_CONSUMPTION_YESTERDAY": {
+    "Original": "Yesterday",
+    "Custom": "Ontem"
+  },
+  "ROOM.ELECTRICITY_CONSUMPTION_TODAY": {
+    "Original": "Today",
+    "Custom": "Hoje"
+  },
+  "ROOM.ELECTRICITY_CONSUMPTION_MONTH": {
+    "Original": "Current Month",
+    "Custom": "Mês atual"
+  },
+  "ROOM.SERVICE_NAME": {
+    "Original": "Service Name",
+    "Custom": "Nome do Serviço"
+  },
+  "ROOM.REAL_TIME_CURRENT": {
+    "Original": "Current",
+    "Custom": "Atual"
+  },
+  "ROOM.REAL_TIME_VOLTAGE": {
+    "Original": "Voltage",
+    "Custom": "Tensão"
+  },
+  "ROOM.REAL_TIME_POWER": {
+    "Original": "Power",
+    "Custom": "Poder"
+  },
+  "ROOM.DATE": {
+    "Original": "Date",
+    "Custom": "Data"
+  },
+  "ROOM.CONSUMPTION": {
+    "Original": "Usage",
+    "Custom": "Uso"
+  },
+  "ROOM.KWH": {
+    "Original": "kWh",
+    "Custom": "kWh"
+  },
+  "ROOM.HISTORY": {
+    "Original": "History",
+    "Custom": "História"
+  },
+  "ROOM.ZIGBEE_MAP": {
+    "Original": "Zigbee Map",
+    "Custom": "Mapa Zigbee"
+  },
+  "ROOM.UPDATE_TIME": {
+    "Original": "Last refreshed：",
+    "Custom": "Última atualização:"
+  },
+  "ROOM.REFRESHING_TIME": {
+    "Original": "Refreshing, this may take {time}, the latest map will be displayed here after a successful refresh.",
+    "Custom": "Atualizando, isso pode levar {time}, o mapa mais recente será exibido aqui após uma atualização bem-sucedida."
+  },
+  "ROOM.GENERATING_ZIGBEE": {
+    "Original": "Generating Zigbee network map may take a few minutes, please wait...",
+    "Custom": "A geração do mapa da rede Zigbee pode levar alguns minutos, aguarde..."
+  },
+  "ROOM.CO_ORDINATOR": {
+    "Original": "Co-ordinator",
+    "Custom": "Coordenador"
+  },
+  "ROOM.ROUTER": {
+    "Original": "Router",
+    "Custom": "Roteador"
+  },
+  "ROOM.ENDDEVICE": {
+    "Original": "End-Device",
+    "Custom": "Dispositivo final"
+  },
+  "ROOM.TIME_UNIT_DAY": {
+    "Original": "Time/(day)",
+    "Custom": "Hora/(dia)"
+  },
+  "ROOM.TIME_UNIT_MONTH": {
+    "Original": "Time/(Month)",
+    "Custom": "Hora/(mês)"
+  },
+  "ROOM.ELECTRICITY_UNIT": {
+    "Original": "Usage/(kWh)",
+    "Custom": "Uso/(kWh)"
+  },
+  "ROOM.CLICK_THE_DEVICE_BUTTON_TO_SAVE": {
+    "Original": "Please press the button once to save",
+    "Custom": "Por favor, pressione o botão uma vez para salvar"
+  },
+  "ROOM.THE_DEVICE_BUTTON_ON_THE_BACK": {
+    "Original": "Please find the button on the back",
+    "Custom": "Por favor, encontre o botão na parte de trás"
+  },
+  "ROOM.DEFAULT": {
+    "Original": "Default",
+    "Custom": "Padrão"
+  },
+  "ROOM.BABY_ROOM": {
+    "Original": "For baby room",
+    "Custom": "Para quarto de bebê"
+  },
+  "ROOM.CLOSET": {
+    "Original": "For clothes storage",
+    "Custom": "Para guardar roupas"
+  },
+  "ROOM.BOOKCASE": {
+    "Original": "For book storage",
+    "Custom": "Para armazenamento de livros"
+  },
+  "ROOM.WINE_STORAGE": {
+    "Original": "For wine storage",
+    "Custom": "Para armazenamento de vinho"
+  },
+  "ROOM.CIGAR_STORAGE": {
+    "Original": "For cigar storage",
+    "Custom": "Para armazenamento de charutos"
+  },
+  "ROOM.FAN_LIGHT.FAN_SWITCH": {
+    "Original": "Fan",
+    "Custom": "Fã"
+  },
+  "ROOM.FAN_LIGHT.LIGHT_SWITCH": {
+    "Original": "Light",
+    "Custom": "Luz"
+  },
+  "ROOM.FAN_LIGHT.NOT_SELECTED": {
+    "Original": "Not selected",
+    "Custom": "Não selecionado"
+  },
+  "ROOM.FAN_LIGHT.GEAR_POSITION": {
+    "Original": "Gear",
+    "Custom": "Engrenagem"
+  },
+  "ROOM.FAN_LIGHT.LOW_NAME": {
+    "Original": "low",
+    "Custom": "baixo"
+  },
+  "ROOM.FAN_LIGHT.MIDDLE_NAME": {
+    "Original": "medium",
+    "Custom": "médio"
+  },
+  "ROOM.FAN_LIGHT.HIGH_NAME": {
+    "Original": "high",
+    "Custom": "alto"
+  },
+  "ROOM.FAN_LIGHT.SCENE_LOW_NAME": {
+    "Original": "low",
+    "Custom": "baixo"
+  },
+  "ROOM.FAN_LIGHT.SCENE_MIDDLE_NAME": {
+    "Original": "medium",
+    "Custom": "médio"
+  },
+  "ROOM.FAN_LIGHT.SCENE_HIGH_NAME": {
+    "Original": "high",
+    "Custom": "alto"
+  },
+  "ROOM.FAN_LIGHT.LOW_SPEED": {
+    "Original": "Fan Low",
+    "Custom": "Ventilador baixo"
+  },
+  "ROOM.FAN_LIGHT.MIDDLE_SPEED": {
+    "Original": "Fan Medium",
+    "Custom": "Ventilador Médio"
+  },
+  "ROOM.FAN_LIGHT.HIGH_SPEED": {
+    "Original": "Fan High",
+    "Custom": "Ventilador alto"
+  },
+  "ROOM.FAN_LIGHT.FAN_OFF": {
+    "Original": "Fan OFF",
+    "Custom": "Ventilador desligado"
+  },
+  "ROOM.NOT_SUPPORT_NOW": {
+    "Original": "Not supported yet",
+    "Custom": "Ainda não suportado"
+  },
+  "ROOM.THIS_DEVICE_NOT_SUPPORT": {
+    "Original": "Device not supported yet",
+    "Custom": "Dispositivo ainda não compatível"
+  },
+  "ROOM.ZIGEBEE2CUBE_TIP": {
+    "Original": "Didn't find the device you wanted to add? Try to enable Zigbee2CUBE to add NON-ZigBee 3.0 standard protocol devices. ",
+    "Custom": "Não encontrou o dispositivo que deseja adicionar? Tente ativar o Zigbee2CUBE para adicionar dispositivos de protocolo padrão NÃO ZigBee 3.0."
+  },
+  "ROOM.GO_OPEN": {
+    "Original": "GO",
+    "Custom": "IR"
+  },
+  "ROOM.MODE_TIP": {
+    "Original": "Please sync it again on eWeLink Smart Home Web UI page after switching to another working mode to avoid damaging the device.",
+    "Custom": "Sincronize-o novamente na página eWeLink Smart Home Web UI após mudar para outro modo de funcionamento para evitar danos ao dispositivo."
+  },
+  "ROOM.UI_CARD.UI_CARD": {
+    "Original": "Custom Tiles",
+    "Custom": "Blocos personalizados"
+  },
+  "ROOM.UI_CARD.UI_CARD_TIP_ANYTHING": {
+    "Original": "The custom tile offers developers versatile content display capabilities through the utilization of the eWeLink CUBE interface. Whether it's a webpage, an image, or a UI service, simply input the URL address of your desired content for seamless showcased.",
+    "Custom": "O bloco personalizado oferece aos desenvolvedores recursos versáteis de exibição de conteúdo por meio da utilização da interface eWeLink CUBE. Quer seja uma página da web, uma imagem ou um serviço de UI, basta inserir o endereço URL do conteúdo desejado para uma exibição perfeita."
+  },
+  "ROOM.UI_CARD.UI_CARD_TIP_SIZE": {
+    "Original": "*Custom tile supports two sizes: 1*1 (170px*170px) and 2*1 (368px*170px) ",
+    "Custom": "*O bloco personalizado suporta dois tamanhos: 1*1 (170px*170px) e 2*1 (368px*170px)"
+  },
+  "ROOM.UI_CARD.CARD_SETTINGS": {
+    "Original": "Configuration",
+    "Custom": "Configuração"
+  },
+  "ROOM.UI_CARD.CARD_SIZE": {
+    "Original": "Tile size",
+    "Custom": "Tamanho do ladrilho"
+  },
+  "ROOM.UI_CARD.DELETE_CARD": {
+    "Original": "Delete",
+    "Custom": "Excluir"
+  },
+  "ROOM.UI_CARD.CONFIRM_TO_DELETE": {
+    "Original": "Confirm to delete the tile?",
+    "Custom": "Confirmar para excluir o bloco?"
+  },
+  "ROOM.UI_CARD.DETAIL": {
+    "Original": "Details",
+    "Custom": "Detalhes"
+  },
+  "ROOM.UI_CARD.REFRESH": {
+    "Original": "Refresh",
+    "Custom": "Atualizar"
+  },
+  "ROOM.UI_CARD.SETTINGS": {
+    "Original": "Settings",
+    "Custom": "Configurações"
+  },
+  "ROOM.UI_CARD.LOADING": {
+    "Original": "Loading",
+    "Custom": "Carregando"
+  },
+  "ROOM.UI_CARD.LOADING_FAIL": {
+    "Original": "Loading failed",
+    "Custom": "Falha no carregamento"
+  },
+  "ROOM.UI_CARD.CARD_NAME": {
+    "Original": "Tile name",
+    "Custom": "Nome do bloco"
+  },
+  "ROOM.UI_CARD.CARD_NAME_IS_NEED": {
+    "Original": "Please enter the Tile name",
+    "Custom": "Por favor insira o nome do bloco"
+  },
+  "ROOM.UI_CARD.CARD_NAME_NO_SPACE": {
+    "Original": "Enter a Tile name",
+    "Custom": "Insira um nome de bloco"
+  },
+  "ROOM.TEMP_AND_HUM_COMFORT.TEMP_RANGE": {
+    "Original": "Temp range {min}-{max}",
+    "Custom": "Faixa de temperatura {min}-{max}"
+  },
+  "ROOM.TEMP_AND_HUM_COMFORT.HUM_RANGE": {
+    "Original": "Humidity range {min}-{max}",
+    "Custom": "Faixa de umidade {min}-{max}"
+  },
+  "ROOM.TEMP_AND_HUM_COMFORT.TEMP_INPUT_ERROR": {
+    "Original": "Upper limit of temperature must be higher than the lower.",
+    "Custom": "O limite superior de temperatura deve ser superior ao inferior."
+  },
+  "ROOM.TEMP_AND_HUM_COMFORT.HUM_INPUT_ERROR": {
+    "Original": "Upper limit of humidity must be higher than the lower.",
+    "Custom": "O limite superior de umidade deve ser maior que o inferior."
+  },
+  "ROOM.TEMP_AND_HUM_COMFORT.TEMP_AND_HUM_RANGE": {
+    "Original": "Temp range {tempMin}-{tempMax}, Humidity range {humMin}-{humMax}",
+    "Custom": "Faixa de temperatura {tempMin}-{tempMax}, faixa de umidade {humMin}-{humMax}"
+  },
+  "ROOM.TEMP_AND_HUM_COMFORT.INPUT_NUMBER_ERROR": {
+    "Original": "Please enter a value",
+    "Custom": "por favor insira um valor"
+  },
+  "ROOM.TEMP_AND_HUM_COMFORT.UPDATE_ERROR": {
+    "Original": "Failed, please try again",
+    "Custom": "Falha, tente novamente"
+  },
+  "ROOM.BAR_INFO_TIP": {
+    "Original": "Link quality indicator (LQI) ranges from 0 to 255. The larger the value, the better the link quality.",
+    "Custom": "O indicador de qualidade do link (LQI) varia de 0 a 255. Quanto maior o valor, melhor será a qualidade do link."
+  },
+  "ROOM.SENSITIVITY_SETTING.HIGH": {
+    "Original": "High",
+    "Custom": "Alto"
+  },
+  "ROOM.SENSITIVITY_SETTING.MIDDLE": {
+    "Original": "Middle",
+    "Custom": "Meio"
+  },
+  "ROOM.SENSITIVITY_SETTING.LOW": {
+    "Original": "Low",
+    "Custom": "Baixo"
+  },
+  "ROOM.REPEATER.WORKING": {
+    "Original": "Repeating signals",
+    "Custom": "Sinais repetidos"
+  },
+  "ROOM.REPEATER.WORKING_STATUS": {
+    "Original": "Repeating signals",
+    "Custom": "Sinais repetidos"
+  },
+  "ROOM.SEARCH_DEVICE": {
+    "Original": "Search device",
+    "Custom": "Dispositivo de pesquisa"
+  },
+  "ROOM.THERMOSTAT.EVERY_DAY": {
+    "Original": "Hourly",
+    "Custom": "De hora em hora"
+  },
+  "ROOM.THERMOSTAT.EVERY_MONTH": {
+    "Original": "Daily",
+    "Custom": "Diário"
+  },
+  "ROOM.THERMOSTAT.EVERY_YEAR": {
+    "Original": "Monthly",
+    "Custom": "Por mês"
+  },
+  "ROOM.THERMOSTAT.TARGET_TEMP": {
+    "Original": "Set at",
+    "Custom": "Fixado em"
+  },
+  "ROOM.THERMOSTAT.CURRENT_TEMP": {
+    "Original": "Temp",
+    "Custom": "Temperatura"
+  },
+  "ROOM.THERMOSTAT.SCHEDULE": {
+    "Original": "Smart Schedule",
+    "Custom": "Agenda Inteligente"
+  },
+  "ROOM.THERMOSTAT.CONFIRM_DELETE_SCHEDULE": {
+    "Original": "Confirm to delete smart schedule?",
+    "Custom": "Confirmar para excluir a programação inteligente?"
+  },
+  "ROOM.THERMOSTAT.HEATING": {
+    "Original": "Heating",
+    "Custom": "Aquecimento"
+  },
+  "ROOM.THERMOSTAT.KEEPING": {
+    "Original": "Keeping",
+    "Custom": "Guardando"
+  },
+  "ROOM.THERMOSTAT.CURRENT_STATUS": {
+    "Original": "Status",
+    "Custom": "Status"
+  },
+  "ROOM.THERMOSTAT.MODE": {
+    "Original": "Mode",
+    "Custom": "Modo"
+  },
+  "ROOM.THERMOSTAT.COPY_SCHEDULE_TO_DEVICE": {
+    "Original": "Copy schedule to other devices",
+    "Custom": "Copiar programação para outros dispositivos"
+  },
+  "ROOM.THERMOSTAT.COPY_SCHEDULE_TO_WEEKDAY": {
+    "Original": "Copy {weekday} schedule settings to",
+    "Custom": "Copie as configurações de programação de {weekday} para"
+  },
+  "ROOM.THERMOSTAT.GAS_EXPLAIN": {
+    "Original": "To help you better understand the usage projection chart, we'll show you how we calculate the hourly consumption. Here's an example:",
+    "Custom": "Para ajudar você a entender melhor o gráfico de projeção de uso, mostraremos como calculamos o consumo por hora. Aqui está um exemplo:"
+  },
+  "ROOM.THERMOSTAT.CLOSE_FROST_PROTECTION": {
+    "Original": "OFF(Frost-protection)",
+    "Custom": "DESLIGADO (proteção contra congelamento)"
+  },
+  "ROOM.THERMOSTAT.MANUAL_MODE": {
+    "Original": "Manual",
+    "Custom": "Manual"
+  },
+  "ROOM.THERMOSTAT.AUTO_MODE": {
+    "Original": "Auto",
+    "Custom": "Auto"
+  },
+  "ROOM.THERMOSTAT.CLOSE_SCHEDULE_MANAGE_TIP": {
+    "Original": "Save changes?",
+    "Custom": "Salvar alterações?"
+  },
+  "ROOM.THERMOSTAT.GAS_USED": {
+    "Original": "Usage projection",
+    "Custom": "Projeção de uso"
+  },
+  "ROOM.THERMOSTAT.TEMP_CALIBRATION": {
+    "Original": "Temp calibration",
+    "Custom": "Calibração de temperatura"
+  },
+  "ROOM.THERMOSTAT.FROST_PROTECTION": {
+    "Original": "Frost protection",
+    "Custom": "Proteção contra congelamento"
+  },
+  "ROOM.THERMOSTAT.CHILDREN_LOCK": {
+    "Original": "child lock",
+    "Custom": "bloqueio para crianças"
+  },
+  "ROOM.THERMOSTAT.OPEN_WINDOW_DETECTION_TIP": {
+    "Original": "When it is detected that there is cold wind, and the temperature drops by more than 1.5℃ within 4.5 min, the open-window function will be activated. At this time, the temperature is set to 12℃.",
+    "Custom": "Quando for detectado vento frio e a temperatura cair mais de 1,5°C em 4,5 minutos, a função de janela aberta será ativada. Neste momento, a temperatura está ajustada para 12 ?."
+  },
+  "ROOM.THERMOSTAT.OPEN_WINDOW_DETECTION_ACTION": {
+    "Original": "While the open-window function is activated following operations will terminate it from taking effect. 1. Temperature setting operation on the iHost or device. 2. The detected temperature rises by more than 1.5℃ within 4.5 minutes. 3. No operation on the iHost or device within 30 minutes.",
+    "Custom": "Enquanto a função de janela aberta estiver ativada, as operações seguintes interromperão seu efeito. 1. Operação de configuração de temperatura no iHost ou dispositivo. 2. A temperatura detectada aumenta mais de 1,5°C em 4,5 minutos. 3. Nenhuma operação no iHost ou dispositivo em 30 minutos."
+  },
+  "ROOM.THERMOSTAT.GAS_EXPLAIN_USED": {
+    "Original": "The gas is consumed from 1:00 to 1:30 AM, during which the consumption is 100%.",
+    "Custom": "O gás é consumido das 1h à 1h30, período em que o consumo é de 100%."
+  },
+  "ROOM.THERMOSTAT.GAS_EXPLAIN_SHOW": {
+    "Original": "Since the chart finally presents the hourly consumption, the average consumption between 1:00 – 2:00 AM is 50%.",
+    "Custom": "Como o gráfico finalmente apresenta o consumo por hora, o consumo médio entre 1h e 2h é de 50%."
+  },
+  "ROOM.THERMOSTAT.GAS_EXPLAIN_FINAL": {
+    "Original": "The final usage projection chart displays as follows:",
+    "Custom": "O gráfico de projeção de uso final é exibido da seguinte forma:"
+  },
+  "ROOM.THERMOSTAT.OPEN_WINDOW_DETECTION": {
+    "Original": "Open Window Detection",
+    "Custom": "Detecção de janela aberta"
+  },
+  "ROOM.DAY_ELECTRICITY_CONSUMPTION": {
+    "Original": "Today",
+    "Custom": "Hoje"
+  },
+  "ROOM.MONTH_ELECTRICITY_CONSUMPTION": {
+    "Original": "Month",
+    "Custom": "Mês"
+  },
+  "ROOM.MONTH_ELECTRICITY_FEE": {
+    "Original": "Monthly Cost",
+    "Custom": "Custo mensal"
+  },
+  "ROOM.COST": {
+    "Original": "Cost",
+    "Custom": "Custo"
+  },
+  "SCENE.SCENE": {
+    "Original": "Scene",
+    "Custom": "Cena"
+  },
+  "SCENE.ADD_SCENE": {
+    "Original": "Add Scene",
+    "Custom": "Adicionar cena"
+  },
+  "SCENE.MANUAL_SCENE": {
+    "Original": "Manual Scenes",
+    "Custom": "Cenas Manuais"
+  },
+  "SCENE.SCENE_LISTS": {
+    "Original": "Scene Lists",
+    "Custom": "Listas de cenas"
+  },
+  "SCENE.ADD_OPERATOR": {
+    "Original": "Add",
+    "Custom": "Adicionar"
+  },
+  "SCENE.ADD": {
+    "Original": "Add",
+    "Custom": "Adicionar"
+  },
+  "SCENE.EDIT": {
+    "Original": "Edit",
+    "Custom": "Editar"
+  },
+  "SCENE.TAP_TO_RUN": {
+    "Original": "Tap to run",
+    "Custom": "Toque para correr"
+  },
+  "SCENE.VIEW": {
+    "Original": "View",
+    "Custom": "Visualizar"
+  },
+  "SCENE.SCENE_NAME": {
+    "Original": "Scene Name",
+    "Custom": "Nome da cena"
+  },
+  "SCENE.OPERATION": {
+    "Original": "Operation",
+    "Custom": "Operação"
+  },
+  "SCENE.STATUS": {
+    "Original": "Status",
+    "Custom": "Status"
+  },
+  "SCENE.LOG": {
+    "Original": "Log",
+    "Custom": "Registro"
+  },
+  "SCENE.CUSTOM_SCENE_NAME": {
+    "Original": "Custom Scene Name",
+    "Custom": "Nome da cena personalizada"
+  },
+  "SCENE.IF": {
+    "Original": "If",
+    "Custom": "Se"
+  },
+  "SCENE.THEN": {
+    "Original": "Then",
+    "Custom": "Então"
+  },
+  "SCENE.ANY_CONDITION_MET": {
+    "Original": "Any condition is met",
+    "Custom": "Qualquer condição é atendida"
+  },
+  "SCENE.ALL_CONDITION_MET": {
+    "Original": "All conditions are met",
+    "Custom": "Todas as condições são atendidas"
+  },
+  "SCENE.THAT_ACTIONS": {
+    "Original": "That actions",
+    "Custom": "Essas ações"
+  },
+  "SCENE.SMART_DEVICES": {
+    "Original": "Smart Devices",
+    "Custom": "Dispositivos inteligentes"
+  },
+  "SCENE.TIMER": {
+    "Original": "Timer",
+    "Custom": "Cronômetro"
+  },
+  "SCENE.ON": {
+    "Original": "On",
+    "Custom": "Sobre"
+  },
+  "SCENE.SWITCH_NOT_SELECTED": {
+    "Original": "Not selected",
+    "Custom": "Não selecionado"
+  },
+  "SCENE.LIGHT_ON": {
+    "Original": "Light ON",
+    "Custom": "Luzes ligadas"
+  },
+  "SCENE.LIGHT_OFF": {
+    "Original": "Light OFF",
+    "Custom": "Luz apagada"
+  },
+  "SCENE.FAN_ON": {
+    "Original": "Fan ON",
+    "Custom": "Ventilador LIGADO"
+  },
+  "SCENE.FAN_OFF": {
+    "Original": "Fan OFF",
+    "Custom": "Ventilador desligado"
+  },
+  "SCENE.OFF": {
+    "Original": "Off",
+    "Custom": "Desligado"
+  },
+  "SCENE.LIGHT_OPEN": {
+    "Original": "On",
+    "Custom": "Sobre"
+  },
+  "SCENE.DELAY": {
+    "Original": "Delay",
+    "Custom": "Atraso"
+  },
+  "SCENE.SMART_SCENES": {
+    "Original": "Smart Scenes",
+    "Custom": "Cenas Inteligentes"
+  },
+  "SCENE.SOUND_ALARM": {
+    "Original": "Sound Alarm",
+    "Custom": "Alarme sonoro"
+  },
+  "SCENE.MUTE": {
+    "Original": "Mute",
+    "Custom": "Mudo"
+  },
+  "SCENE.DISARM": {
+    "Original": "Disarm",
+    "Custom": "Desarmar"
+  },
+  "SCENE.ALARM_VOLUME": {
+    "Original": "Alarm Volume",
+    "Custom": "Volume do alarme"
+  },
+  "SCENE.ALARM_DURATION": {
+    "Original": "Alarm Duration",
+    "Custom": "Duração do Alarme"
+  },
+  "SCENE.ALL_HOURS": {
+    "Original": "24 Hours",
+    "Custom": "24 horas"
+  },
+  "SCENE.EVERY_DAY": {
+    "Original": "Everyday",
+    "Custom": "Diariamente"
+  },
+  "SCENE.DATE": {
+    "Original": "Date",
+    "Custom": "Data"
+  },
+  "SCENE.SUCCESS_VIEW_DETAILS": {
+    "Original": "Success, view details",
+    "Custom": "Sucesso, veja detalhes"
+  },
+  "SCENE.FAILED_VIEW_DETAILS": {
+    "Original": "Failed, view details",
+    "Custom": "Falha, ver detalhes"
+  },
+  "SCENE.LOG_DETAIL": {
+    "Original": "Log Details",
+    "Custom": "Detalhes do registro"
+  },
+  "SCENE.SCENE_LOG": {
+    "Original": "OperationLog",
+    "Custom": "Log de operação"
+  },
+  "SCENE.TRIGGER_IS_MAX": {
+    "Original": "Limit reached for setting triggers",
+    "Custom": "Limite atingido para configuração de gatilhos"
+  },
+  "SCENE.ACTIONS_IS_MAX": {
+    "Original": "Limit reached for setting actions",
+    "Custom": "Limite atingido para definir ações"
+  },
+  "SCENE.ENTER_A_SCENE_NAME": {
+    "Original": "Enter a Scene name",
+    "Custom": "Insira um nome de cena"
+  },
+  "SCENE.NAME_CAN_NOT_HAVE_SPACE": {
+    "Original": "Please enter the Scene name",
+    "Custom": "Por favor insira o nome da cena"
+  },
+  "SCENE.SAVE_SCENE_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SCENE.ADD_SCENE_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SCENE.DELETE_THIS_SCENE": {
+    "Original": "Confirm to delete this scene?",
+    "Custom": "Confirmar para excluir esta cena?"
+  },
+  "SCENE.SCENE_IS_MAX": {
+    "Original": "Limit reached for adding scenes",
+    "Custom": "Limite atingido para adicionar cenas"
+  },
+  "SCENE.DELETE_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SCENE.ACTION_SCENE_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SCENE.FINISH_SCENE_SETTING": {
+    "Original": "Please continue adding your scene",
+    "Custom": "Continue adicionando sua cena"
+  },
+  "SCENE.ONLY": {
+    "Original": "Only",
+    "Custom": "Apenas"
+  },
+  "SCENE.MON": {
+    "Original": "Mon",
+    "Custom": "Meu"
+  },
+  "SCENE.TUE": {
+    "Original": "Tue",
+    "Custom": "ter"
+  },
+  "SCENE.WED": {
+    "Original": "Wed",
+    "Custom": "qua"
+  },
+  "SCENE.THU": {
+    "Original": "Thu",
+    "Custom": "Coletar"
+  },
+  "SCENE.FRI": {
+    "Original": "Fri",
+    "Custom": "sex"
+  },
+  "SCENE.SAT": {
+    "Original": "Sat",
+    "Custom": "Sentado"
+  },
+  "SCENE.SUN": {
+    "Original": "Sun",
+    "Custom": "Sol"
+  },
+  "SCENE.NEXT_DAY": {
+    "Original": "(next day)",
+    "Custom": "(próximo dia)"
+  },
+  "SCENE.KEEP": {
+    "Original": "Keep",
+    "Custom": "Manter"
+  },
+  "SCENE.REVERSE": {
+    "Original": "Reverse",
+    "Custom": "Reverter"
+  },
+  "SCENE.PERSENT": {
+    "Original": "Percentage",
+    "Custom": "Percentagem"
+  },
+  "SCENE.THE_TEM_TIP": {
+    "Original": "The temperature should be between {min}℃ and {max}℃",
+    "Custom": "A temperatura deve estar entre {min}? e {max}?"
+  },
+  "SCENE.THE_TEM_TIP2": {
+    "Original": "The temperature should be between {min}℉ and {max}℉",
+    "Custom": "A temperatura deve estar entre {min}? e {max}?"
+  },
+  "SCENE.THE_TEM_TIP3": {
+    "Original": "The humidity should be between {min}% and {max}%",
+    "Custom": "A umidade deve estar entre {min}% e {max}%"
+  },
+  "SCENE.FROM1": {
+    "Original": "From",
+    "Custom": "De"
+  },
+  "SCENE.HOUR": {
+    "Original": "h",
+    "Custom": "h"
+  },
+  "SCENE.MIN": {
+    "Original": "min",
+    "Custom": "min"
+  },
+  "SCENE.SEC": {
+    "Original": "s",
+    "Custom": "é"
+  },
+  "SCENE.END": {
+    "Original": "To",
+    "Custom": "Para"
+  },
+  "SCENE.DURATION": {
+    "Original": "Duration",
+    "Custom": "Duração"
+  },
+  "SCENE.CHANNEL_ON": {
+    "Original": "Channel {index} On",
+    "Custom": "Canal {index} ativado"
+  },
+  "SCENE.CHANNEL_OFF": {
+    "Original": "Channel {index} Off",
+    "Custom": "Canal {index} desativado"
+  },
+  "SCENE.ERROR": {
+    "Original": "Action Failed",
+    "Custom": "Ação: falhou"
+  },
+  "SCENE.SENSOR_WARNING": {
+    "Original": "The {ability} should be between {min} and {max}",
+    "Custom": "A {habilidade} deve estar entre {min} e {max}"
+  },
+  "SCENE.EXECUTE": {
+    "Original": "Execute",
+    "Custom": "Executar"
+  },
+  "SCENE.ON_OFF": {
+    "Original": "on-off",
+    "Custom": "Ligado desligado"
+  },
+  "SCENE.AUTOMODE_TIP": {
+    "Original": "Auto mode will be temporarily disabled during the execution of the scene",
+    "Custom": "O modo automático será temporariamente desativado durante a execução da cena"
+  },
+  "SCENE.BROADCAST": {
+    "Original": "Text To Speech",
+    "Custom": "Texto para fala"
+  },
+  "SCENE.AUDIO_FILE": {
+    "Original": "Audio file",
+    "Custom": "Arquivo de áudio"
+  },
+  "SCENE.NO_AVAILABLE": {
+    "Original": "No text-to-speech service available",
+    "Custom": "Nenhum serviço de conversão de texto em voz disponível"
+  },
+  "SCENE.PLATFORM": {
+    "Original": "Platform",
+    "Custom": "Plataforma"
+  },
+  "SCENE.LOOP_COUNT": {
+    "Original": "Loop count",
+    "Custom": "Contagem de loops"
+  },
+  "SCENE.VOLUME": {
+    "Original": "Volume",
+    "Custom": "Volume"
+  },
+  "SCENE.TTS_RUNNING_ERROR": {
+    "Original": " {name} is running error, please check",
+    "Custom": " {name} está executando um erro, verifique"
+  },
+  "SCENE.TTS_RUNNING_UN_NORMAL": {
+    "Original": "{name} is running abnormally, please check",
+    "Custom": "{name} está funcionando de forma anormal, verifique"
+  },
+  "SCENE.VOLUME_HAS_DELETE": {
+    "Original": "audio has been removed",
+    "Custom": "o áudio foi removido"
+  },
+  "SCENE.MANUAL_SCENE_SELECT": {
+    "Original": "Run manual scenes",
+    "Custom": "Execute cenas manuais"
+  },
+  "SCENE.AUTO_SCENE_SCENE": {
+    "Original": "Enable/Disable smart scenes",
+    "Custom": "Ativar/desativar cenas inteligentes"
+  },
+  "SCENE.ENABLE": {
+    "Original": "Enable",
+    "Custom": "Habilitar"
+  },
+  "SCENE.DISABLE": {
+    "Original": "Disable",
+    "Custom": "Desativar"
+  },
+  "SCENE.TEMP_AND_HUM": {
+    "Original": "Temp/Humidity",
+    "Custom": "Temperatura/Umidade"
+  },
+  "SCENE.COMFORT_LEVEL": {
+    "Original": "Comfort Level",
+    "Custom": "Nível de conforto"
+  },
+  "SCENE.TEMP_COMFORT_LEVEL": {
+    "Original": "Temp comfort range",
+    "Custom": "Faixa de conforto de temperatura"
+  },
+  "SCENE.HUM_COMFORT_LEVEL": {
+    "Original": "Humidity comfort range",
+    "Custom": "Faixa de conforto de umidade"
+  },
+  "SCENE.HOT": {
+    "Original": "Hot",
+    "Custom": "Quente"
+  },
+  "SCENE.COLD": {
+    "Original": "Cold",
+    "Custom": "Frio"
+  },
+  "SCENE.WET": {
+    "Original": "Wet",
+    "Custom": "Molhado"
+  },
+  "SCENE.DRY": {
+    "Original": "Dry",
+    "Custom": "Seco"
+  },
+  "SCENE.TTS_ENGINE_DELETE": {
+    "Original": "TTS service provided by \"{name}\" will be removed if you delete the add-on from the add-on list. You can reinstall it to use the TTS service again later. Confirm to proceed?",
+    "Custom": "O serviço TTS fornecido por \"{name}\" será removido se você excluir o complemento da lista de complementos. Você pode reinstalá-lo para usar o serviço TTS novamente mais tarde. Confirmar para prosseguir?"
+  },
+  "SCENE.TTS_ENGINE_DELETE_TIP": {
+    "Original": "Delete {name} from the add-on list",
+    "Custom": "Exclua {nome} da lista de complementos"
+  },
+  "SCENE.TTS_IS_DELETED": {
+    "Original": "TTS Add-on has been removed",
+    "Custom": "O complemento TTS foi removido"
+  },
+  "SCENE.ENGINE_IS_NOT_RUNNING": {
+    "Original": "\"{name}\" is not running,",
+    "Custom": "\"{name}\" não está em execução,"
+  },
+  "SCENE.LIGHT_MODE_COLOR_TEMP": {
+    "Original": "White",
+    "Custom": "Branco"
+  },
+  "SCENE.LIGHT_MODE_COLOR_RGB": {
+    "Original": "Color",
+    "Custom": "Cor"
+  },
+  "SCENE.LIGHT_MODE_BRIGHTNESS": {
+    "Original": "Brightness",
+    "Custom": "Brilho"
+  },
+  "SCENE.AI_BRIDGE_CONDITION.DISARM": {
+    "Original": "Disarm",
+    "Custom": "Desarmar"
+  },
+  "SCENE.AI_BRIDGE_CONDITION.ALARMING": {
+    "Original": "Alarming",
+    "Custom": "Alarmante"
+  },
+  "SCENE.AI_BRIDGE_CONDITION.NO_ALARM": {
+    "Original": "No Alarm",
+    "Custom": "Sem alarme"
+  },
+  "SCENE.REMOTE.S_MATE_TIP.TIP": {
+    "Original": "Double and long press are available when S-MATE2 is connected to a push button switch",
+    "Custom": "Pressão dupla e longa estão disponíveis quando o S-MATE2 está conectado a um botão de pressão"
+  },
+  "SCENE.SEARCH_SCENE": {
+    "Original": "Search scene",
+    "Custom": "Cena de pesquisa"
+  },
+  "SCENE.SEARCH_SELECT_DEVICE": {
+    "Original": "Enter device name",
+    "Custom": "Digite o nome do dispositivo"
+  },
+  "SCENE.OPEN": {
+    "Original": "Open",
+    "Custom": "Abrir"
+  },
+  "SCENE.CLOSE": {
+    "Original": "Close",
+    "Custom": "Fechar"
+  },
+  "SCENE.STOP": {
+    "Original": "Pause",
+    "Custom": "Pausa"
+  },
+  "SCENE.CHANNEL": {
+    "Original": "Channel",
+    "Custom": "Canal"
+  },
+  "SCENE.SEARCH_SMART_SCENE": {
+    "Original": "Enter scene name",
+    "Custom": "Digite o nome da cena"
+  },
+  "SCENE.CONTACT_SENSOR.DISASSEMBLE": {
+    "Original": "Removed",
+    "Custom": "Removido"
+  },
+  "SCENE.CONTACT_SENSOR.OPEN_TOO_LONG": {
+    "Original": "Remain opened for a duration",
+    "Custom": "Permanecer aberto por um período"
+  },
+  "SCENE.CONTACT_SENSOR.CLOSE_TOO_LONG": {
+    "Original": "Remain closed for a duration",
+    "Custom": "Permanecer fechado por um período"
+  },
+  "SCENE.CONTACT_SENSOR.CLOSE_TIMEOUT": {
+    "Original": "Timeout Detection",
+    "Custom": "Detecção de tempo limite"
+  },
+  "SCENE.CONTACT_SENSOR.CLOSE_TIMEOUT_TIP": {
+    "Original": "To set timeout detection as a scene trigger, please go to the eWeLink App settings page and toggle it on.",
+    "Custom": "Para definir a detecção de tempo limite como um gatilho de cena, vá para a página de configurações do aplicativo eWeLink e ative-a."
+  },
+  "SCENE.BRIGHTNESS": {
+    "Original": "Brightness",
+    "Custom": "Brilho"
+  },
+  "SCENE.BRIGHTNESS_SHOULD_BIGGER_THAN_BRIGHTNESS": {
+    "Original": "Upper limit of brightness must be higher than the lower.",
+    "Custom": "O limite superior de brilho deve ser maior que o inferior."
+  },
+  "SCENE.BRIGHTNESS_RANGE_ERROR": {
+    "Original": "The brightness should be between {min}% and {max}%",
+    "Custom": "O brilho deve estar entre {min}% e {max}%"
+  },
+  "SCENE.SET_LIMIT_POSITION": {
+    "Original": "Set limit position",
+    "Custom": "Definir posição limite"
+  },
+  "SCENE.AT_LEAST_ONE_ON_OFF": {
+    "Original": "Please ensure at least 1 channel is ON/OFF.",
+    "Custom": "Certifique-se de que pelo menos 1 canal esteja LIGADO/DESLIGADO."
+  },
+  "SCENE.CAN_NOT_HAVE_TWO_DELAYS": {
+    "Original": "You can't have two consecutive delays",
+    "Custom": "Você não pode ter dois atrasos consecutivos"
+  },
+  "SCENE.DELAY_CAN_NOT_LAST": {
+    "Original": "Please don't put delay to the last",
+    "Custom": "Por favor, não deixe o atraso para o último"
+  },
+  "SCENE.DELAY_CAN_NOT_ZERO": {
+    "Original": "The duration of the delay can't be 0.",
+    "Custom": "A duração do atraso não pode ser 0."
+  },
+  "SCENE.AT_LEAST_ONE_DAY": {
+    "Original": "Please select at least one day",
+    "Custom": "Selecione pelo menos um dia"
+  },
+  "SCENE.DEVICE_HAS_BEEN_ADDED_AS_TRIGGERS": {
+    "Original": "This device has been added as triggers",
+    "Custom": "Este dispositivo foi adicionado como gatilho"
+  },
+  "SCENE.UPPER_TEM_SHOULD_HIGHER_THAN_LOWER": {
+    "Original": "Upper limit of temperature must be higher than the lower.",
+    "Custom": "O limite superior de temperatura deve ser superior ao inferior."
+  },
+  "SCENE.UPPER_HEM_SHOULD_HIGHER_THAN_LOWER": {
+    "Original": "Upper limit of humidity must be higher than the lower.",
+    "Custom": "O limite superior de umidade deve ser superior ao inferior."
+  },
+  "SCENE.TIMER_HAS_BEEN_ADDED_AS_TRIGGERS": {
+    "Original": "Timer has been added as triggers",
+    "Custom": "O temporizador foi adicionado como gatilhos"
+  },
+  "SCENE.ALARM_CAN_NOT_ZERO": {
+    "Original": "The duration of Alarm can't be 0.",
+    "Custom": "A duração do Alarme não pode ser 0."
+  },
+  "SCENE.SAVE_SCENE_ERROR": {
+    "Original": "Error saving scene",
+    "Custom": "Erro ao salvar cena"
+  },
+  "SCENE.DEVICE_DELETED": {
+    "Original": "Device deleted",
+    "Custom": "Dispositivo excluído"
+  },
+  "SCENE.SCENE_DELETED": {
+    "Original": "Scene deleted",
+    "Custom": "Cena excluída"
+  },
+  "SECURITY.SMART_SECURITY": {
+    "Original": "Smart Security",
+    "Custom": "Segurança inteligente"
+  },
+  "SECURITY.SET_DEFAULT_MODE": {
+    "Original": "Set Default Mode",
+    "Custom": "Definir modo padrão"
+  },
+  "SECURITY.SECURITY_LOG": {
+    "Original": "Security Log",
+    "Custom": "Registro de segurança"
+  },
+  "SECURITY.ARMED": {
+    "Original": "Armed",
+    "Custom": "Armado"
+  },
+  "SECURITY.ALARM_BEEPS": {
+    "Original": "Alarm Beeps",
+    "Custom": "Bipes de alarme"
+  },
+  "SECURITY.ALARM": {
+    "Original": "Alarm",
+    "Custom": "Alarme"
+  },
+  "SECURITY.DISARMED": {
+    "Original": "Disarmed",
+    "Custom": "Desarmado"
+  },
+  "SECURITY.HOME_MODE": {
+    "Original": "Home Mode",
+    "Custom": "Modo inicial"
+  },
+  "SECURITY.AWAY_MODE": {
+    "Original": "Away Mode",
+    "Custom": "Modo ausente"
+  },
+  "SECURITY.SLEEP_MODE": {
+    "Original": "Sleep Mode",
+    "Custom": "Modo dormir"
+  },
+  "SECURITY.EDIT": {
+    "Original": "Edit",
+    "Custom": "Editar"
+  },
+  "SECURITY.MODE_NAME": {
+    "Original": "Mode Name",
+    "Custom": "Nome do modo"
+  },
+  "SECURITY.SET_ALARM_BEEPS": {
+    "Original": "Set Alarm Beeps",
+    "Custom": "Definir bipes de alarme"
+  },
+  "SECURITY.DURATION": {
+    "Original": "Duration",
+    "Custom": "Duração"
+  },
+  "SECURITY.CUSTOM": {
+    "Original": "Custom",
+    "Custom": "Personalizado"
+  },
+  "SECURITY.SUB_DEVICES": {
+    "Original": "Sub-devices",
+    "Custom": "Subdispositivos"
+  },
+  "SECURITY.ALARM_TRIGGERED_BY_AND_ADV": {
+    "Original": "Alarm Triggered by Any Sub-device",
+    "Custom": "Alarme disparado por qualquer subdispositivo"
+  },
+  "SECURITY.ALARM_TRIGGERED_BY_WINDOW_STATUS": {
+    "Original": "Alarm Triggered by Door/Window Status",
+    "Custom": "Alarme disparado pelo status da porta/janela"
+  },
+  "SECURITY.ALARM_TRIGGERED_BY_PIR": {
+    "Original": "Alarm Triggered by PIR Motion",
+    "Custom": "Alarme acionado por movimento PIR"
+  },
+  "SECURITY.ALARM_TRIGGERED_BY_PIR_AND_BRIGHTER": {
+    "Original": "Alarm Triggered by Motion Detected and Ambient Light is Bright",
+    "Custom": "Alarme acionado por movimento detectado e luz ambiente brilhante"
+  },
+  "SECURITY.ALARM_TRIGGERED_BY_PIR_AND_DARKER": {
+    "Original": "Alarm Triggered by Motion Detected and Ambient Light is Dim",
+    "Custom": "Alarme acionado por movimento detectado e luz ambiente fraca"
+  },
+  "SECURITY.ALARM_TRIGGERED_BY_WATER": {
+    "Original": "Alarm Triggered by Water Dripping",
+    "Custom": "Alarme acionado por gotejamento de água"
+  },
+  "SECURITY.ALARM_TRIGGERED_BY_SWITCH": {
+    "Original": "Alarm Triggered by Switch Status",
+    "Custom": "Alarme disparado pelo status do switch"
+  },
+  "SECURITY.ALARM_TRIGGERED_BY_SMOKE": {
+    "Original": "Alarm Triggered by Smoke Status",
+    "Custom": "Alarme acionado por status de fumaça"
+  },
+  "SECURITY.KEEP_ALARMING": {
+    "Original": "Keep Alarming",
+    "Custom": "Continue alarmante"
+  },
+  "SECURITY.VIEW": {
+    "Original": "View",
+    "Custom": "Visualizar"
+  },
+  "SECURITY.LATEST_2000_LOGS": {
+    "Original": "Latest 2,000 logs stored",
+    "Custom": "Últimos 2.000 registros armazenados"
+  },
+  "SECURITY.ALARM_SOUND1": {
+    "Original": "Alarm1",
+    "Custom": "Alarme1"
+  },
+  "SECURITY.ALARM_SOUND2": {
+    "Original": "Alarm2",
+    "Custom": "Alarme2"
+  },
+  "SECURITY.ALARM_SOUND3": {
+    "Original": "Alarm3",
+    "Custom": "Alarme3"
+  },
+  "SECURITY.ALARM_SOUND4": {
+    "Original": "Alarm4",
+    "Custom": "alarme4"
+  },
+  "SECURITY.ALARM_SOUND5": {
+    "Original": "Alarm5",
+    "Custom": "Alarme5"
+  },
+  "SECURITY.DOOLBEEL_SOUND1": {
+    "Original": "Doorbell1",
+    "Custom": "Campainha1"
+  },
+  "SECURITY.DOOLBEEL_SOUND2": {
+    "Original": "Doorbell2",
+    "Custom": "Campainha2"
+  },
+  "SECURITY.DOOLBEEL_SOUND3": {
+    "Original": "Doorbell3",
+    "Custom": "Campainha3"
+  },
+  "SECURITY.DOOLBEEL_SOUND4": {
+    "Original": "Doorbell4",
+    "Custom": "Campainha4"
+  },
+  "SECURITY.DOOLBEEL_SOUND5": {
+    "Original": "Doorbell5",
+    "Custom": "Campainha5"
+  },
+  "SECURITY.CLOCK_SOUND1": {
+    "Original": "Clock1",
+    "Custom": "Relógio1"
+  },
+  "SECURITY.CLOCK_SOUND2": {
+    "Original": "Clock2",
+    "Custom": "Relógio2"
+  },
+  "SECURITY.CLOCK_SOUND3": {
+    "Original": "Clock3",
+    "Custom": "Relógio3"
+  },
+  "SECURITY.CLOCK_SOUND4": {
+    "Original": "Clock4",
+    "Custom": "Relógio4"
+  },
+  "SECURITY.CLOCK_SOUND5": {
+    "Original": "Clock5",
+    "Custom": "Relógio5"
+  },
+  "SECURITY.NO_SENSOR_ADDED": {
+    "Original": "No sensor added",
+    "Custom": "Nenhum sensor adicionado"
+  },
+  "SECURITY.NEED_NAME": {
+    "Original": "Enter a name for Smart Security",
+    "Custom": "Insira um nome para Segurança Inteligente"
+  },
+  "SECURITY.NAME_CAN_NOT_IS_SPACE": {
+    "Original": "Please enter a name for Smart Security",
+    "Custom": "Insira um nome para Smart Security"
+  },
+  "SECURITY.UPDATE_SUCCESS": {
+    "Original": "Updated",
+    "Custom": "Atualizada"
+  },
+  "SECURITY.CHOOSE_BRIDGE_MODE": {
+    "Original": "Set the mode enabled by iHost button",
+    "Custom": "Defina o modo habilitado pelo botão iHost"
+  },
+  "SECURITY.NOT_TRIGGERED": {
+    "Original": "Not Triggered",
+    "Custom": "Não acionado"
+  },
+  "SECURITY.SELECT_DEVICE": {
+    "Original": "Select Devices",
+    "Custom": "Selecione dispositivos"
+  },
+  "SECURITY.OPT_IN_DEVICE": {
+    "Original": "Enable devices as smart security triggers.",
+    "Custom": "Habilite dispositivos como gatilhos de segurança inteligentes."
+  },
+  "SECURITY.BUTTON": {
+    "Original": "Wireless Switches",
+    "Custom": "Interruptores sem fio"
+  },
+  "SECURITY.NO_EQUIPMENT_YET": {
+    "Original": "No devices yet.",
+    "Custom": "Nenhum dispositivo ainda."
+  },
+  "SECURITY.CONTACT_SENSOR": {
+    "Original": "Door/Window Sensors",
+    "Custom": "Sensores de porta/janela"
+  },
+  "SECURITY.MOTION_SENSOR": {
+    "Original": "Human Presence Sensors",
+    "Custom": "Sensores de presença humana"
+  },
+  "SECURITY.WATER_SENSOR": {
+    "Original": "Water Leak Sensors",
+    "Custom": "Sensores de vazamento de água"
+  },
+  "SECURITY.SMOKER_SENSOR": {
+    "Original": "Smoke Sensors",
+    "Custom": "Sensores de fumaça"
+  },
+  "SECURITY.SELECT_LEFT_DEVICE": {
+    "Original": "Enable devices as smart security triggers from the left list.",
+    "Custom": "Habilite dispositivos como gatilhos de segurança inteligentes na lista da esquerda."
+  },
+  "SETTING.SETTINGS": {
+    "Original": "Settings",
+    "Custom": "Configurações"
+  },
+  "SETTING.PASSWORD": {
+    "Original": "Password",
+    "Custom": "Senha"
+  },
+  "SETTING.CHANGE_PASSWORD": {
+    "Original": "Change Password",
+    "Custom": "Alterar a senha"
+  },
+  "SETTING.DEVICE_NAME": {
+    "Original": "Device Name",
+    "Custom": "Nome do dispositivo"
+  },
+  "SETTING.TIME_ZONE": {
+    "Original": "Time Zone",
+    "Custom": "Fuso horário"
+  },
+  "SETTING.VOLUME": {
+    "Original": "Volume",
+    "Custom": "Volume"
+  },
+  "SETTING.DEVICE_INFO": {
+    "Original": "Device Info",
+    "Custom": "Informação do dispositivo"
+  },
+  "SETTING.DEVICE_ID": {
+    "Original": "Device ID",
+    "Custom": "ID de dispositivo"
+  },
+  "SETTING.FIRMWARE_VERSION": {
+    "Original": "eWeLink CUBE Version",
+    "Custom": "Versão do CUBO eWeLink"
+  },
+  "SETTING.IP_ADDRESS": {
+    "Original": "IP Address",
+    "Custom": "Endereço de IP"
+  },
+  "SETTING.MAC_ADDRESS": {
+    "Original": "MAC Address",
+    "Custom": "Endereço MAC"
+  },
+  "SETTING.MANUFACTURER": {
+    "Original": "Manufacturer",
+    "Custom": "Fabricante"
+  },
+  "SETTING.RUNNING_STATUS": {
+    "Original": "Running Status",
+    "Custom": "Status de execução"
+  },
+  "SETTING.CPU": {
+    "Original": "CPU",
+    "Custom": "CPU"
+  },
+  "SETTING.MEMORY": {
+    "Original": "Memory",
+    "Custom": "Memória"
+  },
+  "SETTING.CPU_TEM": {
+    "Original": "CPU Temperature",
+    "Custom": "Temperatura da CPU"
+  },
+  "SETTING.POWER_ON_TIME": {
+    "Original": "Power-on Time",
+    "Custom": "Hora de ligar"
+  },
+  "SETTING.CURRENT_PASSWORD": {
+    "Original": "Current Password",
+    "Custom": "Senha atual"
+  },
+  "SETTING.ENTER_CURRENT_PASSWORD": {
+    "Original": "Enter Current Password",
+    "Custom": "Digite a senha atual"
+  },
+  "SETTING.NEW_PASSWORD": {
+    "Original": "New Password",
+    "Custom": "Nova Senha"
+  },
+  "SETTING.ENTER_NEW_PASSWORD": {
+    "Original": "Enter New Password",
+    "Custom": "Insira a nova senha"
+  },
+  "SETTING.CONFIRM_PASSWORD": {
+    "Original": "Confirm Password",
+    "Custom": "Confirme sua senha"
+  },
+  "SETTING.RETYPE_NEW_PASSWORD": {
+    "Original": "Re-type New Password",
+    "Custom": "Digite novamente a nova senha"
+  },
+  "SETTING.REBOOT": {
+    "Original": "Reboot",
+    "Custom": "Reinício"
+  },
+  "SETTING.LINK_NOW": {
+    "Original": "Link now",
+    "Custom": "Vincular agora"
+  },
+  "SETTING.LINK_EWELINK": {
+    "Original": "Link eWeLink Account",
+    "Custom": "Vincular conta eWeLink"
+  },
+  "SETTING.LOGIN_WITH_QRCODE": {
+    "Original": "Login with QR Code",
+    "Custom": "Faça login com código QR"
+  },
+  "SETTING.LOGIN_WITH_PASSWORD": {
+    "Original": "Login with Password",
+    "Custom": "Entrar com senha"
+  },
+  "SETTING.SCAN_QRCODE_VIA_EWELINK_APP": {
+    "Original": "Scan QR code via eWeLink App",
+    "Custom": "Digitalize o código QR através do aplicativo eWeLink"
+  },
+  "SETTING.REFRESH": {
+    "Original": "Refresh",
+    "Custom": "Atualizar"
+  },
+  "SETTING.REGION": {
+    "Original": "Country/Region",
+    "Custom": "País/Região"
+  },
+  "SETTING.ACCOUNT": {
+    "Original": "Account",
+    "Custom": "Conta"
+  },
+  "SETTING.LINK": {
+    "Original": "Link",
+    "Custom": "Link"
+  },
+  "SETTING.SYNCING": {
+    "Original": "Syncing...",
+    "Custom": "Sincronizando..."
+  },
+  "SETTING.SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SETTING.UNLINK": {
+    "Original": "Unlink",
+    "Custom": "Desvincular"
+  },
+  "SETTING.FOLLOWING_INFORMATION": {
+    "Original": "The following information will be erased:",
+    "Custom": "As seguintes informações serão apagadas:"
+  },
+  "SETTING.DELETED_FROM_YOUR_EWELINK_APP": {
+    "Original": "iHost gateway will be deleted from your eWeLink App",
+    "Custom": "O gateway iHost será excluído do seu aplicativo eWeLink"
+  },
+  "SETTING.LOGGED_OUT_ON_AIBRIDGE": {
+    "Original": "The current eWeLink account will be logged out on iHost",
+    "Custom": "A conta eWeLink atual será desconectada do iHost"
+  },
+  "SETTING.RELINK_TO_CONFIGURE": {
+    "Original": "Once unlinked, you need to re-link to configure it again on iHost",
+    "Custom": "Uma vez desvinculado, você precisa vincular novamente para configurá-lo novamente no iHost"
+  },
+  "SETTING.CONFIRM_TO_UNLINK": {
+    "Original": "Confirm to unlink?",
+    "Custom": "Confirmar para desvincular?"
+  },
+  "SETTING.ENTER_PASSWORD": {
+    "Original": "Enter Password",
+    "Custom": "Digite a senha"
+  },
+  "SETTING.FIRMWARE_UPGRADE": {
+    "Original": "Firmware Upgrade",
+    "Custom": "Atualização de firmware"
+  },
+  "SETTING.AI_BRIDGE_WILL_BE_REBOOTED": {
+    "Original": "iHost will be rebooted, please wait",
+    "Custom": "O iHost será reiniciado, aguarde"
+  },
+  "SETTING.UPGRADING_PLEASE_DO_NOT": {
+    "Original": "Upgrading, please do not operate your iHost",
+    "Custom": "Atualizando, por favor, não opere seu iHost"
+  },
+  "SETTING.ENTER_ACCOUNT": {
+    "Original": "Please enter the account",
+    "Custom": "Por favor insira a conta"
+  },
+  "SETTING.NETWORK_LIGHT": {
+    "Original": "Network Indicator",
+    "Custom": "Indicador de rede"
+  },
+  "SETTING.LINK_YOUR_ACCOUNT": {
+    "Original": "Bind your eWeLink account, you can upgrade the iHost firmware in the eWeLink APP",
+    "Custom": "Vincule sua conta eWeLink, você pode atualizar o firmware iHost no APP eWeLink"
+  },
+  "SETTING.NEW_VERSION": {
+    "Original": "New",
+    "Custom": "Novo"
+  },
+  "SETTING.UP_RIGHT_NOW": {
+    "Original": "Upgrade",
+    "Custom": "Atualizar"
+  },
+  "SETTING.REBOOT_BRIDGE": {
+    "Original": "Confirm to reboot the iHost?",
+    "Custom": "Confirmar para reiniciar o iHost?"
+  },
+  "SETTING.REBOOT_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SETTING.ENTER_A_PASSWORD": {
+    "Original": "Enter a password",
+    "Custom": "insira uma senha"
+  },
+  "SETTING.ENTER_THE_PASSWORD": {
+    "Original": "Please enter the Password",
+    "Custom": "Por favor insira a senha"
+  },
+  "SETTING.PASSWORD_NOT_SAME": {
+    "Original": "The new password does not match",
+    "Custom": "A nova senha não corresponde"
+  },
+  "SETTING.ENTER_CONFIRM_PASSWORD": {
+    "Original": "Confirm your new password",
+    "Custom": "Confirme sua nova senha"
+  },
+  "SETTING.CHANGE_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SETTING.BRIDGE_LINKED": {
+    "Original": "Linked",
+    "Custom": "Vinculado"
+  },
+  "SETTING.DEVICE_NAME_MAX": {
+    "Original": "Device name can be set up to 24 characters",
+    "Custom": "O nome do dispositivo pode ser configurado com até 24 caracteres"
+  },
+  "SETTING.CANCEL_LINK_SUCCESS": {
+    "Original": "Unlinked",
+    "Custom": "Desvinculado"
+  },
+  "SETTING.DOWNLOAD_QRCODE": {
+    "Original": "Scan QR code to download eWeLink App and register",
+    "Custom": "Digitalize o código QR para baixar o aplicativo eWeLink e registrar-se"
+  },
+  "SETTING.ENTER_PASSWORD_AND_ACCOUNT": {
+    "Original": "Please enter the account and password",
+    "Custom": "Por favor insira a conta e a senha"
+  },
+  "SETTING.BIND_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SETTING.BIND_FAIL": {
+    "Original": "Failed to link",
+    "Custom": "Falha ao vincular"
+  },
+  "SETTING.DOWNLOAD_APP": {
+    "Original": "Download eWeLink App",
+    "Custom": "Baixe o aplicativo eWeLink"
+  },
+  "SETTING.QRCODE_EXPIRED": {
+    "Original": "QR code expired",
+    "Custom": "Código QR expirou"
+  },
+  "SETTING.QRCODE_FAIL": {
+    "Original": "Failed",
+    "Custom": "Fracassado"
+  },
+  "SETTING.TAP_REFRESH": {
+    "Original": "Tap to refresh",
+    "Custom": "Toque para atualizar"
+  },
+  "SETTING.TAP_AGAIN": {
+    "Original": "please try again",
+    "Custom": "Por favor, tente novamente"
+  },
+  "SETTING.RESETTING": {
+    "Original": "iHost is resetting, please wait",
+    "Custom": "iHost está sendo redefinido, aguarde"
+  },
+  "SETTING.RESTARTING": {
+    "Original": "iHost is restarting, please wait",
+    "Custom": "iHost está reiniciando, aguarde"
+  },
+  "SETTING.RESET_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SETTING.UPGRADE_FAIL_TRY_AGAIN": {
+    "Original": "Failed, please try later",
+    "Custom": "Falha, tente mais tarde"
+  },
+  "SETTING.UPGRADE_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SETTING.LOCAL_STORAGE": {
+    "Original": "local storage",
+    "Custom": "armazenamento local"
+  },
+  "SETTING.START_LOCAL_STORAGE": {
+    "Original": "When enabled, videos recorded by AI detection will be stored on the local storage device.",
+    "Custom": "Quando ativado, os vídeos gravados por detecção de IA serão armazenados no dispositivo de armazenamento local."
+  },
+  "SETTING.FORMAT": {
+    "Original": "Format",
+    "Custom": "Formatar"
+  },
+  "SETTING.STORAGE_SPACE": {
+    "Original": "Insufficient storage",
+    "Custom": "Armazenamento insuficiente"
+  },
+  "SETTING.USB_NONSUPPORT": {
+    "Original": "Unsupported format",
+    "Custom": "Formato não suportado"
+  },
+  "SETTING.SD_NONSUPPORT": {
+    "Original": "Unsupported format",
+    "Custom": "Formato não suportado"
+  },
+  "SETTING.DEVICE_NONSUPPORT": {
+    "Original": "Unsupported format for this {type} device, confirm to format?",
+    "Custom": "Formato não suportado para este dispositivo {type}. Confirmar para formatar?"
+  },
+  "SETTING.CHOOSE_THE_DEVICE": {
+    "Original": "Choose the device",
+    "Custom": "Escolha o dispositivo"
+  },
+  "SETTING.CONFIRM_TO_FORMAT": {
+    "Original": "Once formatted, all data in the {type} device will be erased. Confirm to format?",
+    "Custom": "Depois de formatados, todos os dados do dispositivo {type} serão apagados. Confirmar para formatar?"
+  },
+  "SETTING.CHOOSE_ANOTHER_DEVICE": {
+    "Original": "Local recording stopped, please set a storage device for video storage",
+    "Custom": "A gravação local foi interrompida. Defina um dispositivo de armazenamento para armazenamento de vídeo"
+  },
+  "SETTING.USB_DEVICE_HAS_BEEN_REMOVED": {
+    "Original": "Your {data} device has been removed, please choose another device in Local Storage to store videos",
+    "Custom": "Seu dispositivo {data} foi removido. Escolha outro dispositivo no armazenamento local para armazenar vídeos"
+  },
+  "SETTING.LOCAL_HAS_STOPPED": {
+    "Original": "The local recording has stopped, please insert a device to store videos",
+    "Custom": "A gravação local foi interrompida. Insira um dispositivo para armazenar vídeos"
+  },
+  "SETTING.SD_CARD_HAS_BEEN_REMOVED": {
+    "Original": "Your {data} has been removed and the local recording has stopped.",
+    "Custom": "Seus {dados} foram removidos e a gravação local foi interrompida."
+  },
+  "SETTING.DEVICE_REMOVED": {
+    "Original": "{data} Removed",
+    "Custom": "{dados} removido"
+  },
+  "SETTING.YOUR_DEVICE_REMOVED": {
+    "Original": "Your {data} has been removed",
+    "Custom": "Seus {dados} foram removidos"
+  },
+  "SETTING.USB_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SETTING.FORMATTING_WILL_ERASE_ALL_DATA": {
+    "Original": "Formatting will erase all data in the {type} device.",
+    "Custom": "A formatação apagará todos os dados do dispositivo {type}."
+  },
+  "SETTING.CONFIRM_TO_FORMATT": {
+    "Original": "Insufficient storage for {type} device, Confirm to format?",
+    "Custom": "Armazenamento insuficiente para o dispositivo {type}. Confirmar para formatar?"
+  },
+  "SETTING.USB_DEVICE_FOUND": {
+    "Original": "{type} device found",
+    "Custom": "{type} dispositivo encontrado"
+  },
+  "SETTING.VIEW_YOUR_USB": {
+    "Original": "View your USB device in Settings>Local Storage",
+    "Custom": "Veja seu dispositivo USB em Configurações>Armazenamento local"
+  },
+  "SETTING.LOCAL_RECORDING": {
+    "Original": "Local Recording",
+    "Custom": "Gravação Local"
+  },
+  "SETTING.DETECTED": {
+    "Original": "{data} detected",
+    "Custom": "{dados} detectados"
+  },
+  "SETTING.NO_DATA": {
+    "Original": "no data",
+    "Custom": "sem dados"
+  },
+  "SETTING.LANGUAGE": {
+    "Original": "Language",
+    "Custom": "Linguagem"
+  },
+  "SETTING.LOG_OUT": {
+    "Original": "Log Out",
+    "Custom": "Sair"
+  },
+  "SETTING.FORMAT_FAILED": {
+    "Original": "Format failed",
+    "Custom": "Falha na formatação"
+  },
+  "SETTING.CHOOSE_A_NORMAL_DEVICE": {
+    "Original": "Please set a storage device for video storage",
+    "Custom": "Defina um dispositivo de armazenamento para armazenamento de vídeo"
+  },
+  "SETTING.ADD_STORAGE_DEVICE": {
+    "Original": "Please insert a storage device into the iHost",
+    "Custom": "Insira um dispositivo de armazenamento no iHost"
+  },
+  "SETTING.VIDEO_NOT_EXIST": {
+    "Original": "This video does not exist",
+    "Custom": "Este vídeo não existe"
+  },
+  "SETTING.SYSTEM_RUNNING_LOG": {
+    "Original": "Download Log Files",
+    "Custom": "Baixar arquivos de log"
+  },
+  "SETTING.PROBLEM_FEEDBACK": {
+    "Original": "Feedback",
+    "Custom": "Opinião"
+  },
+  "SETTING.FEEDBACK": {
+    "Original": "Feedback",
+    "Custom": "Opinião"
+  },
+  "SETTING.SHUTTING_DOWN": {
+    "Original": "Shutting down",
+    "Custom": "Desligando"
+  },
+  "SETTING.BLUE_TOOTH": {
+    "Original": "Bluetooth",
+    "Custom": "Bluetooth"
+  },
+  "SETTING.MY_DEVICE": {
+    "Original": "My Devices",
+    "Custom": "Meus dispositivos"
+  },
+  "SETTING.ENABLE_DEVICE": {
+    "Original": "Other Devices",
+    "Custom": "Outros dispositivos"
+  },
+  "SETTING.CONNECT_BLUETOOTH": {
+    "Original": "Toggle it on to discover Bluetooth speakers around.",
+    "Custom": "Ative-o para descobrir alto-falantes Bluetooth por aí."
+  },
+  "SETTING.UNLINK_BLUETOOTH": {
+    "Original": "Disconnect",
+    "Custom": "desconectar"
+  },
+  "SETTING.IGNORE_BLUETOOTH_DEVICE": {
+    "Original": "Forget This Device",
+    "Custom": "Esqueça este dispositivo"
+  },
+  "SETTING.CONNECTED": {
+    "Original": "Connected",
+    "Custom": "Conectado"
+  },
+  "SETTING.NOT_CONNECTED": {
+    "Original": "Not Connected",
+    "Custom": "Não conectado"
+  },
+  "SETTING.BLUETOOTH_CONNECT_FAIL": {
+    "Original": "Failed to connect. Please try again.",
+    "Custom": "Falhou ao conectar. Por favor, tente novamente."
+  },
+  "SETTING.BLUE_HAS_CLOSED": {
+    "Original": "Off",
+    "Custom": "Desligado"
+  },
+  "SETTING.BLUE_NOT_OPENED": {
+    "Original": "Not connected",
+    "Custom": "Não conectado"
+  },
+  "SETTING.CONNECT_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SETTING.UNLINK_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SETTING.IGNORE_DEVICE_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "SETTING.CPU_TEMP": {
+    "Original": "CPU Temp",
+    "Custom": "Temperatura da CPU"
+  },
+  "SETTING.SIDE_MENU_HOME": {
+    "Original": "Home",
+    "Custom": "Lar"
+  },
+  "SETTING.SIDE_MENU_SCENE": {
+    "Original": "Scene",
+    "Custom": "Cena"
+  },
+  "SETTING.SIDE_MENU_SECURITY": {
+    "Original": "Security",
+    "Custom": "Segurança"
+  },
+  "SETTING.SIDE_MENU_CAST": {
+    "Original": "Cast",
+    "Custom": "Elenco"
+  },
+  "SETTING.SIDE_MENU_DOCKER": {
+    "Original": "Docker",
+    "Custom": "Docker"
+  },
+  "SETTING.SIDE_MENU_MATTER": {
+    "Original": "Matter",
+    "Custom": "Matéria"
+  },
+  "SETTING.SIDE_MENU_PILOT_FEATURES": {
+    "Original": "Pilot Features",
+    "Custom": "Recursos piloto"
+  },
+  "SETTING.SIDE_MENU_SETTING": {
+    "Original": "Settings",
+    "Custom": "Configurações"
+  },
+  "SETTING.BLUE_TOOTH_CONNECT_FAIL": {
+    "Original": "Please confirm that the {name} is in pairing mode and within range. ",
+    "Custom": "Confirme se {name} está no modo de emparelhamento e dentro do alcance."
+  },
+  "SETTING.CUSTOM_LANGUAGE": {
+    "Original": "Custom",
+    "Custom": "Personalizado"
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.STEP_1": {
+    "Original": "Step 1: Click the \"Download\" button to download the language template file in json format.",
+    "Custom": "Passo 1: Clique no botão \"Download\" para baixar o arquivo do modelo de idioma no formato json."
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.STEP_2": {
+    "Original": "Step 2: Edit the template file, translate the content in \"Original\" and fill it in \"Custom\".",
+    "Custom": "Passo 2: Edite o arquivo do modelo, traduza o conteúdo em “Original” e preencha em “Personalizado”."
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.STEP_3": {
+    "Original": "Step 3: Click the \"Upload\" button to upload the translated language file. iHost will display in your translated language.",
+    "Custom": "Etapa 3: Clique no botão \"Upload\" para fazer upload do arquivo do idioma traduzido. O iHost será exibido no seu idioma traduzido."
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.EXAMPLE": {
+    "Original": "Example:",
+    "Custom": "Exemplo:"
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.JSON_LINE_1": {
+    "Original": "{'{'}",
+    "Custom": "{'{'}"
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.JSON_LINE_2": {
+    "Original": "    \"key\": {'{'}",
+    "Custom": "    \"chave\": {'{'}"
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.JSON_LINE_3": {
+    "Original": "        \"Original\": \"This is the text displayed on the iHost\",",
+    "Custom": "        \"Original\": \"Este é o texto exibido no iHost\","
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.JSON_LINE_4": {
+    "Original": "        \"Custom\": \"Enter your translated custom text here\"",
+    "Custom": "        \"Custom\": \"Insira seu texto personalizado traduzido aqui\""
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.JSON_LINE_5": {
+    "Original": "    {'}'}",
+    "Custom": "    {'}'}"
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.JSON_LINE_6": {
+    "Original": "{'}'}",
+    "Custom": "{'}'}"
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.NOTE": {
+    "Original": "Note:",
+    "Custom": "Observação:"
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.NOTICE_1": {
+    "Original": "1. Do not translate \"{'$'}{'{'}...{'}'}\", \"{'{'}...{'}'}\" and \"\\\"\" in the \"Original\" text. Simply copy them into \"Custom\".",
+    "Custom": "1. Não traduza \"{'$'}{'{'}...{'}'}\", \"{'{'}...{'}'}\" e \"\\\"\" no \"Original \" texto. Basta copiá-los para \"Personalizado\"."
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.NOTICE_2": {
+    "Original": "2. Any untranslated or unrecognized content in the uploaded language file will default to English.",
+    "Custom": "2. Qualquer conteúdo não traduzido ou não reconhecido no arquivo de idioma enviado terá como padrão o inglês."
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.NOTICE_3": {
+    "Original": "3. If you upload language files repeatedly, only the last uploaded file will take effect.",
+    "Custom": "3. Se você fizer upload de arquivos de idioma repetidamente, apenas o último arquivo carregado terá efeito."
+  },
+  "SETTING.CUSTOM_LANGUAGE_TIP.NOTICE_4": {
+    "Original": "4. Firmware updates may add new content that requires re-translating. Follow the steps above again to add new content in the language you want.",
+    "Custom": "4. As atualizações de firmware podem adicionar novo conteúdo que requer nova tradução. Siga as etapas acima novamente para adicionar novo conteúdo no idioma desejado."
+  },
+  "SETTING.UPLOAD_LANGUAGE": {
+    "Original": "Upload",
+    "Custom": "Carregar"
+  },
+  "SETTING.DOWNLOAD_LANGUAGE": {
+    "Original": "Download",
+    "Custom": "Download"
+  },
+  "SETTING.FILE_TYPE_ERROR": {
+    "Original": "File format error, please retry.",
+    "Custom": "Erro no formato do arquivo. Tente novamente."
+  },
+  "SETTING.FILE_CHECK_ERROR": {
+    "Original": "File verification failed, please retry.",
+    "Custom": "Falha na verificação do arquivo. Tente novamente."
+  },
+  "SETTING.FILE_UPLOAD_FAILED": {
+    "Original": "Failed to upload language file, please try again.",
+    "Custom": "Falha ao carregar o arquivo de idioma. Tente novamente."
+  },
+  "SETTING.UPLOADING": {
+    "Original": "Uploading...",
+    "Custom": "Enviando..."
+  },
+  "SETTING.DELETE_CUSTOM_LANGUAGE": {
+    "Original": "Delete custom language file",
+    "Custom": "Excluir arquivo de idioma personalizado"
+  },
+  "SETTING.DELETE_CUSTOM_LANGUAGE_RECONFIRM": {
+    "Original": "iHost language will change to English if you delete the custom language file. Confirm to proceed?",
+    "Custom": "O idioma do iHost mudará para inglês se você excluir o arquivo de idioma personalizado. Confirmar para prosseguir?"
+  },
+  "SETTING.GOT_IT": {
+    "Original": "Got it",
+    "Custom": "Entendi"
+  },
+  "SETTING.LANGUAGE_MODEL": {
+    "Original": "iHost Language Pack Template",
+    "Custom": "Modelo de pacote de idiomas iHost"
+  },
+  "SETTING.CUSTOM_LANGUAGE_SWITCHED": {
+    "Original": "Custom language switched.",
+    "Custom": "Idioma personalizado alterado."
+  },
+  "SETTING.CHECK_UPGRADE": {
+    "Original": "Check for updates",
+    "Custom": "Verifique se há atualizações"
+  },
+  "SETTING.DOWNLOAD_LOGS": {
+    "Original": "Download logs",
+    "Custom": "Baixar registros"
+  },
+  "COMMON.SAVE": {
+    "Original": "Save",
+    "Custom": "Salvar"
+  },
+  "COMMON.CANCEL": {
+    "Original": "Cancel",
+    "Custom": "Cancelar"
+  },
+  "COMMON.FEEDBACK": {
+    "Original": "Feedback",
+    "Custom": "Opinião"
+  },
+  "COMMON.EDIT": {
+    "Original": "Edit",
+    "Custom": "Editar"
+  },
+  "COMMON.DONE": {
+    "Original": "Done",
+    "Custom": "Feito"
+  },
+  "COMMON.REMOVE": {
+    "Original": "Remove",
+    "Custom": "Remover"
+  },
+  "COMMON.CLOSE": {
+    "Original": "Close",
+    "Custom": "Fechar"
+  },
+  "COMMON.DEVICE_ID": {
+    "Original": "Device ID",
+    "Custom": "ID de dispositivo"
+  },
+  "COMMON.HOME": {
+    "Original": "Home",
+    "Custom": "Lar"
+  },
+  "COMMON.H": {
+    "Original": "h",
+    "Custom": "h"
+  },
+  "COMMON.MIN": {
+    "Original": "min",
+    "Custom": "min"
+  },
+  "COMMON.M": {
+    "Original": "min",
+    "Custom": "min"
+  },
+  "COMMON.S": {
+    "Original": "s",
+    "Custom": "é"
+  },
+  "COMMON.NO_DATA": {
+    "Original": "No Data",
+    "Custom": "Sem dados"
+  },
+  "COMMON.ALLOW": {
+    "Original": "Allow",
+    "Custom": "Permitir"
+  },
+  "COMMON.DOWNLOAD": {
+    "Original": "Download",
+    "Custom": "Download"
+  },
+  "ERROR.100000": {
+    "Original": "Incorrect password",
+    "Custom": "Senha incorreta"
+  },
+  "ERROR.100001": {
+    "Original": "Reset password timeout, please try again.",
+    "Custom": "Redefinir o tempo limite da senha. Tente novamente."
+  },
+  "ERROR.100002": {
+    "Original": "Password and time zone have been reset",
+    "Custom": "A senha e o fuso horário foram redefinidos"
+  },
+  "ERROR.100003": {
+    "Original": "iHost is resetting, please refresh and try again.",
+    "Custom": "O iHost está sendo redefinido. Atualize e tente novamente."
+  },
+  "ERROR.100004": {
+    "Original": "iHost is resetting password, please retry later.",
+    "Custom": "O iHost está redefinindo a senha. Tente novamente mais tarde."
+  },
+  "ERROR.100006": {
+    "Original": "Failed, please check if the device has been reset",
+    "Custom": "Falha, verifique se o dispositivo foi redefinido"
+  },
+  "ERROR.110000": {
+    "Original": "Device/Group not exist",
+    "Custom": "Dispositivo/grupo não existe"
+  },
+  "ERROR.110001": {
+    "Original": "iHost is pairing, please retry later.",
+    "Custom": "O iHost está emparelhando. Tente novamente mais tarde."
+  },
+  "ERROR.110005": {
+    "Original": "Device offline, unable to operate",
+    "Custom": "Dispositivo off-line, incapaz de operar"
+  },
+  "ERROR.110006": {
+    "Original": "Failed to control",
+    "Custom": "Falha ao controlar"
+  },
+  "ERROR.110007": {
+    "Original": "Failed to control",
+    "Custom": "Falha ao controlar"
+  },
+  "ERROR.110008": {
+    "Original": "Limit reached for adding groups",
+    "Custom": "Limite atingido para adição de grupos"
+  },
+  "ERROR.110009": {
+    "Original": "Incorrect IP address, please check and re-enter",
+    "Custom": "Endereço IP incorreto, verifique e digite novamente"
+  },
+  "ERROR.110010": {
+    "Original": "Incorrect username or password",
+    "Custom": "Usuário ou senha incorretos"
+  },
+  "ERROR.110011": {
+    "Original": "Failed to capture video feed, Please check and try again!",
+    "Custom": "Falha ao capturar o feed de vídeo. Verifique e tente novamente!"
+  },
+  "ERROR.110012": {
+    "Original": "Unsupported video streaming formats",
+    "Custom": "Formatos de streaming de vídeo não suportados"
+  },
+  "ERROR.110013": {
+    "Original": "Device already exists",
+    "Custom": "O dispositivo já existe"
+  },
+  "ERROR.110014": {
+    "Original": "Device offline, unable to operate",
+    "Custom": "Dispositivo off-line, incapaz de operar"
+  },
+  "ERROR.110015": {
+    "Original": "The username and password are not matched with those in RTSP address.",
+    "Custom": "O nome de usuário e a senha não correspondem aos do endereço RTSP."
+  },
+  "ERROR.110018": {
+    "Original": "Incorrect image path",
+    "Custom": "Caminho de imagem incorreto"
+  },
+  "ERROR.110020": {
+    "Original": "Scanning for zigbee map, please hold.",
+    "Custom": "Procurando mapa zigbee, aguarde."
+  },
+  "ERROR.110022": {
+    "Original": "Please pair button(s) first.",
+    "Custom": "Por favor, emparelhe o(s) botão(ões) primeiro."
+  },
+  "ERROR.110024": {
+    "Original": "Fail to update device configuration",
+    "Custom": "Falha ao atualizar a configuração do dispositivo"
+  },
+  "ERROR.120000": {
+    "Original": "Scene not exist, please refresh and try again.",
+    "Custom": "A cena não existe. Atualize e tente novamente."
+  },
+  "ERROR.120002": {
+    "Original": "Limit reached for adding scenes",
+    "Custom": "Limite atingido para adicionar cenas"
+  },
+  "ERROR.120003": {
+    "Original": "Limit reached for setting triggers",
+    "Custom": "Limite atingido para configuração de gatilhos"
+  },
+  "ERROR.120004": {
+    "Original": "Limit reached for setting actions",
+    "Custom": "Limite atingido para definir ações"
+  },
+  "ERROR.120005": {
+    "Original": "Failed to run",
+    "Custom": "Falha ao executar"
+  },
+  "ERROR.130000": {
+    "Original": "Room not exist, please refresh and try again.",
+    "Custom": "A sala não existe. Atualize e tente novamente."
+  },
+  "ERROR.130001": {
+    "Original": "Limit reached for adding rooms",
+    "Custom": "Limite atingido para adição de quartos"
+  },
+  "ERROR.130002": {
+    "Original": "This Room name already exists",
+    "Custom": "Este nome de sala já existe"
+  },
+  "ERROR.130003": {
+    "Original": "At most 24 characters allowed for Room name",
+    "Custom": "No máximo 24 caracteres permitidos para o nome da sala"
+  },
+  "ERROR.130004": {
+    "Original": "Enter a Room name",
+    "Custom": "Insira um nome de sala"
+  },
+  "ERROR.150000": {
+    "Original": "Enter a device name",
+    "Custom": "Insira um nome de dispositivo"
+  },
+  "ERROR.150002": {
+    "Original": "No new firmware",
+    "Custom": "Sem novo firmware"
+  },
+  "ERROR.150003": {
+    "Original": "Incorrect account or password",
+    "Custom": "Conta ou senha incorreta"
+  },
+  "ERROR.150004": {
+    "Original": "Already linked",
+    "Custom": "Já vinculado"
+  },
+  "ERROR.170001": {
+    "Original": "Your camera not support AI detection",
+    "Custom": "Sua câmera não suporta detecção de IA"
+  },
+  "ERROR.170002": {
+    "Original": "Failed, please check your camera information",
+    "Custom": "Falha. Verifique as informações da sua câmera"
+  },
+  "ERROR.170003": {
+    "Original": "Device offline, failed to enable detection",
+    "Custom": "Dispositivo off-line, falha ao ativar a detecção"
+  },
+  "ERROR.170004": {
+    "Original": "Detection is enabled, you can’t edit now",
+    "Custom": "A detecção está ativada, você não pode editar agora"
+  },
+  "ERROR.170005": {
+    "Original": "Please add actions",
+    "Custom": "Adicione ações"
+  },
+  "ERROR.170006": {
+    "Original": "Failed, please try later",
+    "Custom": "Falha, tente mais tarde"
+  },
+  "ERROR.180007": {
+    "Original": "Cast has been deleted",
+    "Custom": "O elenco foi excluído"
+  },
+  "ERROR.180008": {
+    "Original": "You have reached the max limit to add cast",
+    "Custom": "Você atingiu o limite máximo para adicionar elenco"
+  },
+  "ERROR.190001": {
+    "Original": "Operation failed, add-on has been removed",
+    "Custom": "A operação falhou, o complemento foi removido"
+  },
+  "ERROR.190002": {
+    "Original": "Add-on is not downloading.",
+    "Custom": "O complemento não está baixando."
+  },
+  "ERROR.190003": {
+    "Original": "Please install the Add-on first",
+    "Custom": "Instale o complemento primeiro"
+  },
+  "ERROR.190004": {
+    "Original": "Addon not found",
+    "Custom": "Complemento não encontrado"
+  },
+  "ERROR.190005": {
+    "Original": "Version information has changed, please refresh",
+    "Custom": "As informações da versão foram alteradas, atualize"
+  },
+  "ERROR.190007": {
+    "Original": "No TF card inserted(TF card needs to be inserted to use Docker function.)",
+    "Custom": "Nenhum cartão TF inserido (o cartão TF precisa ser inserido para usar a função Docker)."
+  },
+  "ERROR.190009": {
+    "Original": "Add-on has been used.",
+    "Custom": "O complemento foi usado."
+  },
+  "ERROR.190011": {
+    "Original": "insufficient storage available on TF card",
+    "Custom": "armazenamento insuficiente disponível no cartão TF"
+  },
+  "ERROR.190012": {
+    "Original": "Please format TF card first.",
+    "Custom": "Formate o cartão TF primeiro."
+  },
+  "ERROR.190013": {
+    "Original": "Failed, settings error",
+    "Custom": "Falha, erro de configuração"
+  },
+  "ERROR.190014": {
+    "Original": "Restarting iHost may be necessary to get Docker working again.",
+    "Custom": "Pode ser necessário reiniciar o iHost para que o Docker funcione novamente."
+  },
+  "ERROR.190017": {
+    "Original": "TF card is being formatted",
+    "Custom": "O cartão TF está sendo formatado"
+  },
+  "ERROR.190023": {
+    "Original": "Download failed,Unsupported image architecture",
+    "Custom": "Falha no download, arquitetura de imagem não suportada"
+  },
+  "ERROR.190028": {
+    "Original": "The port is already occupied, please fill in the port again and run",
+    "Custom": "A porta já está ocupada, preencha a porta novamente e execute"
+  },
+  "CAST.CAST": {
+    "Original": "Cast",
+    "Custom": "Elenco"
+  },
+  "CAST.NAME": {
+    "Original": "Your Cast Name",
+    "Custom": "Seu nome de elenco"
+  },
+  "CAST.WIDGET": {
+    "Original": "Widgets",
+    "Custom": "Widgets"
+  },
+  "CAST.ALL_CONFIG": {
+    "Original": "All panel",
+    "Custom": "Todos os painéis"
+  },
+  "CAST.ADD": {
+    "Original": "Add",
+    "Custom": "Adicionar"
+  },
+  "CAST.CAST_INTRODUCTION": {
+    "Original": "eWeLink Cast, a brand new feature that allows you to create dashboards of your devices and scenes, arm and disarm smart security, and receive your security notifications. On the settings page, simply drag and drop the icons to sort your devices and scenes. Set an access PIN code for the dashboard to prevent unexpected switching.",
+    "Custom": "eWeLink Cast, um novo recurso que permite criar painéis de seus dispositivos e cenas, armar e desarmar segurança inteligente e receber notificações de segurança. Na página de configurações, basta arrastar e soltar os ícones para classificar seus dispositivos e cenas. Defina um código PIN de acesso para o painel para evitar trocas inesperadas."
+  },
+  "CAST.LAN_ACCESS": {
+    "Original": "Please keep your mobile on the same LAN as the iHost, and access to the unified URL ",
+    "Custom": "Mantenha seu celular na mesma LAN que o iHost e acesse o URL unificado"
+  },
+  "CAST.SEE_AND_SWITCH": {
+    "Original": " to switch between dashboards on a single tablet.",
+    "Custom": " para alternar entre painéis em um único tablet."
+  },
+  "CAST.USE_IDLE_TABLE": {
+    "Original": "Unleash your DIY potential, make the tablet and wall blend together as your customized smart home controller.",
+    "Custom": "Liberte o seu potencial DIY, faça com que o tablet e a parede se misturem como o seu controlador doméstico inteligente personalizado."
+  },
+  "CAST.USE_PHONE": {
+    "Original": "You can access the dashboard through the mobile browser to quickly control devices when the computer is not around.",
+    "Custom": "Você pode acessar o painel por meio do navegador móvel para controlar rapidamente os dispositivos quando o computador não estiver por perto."
+  },
+  "CAST.SET_PIN": {
+    "Original": "Set an access PIN code for dashboard to prevent unexpected dashboard switching.",
+    "Custom": "Defina um código PIN de acesso para o painel para evitar trocas inesperadas de painel."
+  },
+  "CAST.DO_NOT_SHOW_AGAIN": {
+    "Original": "Don't show again",
+    "Custom": "Não mostre novamente"
+  },
+  "CAST.GET_STARTED": {
+    "Original": "Get Started",
+    "Custom": "Iniciar"
+  },
+  "CAST.SKIP": {
+    "Original": "Skip",
+    "Custom": "Pular"
+  },
+  "CAST.CONFIGURE": {
+    "Original": "Configure",
+    "Custom": "Configurar"
+  },
+  "CAST.COPY": {
+    "Original": "Copy URL",
+    "Custom": "Copiar URL"
+  },
+  "CAST.COPIED": {
+    "Original": "Copied",
+    "Custom": "Copiado"
+  },
+  "CAST.COPY_FAILED": {
+    "Original": "Copy failed",
+    "Custom": "Falha na cópia"
+  },
+  "CAST.GUIDE_CAST_FEATURES": {
+    "Original": "You can use eWeLink Cast to create dashboards to display and control your devices and scenes, arm and disarm smart security, and receive and security notifications.",
+    "Custom": "Você pode usar o eWeLink Cast para criar painéis para exibir e controlar seus dispositivos e cenas, armar e desarmar segurança inteligente e receber notificações de segurança."
+  },
+  "CAST.GUIDE_CAST_CREATE": {
+    "Original": "Tap + to create your first Cast dashboard.",
+    "Custom": "Toque em + para criar seu primeiro painel do Cast."
+  },
+  "CAST.USE_DEVICE_ACCESS": {
+    "Original": "Access to the URL ",
+    "Custom": "Acesso ao URL"
+  },
+  "CAST.USE_CAST": {
+    "Original": "to use the Cast dashboard",
+    "Custom": "para usar o painel do Google Cast"
+  },
+  "CAST.NAME_PLACEHOLDER": {
+    "Original": "Enter a Cast Name",
+    "Custom": "Insira um nome de elenco"
+  },
+  "CAST.SELECT_DEVICES": {
+    "Original": "Select Devices",
+    "Custom": "Selecione dispositivos"
+  },
+  "CAST.SELECT_SCENES": {
+    "Original": "Select Scenes",
+    "Custom": "Selecione cenas"
+  },
+  "CAST.PASSWORD": {
+    "Original": "Pin Code",
+    "Custom": "Código PIN"
+  },
+  "CAST.OPTIONAL": {
+    "Original": "Optional, 4 digits only",
+    "Custom": "Opcional, apenas 4 dígitos"
+  },
+  "CAST.ALL_ON": {
+    "Original": "All On",
+    "Custom": "Tudo em cima"
+  },
+  "CAST.WATER": {
+    "Original": "Water",
+    "Custom": "Água"
+  },
+  "CAST.ALARM": {
+    "Original": "Alarm",
+    "Custom": "Alarme"
+  },
+  "CAST.SMOKE_ALARM": {
+    "Original": "Alarm",
+    "Custom": "Alarme"
+  },
+  "CAST.MOTION": {
+    "Original": "Person",
+    "Custom": "Pessoa"
+  },
+  "CAST.MOVE": {
+    "Original": "Move",
+    "Custom": "Mover"
+  },
+  "CAST.SINGLE": {
+    "Original": "Single",
+    "Custom": "Solteiro"
+  },
+  "CAST.DEVICE": {
+    "Original": "Device(s)",
+    "Custom": "Dispositivos)"
+  },
+  "CAST.SCENE": {
+    "Original": "Scene(s)",
+    "Custom": "Cena(s)"
+  },
+  "CAST.SECURITY_MODE": {
+    "Original": "Security Mode",
+    "Custom": "modo de segurança"
+  },
+  "CAST.NO_DATA_DEVICE": {
+    "Original": "No Data",
+    "Custom": "Sem dados"
+  },
+  "CAST.NO_DATA_SCENE": {
+    "Original": "No Data",
+    "Custom": "Sem dados"
+  },
+  "CAST.NO_SECURITY_MODE": {
+    "Original": "Not Set",
+    "Custom": "Não configurado"
+  },
+  "CAST.VISIT": {
+    "Original": "Visit",
+    "Custom": "Visita"
+  },
+  "CAST.USE_CAST_PANEL": {
+    "Original": "to use eWeLink Cast dashboard",
+    "Custom": "para usar o painel eWeLink Cast"
+  },
+  "CAST.DELETE": {
+    "Original": "Delete this Cast?",
+    "Custom": "Excluir este elenco?"
+  },
+  "CAST.LIMITS_CAST": {
+    "Original": "Limits reached for adding Cast",
+    "Custom": "Limites atingidos para adicionar Cast"
+  },
+  "CAST.OLD_WINDOW_SYSTEM_TIP": {
+    "Original": "If you are running an older Windows version or have a stricter network configuration, you might need to access cast at ",
+    "Custom": "Se você estiver executando uma versão mais antiga do Windows ou tiver uma configuração de rede mais rígida, talvez seja necessário acessar o cast em"
+  },
+  "CAST.OR": {
+    "Original": "  or  ",
+    "Custom": "  ou"
+  },
+  "CAST.USE_IP_ACCESS": {
+    "Original": " (replace X.X.X.X with your iHost’s IP address)",
+    "Custom": " (substitua X.X.X.X pelo endereço IP do seu iHost)"
+  },
+  "CAST.CAST_DELETE": {
+    "Original": "Cast has been deleted",
+    "Custom": "O elenco foi excluído"
+  },
+  "CAST.GOT_IT": {
+    "Original": "Got it",
+    "Custom": "Entendi"
+  },
+  "CAST.BEEN_UPDATED": {
+    "Original": "The configuration item has been updated. Please reset it.",
+    "Custom": "O item de configuração foi atualizado. Por favor, reinicie-o."
+  },
+  "CAST.PREVIEW": {
+    "Original": "Preview",
+    "Custom": "Visualização"
+  },
+  "CAST.DEVICE_CHART": {
+    "Original": "Charts",
+    "Custom": "Gráficos"
+  },
+  "CAST.SETTINGS": {
+    "Original": "Settings",
+    "Custom": "Configurações"
+  },
+  "CAST.CHART_DISPLAY": {
+    "Original": "Show history chart",
+    "Custom": "Mostrar gráfico histórico"
+  },
+  "CAST.ELECTRICITY_CHART": {
+    "Original": "Power consumption",
+    "Custom": "Consumo de energia"
+  },
+  "CAST.TEMPERATURE_HUMIDITY_CHART": {
+    "Original": "Temperature and humidity",
+    "Custom": "Temperatura e umidade"
+  },
+  "CAST.ELECTRICITY_DEVICE_EMPTY": {
+    "Original": "No power monitoring devices selected",
+    "Custom": "Nenhum dispositivo de monitoramento de energia selecionado"
+  },
+  "CAST.HUMITURE_DEVICE_EMPTY": {
+    "Original": "No temperature&humidity sensors selected",
+    "Custom": "Nenhum sensor de temperatura e umidade selecionado"
+  },
+  "CAST.TIME": {
+    "Original": "Clock",
+    "Custom": "Relógio"
+  },
+  "CAST.CALENDAR": {
+    "Original": "Calendar",
+    "Custom": "Calendário"
+  },
+  "CAST.CUSTOM_TEXT": {
+    "Original": "Custom Text",
+    "Custom": "Texto personalizado"
+  },
+  "CAST.CUSTOM_TEXT_PLACEHOLDER": {
+    "Original": "Please enter some text",
+    "Custom": "Por favor insira algum texto"
+  },
+  "CAST.BACKGROUND_COLOR": {
+    "Original": "Background color",
+    "Custom": "Cor de fundo"
+  },
+  "CAST.PINCODE": {
+    "Original": "PinCode",
+    "Custom": "Código PIN"
+  },
+  "CAST.ENERGY_DASHBOARD_CARD.TODAY_COUNT": {
+    "Original": "Today",
+    "Custom": "Hoje"
+  },
+  "CAST.ENERGY_DASHBOARD_CARD.MONTH_COUNT": {
+    "Original": "This month",
+    "Custom": "Este mês"
+  },
+  "CAST.CUSTOM.INPUT_TEXT": {
+    "Original": "Please enter some text",
+    "Custom": "Por favor insira algum texto"
+  },
+  "CAST.CUSTOM.TEXT_EMPTY": {
+    "Original": "Custom text can't be empty",
+    "Custom": "O texto personalizado não pode ficar vazio"
+  },
+  "FEEDBACK.FEEDBACK": {
+    "Original": "Feedback",
+    "Custom": "Opinião"
+  },
+  "FEEDBACK.NAME": {
+    "Original": "Your name",
+    "Custom": "Seu nome"
+  },
+  "FEEDBACK.CONTACT_WAY": {
+    "Original": "Email address",
+    "Custom": "Endereço de email"
+  },
+  "FEEDBACK.CONTACT_PLACEHOLDER": {
+    "Original": "Please enter your email",
+    "Custom": "Por favor introduza o seu e-mail"
+  },
+  "FEEDBACK.ERROR_EMAIL": {
+    "Original": "Invalid email , Please try again",
+    "Custom": "E-mail inválido, tente novamente"
+  },
+  "FEEDBACK.WHAT_CAN_HELP": {
+    "Original": "How can we help you?",
+    "Custom": "Como podemos te ajudar?"
+  },
+  "FEEDBACK.ATTACHMENT": {
+    "Original": "Attachments(recommend)",
+    "Custom": "Anexos (recomendado)"
+  },
+  "FEEDBACK.ATTACHMENT_TIP": {
+    "Original": "Support uploading pictures, videos and log files",
+    "Custom": "Suporte para upload de fotos, vídeos e arquivos de log"
+  },
+  "FEEDBACK.MAX_FILES": {
+    "Original": "Add up to 5 files",
+    "Custom": "Adicione até 5 arquivos"
+  },
+  "FEEDBACK.WHAT_CAN_HELP_PLACEHOLDER": {
+    "Original": "Please provide details if there is any fault, Such as: eWeLink CUBE Version, device ID",
+    "Custom": "Forneça detalhes se houver alguma falha, como: versão do eWeLink CUBE, ID do dispositivo"
+  },
+  "FEEDBACK.CLOSE": {
+    "Original": "Close",
+    "Custom": "Fechar"
+  },
+  "FEEDBACK.SUMMIT": {
+    "Original": "Submit",
+    "Custom": "Enviar"
+  },
+  "FEEDBACK.SUMMIT_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "FEEDBACK.FILL_ALL_REQUIRE": {
+    "Original": "Please fill out  all the required fields",
+    "Custom": "Por favor preencha todos os campos obrigatórios"
+  },
+  "FEEDBACK.FAIL_TRY_LATER": {
+    "Original": "failed, please try again",
+    "Custom": "falhou, tente novamente"
+  },
+  "FEEDBACK.FAIL_NO_INTERNET": {
+    "Original": "failed, please check your network",
+    "Custom": "falhou, verifique sua rede"
+  },
+  "DOCKER.DOCKER": {
+    "Original": "Docker",
+    "Custom": "Docker"
+  },
+  "DOCKER.ALL_ADDON_ON": {
+    "Original": "Add-on List",
+    "Custom": "Lista de complementos"
+  },
+  "DOCKER.ADD": {
+    "Original": "Add to list",
+    "Custom": "Adicionado a lista"
+  },
+  "DOCKER.TF_NAME": {
+    "Original": "TF CARD",
+    "Custom": "CARTÃO TF"
+  },
+  "DOCKER.TF_DESCRIBE": {
+    "Original": "Please insert a TF card with adequate capacity to your iHost before installing add-on. Do not remove the TF card after installation.",
+    "Custom": "Insira um cartão TF com capacidade adequada em seu iHost antes de instalar o complemento. Não remova o cartão TF após a instalação."
+  },
+  "DOCKER.FORMAT": {
+    "Original": "Format",
+    "Custom": "Formatar"
+  },
+  "DOCKER.MODAL_FORMAT": {
+    "Original": "All data will be erased after format, continue?",
+    "Custom": "Todos os dados serão apagados após a formatação, continuar?"
+  },
+  "DOCKER.DELETE_STATEMENT": {
+    "Original": "Add-on configurations will be erased after deleting, confirm to delete {name} ?",
+    "Custom": "As configurações do complemento serão apagadas após a exclusão. Confirme para excluir {nome}?"
+  },
+  "DOCKER.UNINSTALL_STATEMENT": {
+    "Original": "Add-on configurations will be erased after uninstall, confirm to uninstall {name} ? ",
+    "Custom": "As configurações do complemento serão apagadas após a desinstalação. Confirme para desinstalar {nome}?"
+  },
+  "DOCKER.RUN": {
+    "Original": "Run",
+    "Custom": "Correr"
+  },
+  "DOCKER.DOCKER_HOST_PORT_PLACEHOLDER": {
+    "Original": "Host Port",
+    "Custom": "Porta hospedeira"
+  },
+  "DOCKER.DOCKER_ADDON_PORT_PLACEHOLDER": {
+    "Original": "Add-on Port",
+    "Custom": "Porta complementar"
+  },
+  "DOCKER.DOCKER_RAM_PLACEHOLDER": {
+    "Original": "Set the memory limit for each Add-on runtime",
+    "Custom": "Defina o limite de memória para cada tempo de execução do complemento"
+  },
+  "DOCKER.DOCKER_CPU_PLACEHOLDER": {
+    "Original": "Percentage of CPU utilization allowed when Add-on is running",
+    "Custom": "Porcentagem de utilização da CPU permitida quando o complemento está em execução"
+  },
+  "DOCKER.MICRO_PHONE_SPEAKER": {
+    "Original": "Microphone/Speaker",
+    "Custom": "Microfone/alto-falante"
+  },
+  "DOCKER.DOCKER_SEARCH_INPUT_VAL": {
+    "Original": "Search Add-on with name in Docker hub",
+    "Custom": "Pesquisar complemento com nome no hub Docker"
+  },
+  "DOCKER.VERSION_UPDATE": {
+    "Original": "Check for updates",
+    "Custom": "Verifique se há atualizações"
+  },
+  "DOCKER.CHECKING_UPDATES": {
+    "Original": "Checking... ",
+    "Custom": "Verificando..."
+  },
+  "DOCKER.OFFICIAL_WEBSITE": {
+    "Original": "docker docs",
+    "Custom": "documentos do docker"
+  },
+  "DOCKER.ALREADY_UPDATES_VERSION": {
+    "Original": "Your version is up to date",
+    "Custom": "Sua versão está atualizada"
+  },
+  "DOCKER.DOWNING_NEW_VERSION": {
+    "Original": "Tap \"Minimize\" to download in background.",
+    "Custom": "Toque em \"Minimizar\" para fazer o download em segundo plano."
+  },
+  "DOCKER.DOWNLOAD_AND_UPDATE": {
+    "Original": "Download and install",
+    "Custom": "Baixar e instalar"
+  },
+  "DOCKER.ADDON_DOCK_HUB": {
+    "Original": "Add Add-on to list",
+    "Custom": "Adicionar complemento à lista"
+  },
+  "DOCKER.FIND_NEW_TF_CARD": {
+    "Original": "{name} card inserted",
+    "Custom": "Cartão de {nome} inserido"
+  },
+  "DOCKER.FORMAT_TF_CARD": {
+    "Original": "Please format TF card first",
+    "Custom": "Formate o cartão TF primeiro"
+  },
+  "DOCKER.CANCEL_DOWNLOAD": {
+    "Original": "Cancel",
+    "Custom": "Cancelar"
+  },
+  "DOCKER.MINIMIZE": {
+    "Original": "Minimize",
+    "Custom": "Minimizar"
+  },
+  "DOCKER.RETRY": {
+    "Original": "Retry",
+    "Custom": "Tentar novamente"
+  },
+  "DOCKER.NO_TF_CARD": {
+    "Original": "Ensure that a TF card is inserted before attempting to use Docker.",
+    "Custom": "Certifique-se de que um cartão TF esteja inserido antes de tentar usar o Docker."
+  },
+  "DOCKER.LOGS.FILTER_INPUT_PLACEHOLDER": {
+    "Original": "Please enter keywords to filter",
+    "Custom": "Insira palavras-chave para filtrar"
+  },
+  "DOCKER.LOGS.BEGIN_TIME": {
+    "Original": "Starting time",
+    "Custom": "Hora de início"
+  },
+  "DOCKER.LOGS.END_TIME": {
+    "Original": "End Time",
+    "Custom": "Fim do tempo"
+  },
+  "DOCKER.LOGS.SEARCH": {
+    "Original": "Query",
+    "Custom": "Consulta"
+  },
+  "DOCKER.LOGS.SEARCH_CANCEL": {
+    "Original": "Cancel",
+    "Custom": "Cancelar"
+  },
+  "DOCKER.LOGS.FILTER_NONE": {
+    "Original": "No log line matching the \"{filterValue}\" filter",
+    "Custom": "Nenhuma linha de registro correspondente ao filtro \"{filterValue}\""
+  },
+  "DOCKER.LOGS.MODAL_LINE": {
+    "Original": "Row",
+    "Custom": "Linha"
+  },
+  "DOCKER.LOGS.MODAL_LINE_ERROR": {
+    "Original": "* Please enter a positive integer.",
+    "Custom": "* Insira um número inteiro positivo."
+  },
+  "DOCKER.LOGS.MODAL_DATE_ERROR": {
+    "Original": "* Please select start time & end time",
+    "Custom": "* Selecione a hora de início e a hora de término"
+  },
+  "DOCKER.LOGS.GET_LOG_TIMEOUT_ROW": {
+    "Original": "Query timeout due to excessive logs,please reduce the  row.",
+    "Custom": "Tempo limite de consulta devido a logs excessivos. Reduza a linha."
+  },
+  "DOCKER.LOGS.GET_LOG_TIMEOUT_TIME": {
+    "Original": "Query timeout due to excessive logs,please shorten the query time.",
+    "Custom": "Tempo limite de consulta devido a logs excessivos. Reduza o tempo de consulta."
+  },
+  "DOCKER.LOGS.MODAL_DATE": {
+    "Original": "Date",
+    "Custom": "Data"
+  },
+  "DOCKER.LOGS.MODAL_HINT": {
+    "Original": "Notes",
+    "Custom": "Notas"
+  },
+  "DOCKER.LOGS.MODAL_SEARCH_BY_DATE_LINE": {
+    "Original": "Logs can be filtered by date or by row.",
+    "Custom": "Os logs podem ser filtrados por data ou por linha."
+  },
+  "DOCKER.LOGS.MODAL_SEARCH_TIME_TIP": {
+    "Original": "Loading time increases with query logs.",
+    "Custom": "O tempo de carregamento aumenta com os logs de consulta."
+  },
+  "DOCKER.LOGS.MODAL_SEARCH_DEFAULT": {
+    "Original": "Latest 100 logs will be displayed if no date or row is specified.",
+    "Custom": "Os últimos 100 registros serão exibidos se nenhuma data ou linha for especificada."
+  },
+  "DOCKER.LOGS.MODAL_SEARCH_DATE_TIP": {
+    "Original": "The end time needs to be greater than the start time.",
+    "Custom": "A hora de término precisa ser maior que a hora de início."
+  },
+  "DOCKER.NOTICE": {
+    "Original": "Notice",
+    "Custom": "Perceber"
+  },
+  "DOCKER.START": {
+    "Original": "Start",
+    "Custom": "Começar"
+  },
+  "DOCKER.PAUSE": {
+    "Original": "Stop",
+    "Custom": "Parar"
+  },
+  "DOCKER.RESTART": {
+    "Original": "Restart",
+    "Custom": "Reiniciar"
+  },
+  "DOCKER.TF_CARD_PULLOUT": {
+    "Original": "TF card removed",
+    "Custom": "Cartão TF removido"
+  },
+  "DOCKER.ERROR_MESSAGE": {
+    "Original": "Download failed, please try again later.",
+    "Custom": "Falha no download, tente novamente mais tarde."
+  },
+  "DOCKER.UPGRADING": {
+    "Original": "Updating...",
+    "Custom": "Atualizando..."
+  },
+  "DOCKER.UPDATE_NOW": {
+    "Original": "Install now",
+    "Custom": "Instale agora"
+  },
+  "DOCKER.GET_TOKEN_TITLE": {
+    "Original": "Get iHost access token",
+    "Custom": "Obtenha o token de acesso iHost"
+  },
+  "DOCKER.GET_TOKEN_CONTEXT": {
+    "Original": "Allow to get iHost access token?",
+    "Custom": "Permitir obter token de acesso iHost?"
+  },
+  "DOCKER.TOKEN_SUCCESS": {
+    "Original": "Access token issued",
+    "Custom": "Token de acesso emitido"
+  },
+  "DOCKER.DOWNLOAD_FAIL": {
+    "Original": "Download failed, please try again later.",
+    "Custom": "Falha no download, tente novamente mais tarde."
+  },
+  "DOCKER.HAVE_NEW_VERSION": {
+    "Original": "{name} has a new version, download and install now?",
+    "Custom": "{name} tem uma nova versão, baixe e instale agora?"
+  },
+  "DOCKER.DOWNLOAD_SUCCESS": {
+    "Original": "\"New version \"{time}\" of \"{name}\" is ready to install, install now? ",
+    "Custom": "\"Nova versão \"{time}\" de \"{name}\" está pronta para instalação, instalar agora?"
+  },
+  "DOCKER.FINISH_UPDATE": {
+    "Original": "New version \"{time}\" of \"{name}\" is ready to install, install now? ",
+    "Custom": "A nova versão \"{time}\" de \"{name}\" está pronta para ser instalada. Instalar agora?"
+  },
+  "DOCKER.UNINSTALL_SUCCEEDED": {
+    "Original": "Uninstalled successfully",
+    "Custom": "Desinstalado com sucesso"
+  },
+  "DOCKER.FORMAT_SUCCESS": {
+    "Original": "Formatted successfully",
+    "Custom": "Formatado com sucesso"
+  },
+  "DOCKER.PLEASE_SELECT_ADDON": {
+    "Original": "Please select an Add-on.",
+    "Custom": "Selecione um complemento."
+  },
+  "DOCKER.CANCEL_DOWNLOAD_SUCCESS": {
+    "Original": "Cancelled successfully",
+    "Custom": "Cancelado com sucesso"
+  },
+  "DOCKER.INSTALL_SUCCESS": {
+    "Original": "{name} installed",
+    "Custom": "{nome} instalado"
+  },
+  "DOCKER.RUN_FAILED": {
+    "Original": "Failed to run. Please set Network in Optional setting as host",
+    "Custom": "Falha ao executar. Defina a rede na configuração opcional como host"
+  },
+  "DOCKER.SUCCESSFULLY_STARTED": {
+    "Original": "started Successfully",
+    "Custom": "iniciado com sucesso"
+  },
+  "DOCKER.RESTART_SUCCEEDED": {
+    "Original": "Restarted successfully",
+    "Custom": "Reiniciado com sucesso"
+  },
+  "DOCKER.TERMINATED_SUCCESSFULLY": {
+    "Original": "Stopped successfully",
+    "Custom": "Parado com sucesso"
+  },
+  "DOCKER.DELETION_SUCCEEDED": {
+    "Original": "Deleted successfully",
+    "Custom": "Apagado com sucesso"
+  },
+  "DOCKER.UPGRADE_SUCCEEDED": {
+    "Original": "{name} updated successfully",
+    "Custom": "{name} atualizado com sucesso"
+  },
+  "DOCKER.UPGRADE_FAIL": {
+    "Original": "{name} update failed",
+    "Custom": "Falha na atualização de {nome}"
+  },
+  "DOCKER.OPTIONAL_SETTINGS": {
+    "Original": "Optional settings",
+    "Custom": "Configurações opcionais"
+  },
+  "DOCKER.PORT": {
+    "Original": "Port",
+    "Custom": "Porta"
+  },
+  "DOCKER.NETWORK": {
+    "Original": "Network",
+    "Custom": "Rede"
+  },
+  "DOCKER.RAM": {
+    "Original": "RAM",
+    "Custom": "BATER"
+  },
+  "DOCKER.CPU": {
+    "Original": "CPU",
+    "Custom": "CPU"
+  },
+  "DOCKER.VOLUME": {
+    "Original": "Volume",
+    "Custom": "Volume"
+  },
+  "DOCKER.ADD_SUCCESS": {
+    "Original": "Success",
+    "Custom": "Sucesso"
+  },
+  "DOCKER.RAM_USAGE": {
+    "Original": "RAM Usage",
+    "Custom": "Uso de RAM"
+  },
+  "DOCKER.CPU_USAGE": {
+    "Original": "CPU Usage",
+    "Custom": "Utilização do CPU"
+  },
+  "DOCKER.VERSION": {
+    "Original": "Version",
+    "Custom": "Versão"
+  },
+  "DOCKER.SIZE": {
+    "Original": "Size",
+    "Custom": "Tamanho"
+  },
+  "DOCKER.CREATED": {
+    "Original": "Created",
+    "Custom": "Criada"
+  },
+  "DOCKER.ADDON_ID": {
+    "Original": "Add-on ID",
+    "Custom": "ID do complemento"
+  },
+  "DOCKER.INSTALL": {
+    "Original": "Install",
+    "Custom": "Instalar"
+  },
+  "DOCKER.UNINSTALL": {
+    "Original": "Uninstall",
+    "Custom": "Desinstalar"
+  },
+  "DOCKER.UNINSTALL2": {
+    "Original": "Delete",
+    "Custom": "Excluir"
+  },
+  "DOCKER.OPTIONAL_SETTING": {
+    "Original": "Setting",
+    "Custom": "Contexto"
+  },
+  "DOCKER.RUN_ADD_ON": {
+    "Original": "Run",
+    "Custom": "Correr"
+  },
+  "DOCKER.TF_CARD_CHECKING": {
+    "Original": "Checking the inserted card",
+    "Custom": "Verificando o cartão inserido"
+  },
+  "DOCKER.BEFORE_USE_FORMAT": {
+    "Original": "To ensure the proper functioning of Docker, please format the TF card beforehand.",
+    "Custom": "Para garantir o funcionamento adequado do Docker, formate o cartão TF com antecedência."
+  },
+  "DOCKER.ADDON_ALREADY_USE": {
+    "Original": "{name} already exists, please refresh",
+    "Custom": "{name} já existe, atualize"
+  },
+  "DOCKER.ADDON_ALREADY_EXIST": {
+    "Original": "{name} is already exists.",
+    "Custom": "{nome} já existe."
+  },
+  "DOCKER.INSTALL_INSUFFICIENT_STORAGE": {
+    "Original": "Installation failed, insufficient storage available on TF card",
+    "Custom": "Falha na instalação, armazenamento insuficiente disponível no cartão TF"
+  },
+  "DOCKER.IMAGE_CANNOT_INSTALLED": {
+    "Original": "Download failed,{name} could not be installed",
+    "Custom": "Falha no download, não foi possível instalar {name}"
+  },
+  "DOCKER.INSTALL_UNKNOWN_ERROR": {
+    "Original": "Installation failed,please try again later",
+    "Custom": "Falha na instalação, tente novamente mais tarde"
+  },
+  "DOCKER.CONFIRM": {
+    "Original": "Confirm",
+    "Custom": "confirme"
+  },
+  "DOCKER.CONTINUE": {
+    "Original": "Continue",
+    "Custom": "Continuar"
+  },
+  "DOCKER.TF_HAS_INSERTED": {
+    "Original": "Do not remove the TF card after the installation as it may cause malfunctions or even irreparable damage.",
+    "Custom": "Não remova o cartão TF após a instalação, pois pode causar mau funcionamento ou até danos irreparáveis."
+  },
+  "DOCKER.EXITED": {
+    "Original": "Exited",
+    "Custom": "Saiu"
+  },
+  "DOCKER.RUNNING": {
+    "Original": "Running",
+    "Custom": "Correndo"
+  },
+  "DOCKER.ERROR": {
+    "Original": "Error",
+    "Custom": "Erro"
+  },
+  "DOCKER.INFO": {
+    "Original": "Info",
+    "Custom": "Informações"
+  },
+  "DOCKER.INTRODUCE": {
+    "Original": "About",
+    "Custom": "Sobre"
+  },
+  "DOCKER.LOG": {
+    "Original": "Log",
+    "Custom": "Registro"
+  },
+  "DOCKER.MORE_INFO": {
+    "Original": "More info",
+    "Custom": "Mais informações"
+  },
+  "DOCKER.PLEASE_WAIT_LOADING": {
+    "Original": "Loading, please wait…",
+    "Custom": "Carregando, por favor espere…"
+  },
+  "DOCKER.ADDON_RUNTIME_ERROR": {
+    "Original": "Add-on running error, page loading failed. ",
+    "Custom": "Erro de execução do complemento, falha no carregamento da página."
+  },
+  "DOCKER.ADDON_STOP_RUNNING": {
+    "Original": "Add-on stopped running, page loading failed.",
+    "Custom": "O complemento parou de funcionar, o carregamento da página falhou."
+  },
+  "DOCKER.VOLUME_MANAGE.CREATE_VOLUME": {
+    "Original": "Create volume",
+    "Custom": "Criar volume"
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_INPUT_PLACEHOLDER": {
+    "Original": "Enter a Volume Name",
+    "Custom": "Insira um nome de volume"
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_ALREADY_USE": {
+    "Original": " is in use.",
+    "Custom": " está em uso."
+  },
+  "DOCKER.VOLUME_MANAGE.PORT_USEFUL": {
+    "Original": "Map the Add-on internal port to the host port. When the host port is empty, it will be randomly mapped to a port of the host.",
+    "Custom": "Mapeie a porta interna do complemento para a porta do host. Quando a porta do host estiver vazia, ela será mapeada aleatoriamente para uma porta do host."
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_USEFUL": {
+    "Original": "Volume is used to store Add-on data.",
+    "Custom": "O volume é usado para armazenar dados complementares."
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_VIEW": {
+    "Original": "Install the \"filebrowser/filebrowser\" Add-on to manage files in the volume if needed.",
+    "Custom": "Instale o complemento \"filebrowser/filebrowser\" para gerenciar arquivos no volume, se necessário."
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_NAME": {
+    "Original": "Name",
+    "Custom": "Nome"
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_STATUS": {
+    "Original": "Status",
+    "Custom": "Status"
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_CREATE_TIME": {
+    "Original": "Created",
+    "Custom": "Criada"
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_MANAGE": {
+    "Original": "Action",
+    "Custom": "Ação"
+  },
+  "DOCKER.VOLUME_MANAGE.HOST_VOLUME": {
+    "Original": "Host volume",
+    "Custom": "Volume do host"
+  },
+  "DOCKER.VOLUME_MANAGE.ADD_ON_VOLUME": {
+    "Original": "Add-on volume",
+    "Custom": "Volume adicional"
+  },
+  "DOCKER.VOLUME_MANAGE.ENVIRONMENT": {
+    "Original": "Environment variables",
+    "Custom": "Variáveis ??ambientais"
+  },
+  "DOCKER.VOLUME_MANAGE.VARIABLE": {
+    "Original": "Variable",
+    "Custom": "Variável"
+  },
+  "DOCKER.VOLUME_MANAGE.VALUE": {
+    "Original": "Value",
+    "Custom": "Valor"
+  },
+  "DOCKER.VOLUME_MANAGE.CONFIRM_DELETE": {
+    "Original": "Confirm to delete {name} volume?",
+    "Custom": "Confirmar para excluir o volume {name}?"
+  },
+  "DOCKER.VOLUME_MANAGE.CREATE_SUCCESS": {
+    "Original": "created.",
+    "Custom": "criada."
+  },
+  "DOCKER.VOLUME_MANAGE.DELETE_SUCCESS": {
+    "Original": "deleted.",
+    "Custom": "excluído."
+  },
+  "DOCKER.VOLUME_MANAGE.ALREADY_USE": {
+    "Original": "{name} volume is in use.,Please delete the Add-on that is using {name} volume first, and try again.",
+    "Custom": "O volume {name} está em uso. Exclua primeiro o complemento que está usando o volume {name} e tente novamente."
+  },
+  "DOCKER.VOLUME_MANAGE.NAME": {
+    "Original": "Volume Name",
+    "Custom": "Nome do volume"
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_OVER_LENGTH": {
+    "Original": "Volume names are limited to 255 characters in length.",
+    "Custom": "Os nomes dos volumes são limitados a 255 caracteres."
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_ILLEGAL_CHARACTERS": {
+    "Original": "Volume names accept numbers, letters, underscores, decimal points, and separators.",
+    "Custom": "Os nomes dos volumes aceitam números, letras, sublinhados, pontos decimais e separadores."
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_UNUSED": {
+    "Original": "Unused",
+    "Custom": "Não utilizado"
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_ALREADY_DELETE": {
+    "Original": "{name} does not exist. Please select another volume.",
+    "Custom": "{nome} não existe. Selecione outro volume."
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_USEFUL_CREATE": {
+    "Original": "Volume is used to store Add-on data. Click \"Create volume\" to add a new volume.",
+    "Custom": "O volume é usado para armazenar dados complementares. Clique em “Criar volume” para adicionar um novo volume."
+  },
+  "DOCKER.VOLUME_MANAGE.FORMAT_TF_CARD": {
+    "Original": "Format TF card",
+    "Custom": "Formatar cartão TF"
+  },
+  "DOCKER.VOLUME_MANAGE.DETECTING_TF_CARD": {
+    "Original": "Detecting TF card, please wait…",
+    "Custom": "Detectando cartão TF, aguarde…"
+  },
+  "DOCKER.VOLUME_MANAGE.COMMAND_USEFUL": {
+    "Original": "The command and its parameters to be executed when the add-on is set to start",
+    "Custom": "O comando e seus parâmetros a serem executados quando o complemento estiver configurado para iniciar"
+  },
+  "DOCKER.VOLUME_MANAGE.ENVIRONMENT_USEFUL": {
+    "Original": "These values will be applied to the add-on when deployed",
+    "Custom": "Esses valores serão aplicados ao complemento quando implantado"
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_NAME_EXIST": {
+    "Original": "A volume named {name} already exists. Enter a different volume name.",
+    "Custom": "Já existe um volume chamado {name}. Insira um nome de volume diferente."
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_NOT_EXIST": {
+    "Original": "Volume does not exist",
+    "Custom": "O volume não existe"
+  },
+  "DOCKER.VOLUME_MANAGE.VOLUME_CANT_EMPTY": {
+    "Original": "Please enter a name for volume",
+    "Custom": "Por favor insira um nome para o volume"
+  },
+  "DOCKER.VOLUME_MANAGE.PLEASE_COMPLETE_FILL": {
+    "Original": "Please complete the volume",
+    "Custom": "Por favor complete o volume"
+  },
+  "DOCKER.DETECT_NEW_VERSION": {
+    "Original": "New version detected",
+    "Custom": "Nova versão detectada"
+  },
+  "DOCKER.UPGRADE_TO_NEW_VERSION": {
+    "Original": "Upgrade now",
+    "Custom": "Atualize agora"
+  },
+  "DOCKER.INTERNAL_ERROR": {
+    "Original": "Download interrupted",
+    "Custom": "Download interrompido"
+  },
+  "DOCKER.ADDON_NOT_EXIST": {
+    "Original": "Failed, Add-on does not exist",
+    "Custom": "Falha, o complemento não existe"
+  },
+  "DOCKER.NO_UPDATES_AVAILABLE": {
+    "Original": "No updates available",
+    "Custom": "Nenhuma atualização disponível"
+  },
+  "DOCKER.NOT_REMOVE_TF_CARD": {
+    "Original": "Do not remove the TF card after the installation as it may cause malfunctions or even irreparable damage.",
+    "Custom": "Não remova o cartão TF após a instalação, pois pode causar mau funcionamento ou até danos irreparáveis."
+  },
+  "DOCKER.NOT_TO_RESTART": {
+    "Original": "Do not restart, reset, or power off during the installation procedure.",
+    "Custom": "Não reinicie, reinicie ou desligue durante o procedimento de instalação."
+  },
+  "DOCKER.INSTALL_PROMPT": {
+    "Original": "Please be patient while the installation depends on network conditions and TF card read/write speed, it may take 10-30 minutes.",
+    "Custom": "Por favor, seja paciente enquanto a instalação depende das condições da rede e da velocidade de leitura/gravação do cartão TF, pode levar de 10 a 30 minutos."
+  },
+  "DOCKER.INSTALLING": {
+    "Original": "Installing",
+    "Custom": "Instalando"
+  },
+  "DOCKER.NOT_AGAIN_REMIND": {
+    "Original": "Not to show again",
+    "Custom": "Para não mostrar novamente"
+  },
+  "DOCKER.DOCKER_LOADING": {
+    "Original": "Loading. please wait…",
+    "Custom": "Carregando. por favor, aguarde…"
+  },
+  "DOCKER.DELETE": {
+    "Original": "Delete",
+    "Custom": "Excluir"
+  },
+  "DOCKER.CONFIRM_DELETE": {
+    "Original": "Confirm to delete \"{name}\" from the Docker hub?",
+    "Custom": "Confirmar a exclusão de \"{name}\" do hub Docker?"
+  },
+  "DOCKER.DELETE_SUCCESS": {
+    "Original": "Delete successfully",
+    "Custom": "Excluir com sucesso"
+  },
+  "DOCKER.FORMAT_TF_CARD_USE_DOCKER": {
+    "Original": "TF card needs to be format to use Docker function.",
+    "Custom": "O cartão TF precisa ser formatado para usar a função Docker."
+  },
+  "DOCKER.COMMAND": {
+    "Original": "Command",
+    "Custom": "Comando"
+  },
+  "DOCKER.DOCKER_COMMAND_PLACEHOLDER": {
+    "Original": "e.g -c/myngin.conf",
+    "Custom": "por exemplo -c/myngin.conf"
+  },
+  "DOCKER.DOCKER_INSTALLING": {
+    "Original": "Installing",
+    "Custom": "Instalando"
+  },
+  "DOCKER.PLEASE_COMPLETE_PORT": {
+    "Original": "Please complete the port",
+    "Custom": "Por favor complete a porta"
+  },
+  "DOCKER.TAIL_SCALE_INTRODUCE": {
+    "Original": "Enable remote access to iHost with Tailscale's simple configuration. Click the button below to visit the Tailscale page.",
+    "Custom": "Habilite o acesso remoto ao iHost com a configuração simples do Tailscale. Clique no botão abaixo para visitar a página Tailscale."
+  },
+  "DOCKER.TUTORIAL": {
+    "Original": "Tutorial ",
+    "Custom": "Tutorial"
+  },
+  "DOCKER.TAIL_SCALE_EXE_BTN": {
+    "Original": "Go to Tailscale",
+    "Custom": "Vá para Tailscale"
+  },
+  "DOCKER.SHOW_HIGH_SETTING": {
+    "Original": "Show Advanced Settings",
+    "Custom": "Mostrar configurações avançadas"
+  },
+  "DOCKER.ADD_ADD_ON": {
+    "Original": "Add Add-on",
+    "Custom": "Adicionar complemento"
+  },
+  "DOCKER.DETAIL": {
+    "Original": "More Details",
+    "Custom": "Mais detalhes"
+  },
+  "DOCKER.ABOUT": {
+    "Original": "About",
+    "Custom": "Sobre"
+  },
+  "DOCKER.FEATURE_PREVIEW": {
+    "Original": "Feature Preview",
+    "Custom": "Visualização de recursos"
+  },
+  "DOCKER.USE_TUTORIAL.SMART_HOME": {
+    "Original": "eWeLink Smart Home can discover eWeLink WiFi devices in LAN. After login with eWeLink account, you can sync the device you chose to eWeLink CUBE. By eWeLink CUBE, you can control the device in LAN and link the zigbee device in eWeLink CUBE with the scene.",
+    "Custom": "eWeLink Smart Home pode descobrir dispositivos eWeLink WiFi em LAN. Após fazer login com a conta eWeLink, você pode sincronizar o dispositivo escolhido com o eWeLink CUBE. Pelo eWeLink CUBE, você pode controlar o dispositivo na LAN e vincular o dispositivo zigbee no eWeLink CUBE à cena."
+  },
+  "DOCKER.USE_TUTORIAL.PARAL_SYNC": {
+    "Original": "Paral-Sync can discover nspanel pro devices in the LAN, and after simple configuration, the local zigbee devices added by nspanel pro can be synchronized to eWeLink CUBE control.",
+    "Custom": "O Paral-Sync pode descobrir dispositivos nspanel pro na LAN e, após configuração simples, os dispositivos zigbee locais adicionados pelo nspanel pro podem ser sincronizados com o controle eWeLink CUBE."
+  },
+  "DOCKER.USE_TUTORIAL.WEATHER_API": {
+    "Original": "Tile2CUBE-Weatherapi is served by weatherapi and allows you to create weather tiles for iHost/CAST.",
+    "Custom": "Tile2CUBE-Weatherapi é servido por weatherapi e permite criar blocos meteorológicos para iHost/CAST."
+  },
+  "DOCKER.USE_TUTORIAL.TASMOTA": {
+    "Original": "MQTT2CUBE-Tasmota supports synchronizing Tasmota switch/socket devices to eWeLink CUBE control",
+    "Custom": "MQTT2CUBE-Tasmota suporta sincronização de dispositivos de switch/soquete Tasmota para controle eWeLink CUBE"
+  },
+  "DOCKER.USE_TUTORIAL.PICO": {
+    "Original": "Text-to-speech service, which can link hardware speakers to play voice in the eWeLink CUBE scene.",
+    "Custom": "Serviço de conversão de texto em fala, que pode conectar alto-falantes de hardware para reproduzir voz na cena eWeLink CUBE."
+  },
+  "DOCKER.SMART_HOME": {
+    "Original": "eWeLink Smart Home",
+    "Custom": "Casa inteligente eWeLink"
+  },
+  "DOCKER.PARAL_SYNC": {
+    "Original": "Paral-sync",
+    "Custom": "Sincronização paralela"
+  },
+  "DOCKER.WEATHER_API": {
+    "Original": "Tile2CUBE-Weatherapi",
+    "Custom": "Tile2CUBE-Weatherapi"
+  },
+  "DOCKER.TASMOTA": {
+    "Original": "MQTT2CUBE-Tasmota",
+    "Custom": "MQTT2CUBE-Tasmota"
+  },
+  "DOCKER.TTS": {
+    "Original": "TTS2CUBE-Pico",
+    "Custom": "TTS2CUBE-Pico"
+  },
+  "DOCKER.FORMAT_FAIL": {
+    "Original": "Format Failed",
+    "Custom": "Falha na formatação"
+  },
+  "DOCKER.FORMAT_FAIL_REASON": {
+    "Original": "TF card formatting failed. There could be several reasons for this:",
+    "Custom": "A formatação do cartão TF falhou. Poderia haver varias razões para isso:"
+  },
+  "DOCKER.TF_NO_AREA": {
+    "Original": "There is no partition table in TF card.",
+    "Custom": "Não há tabela de partição no cartão TF."
+  },
+  "DOCKER.TF_DESTROY": {
+    "Original": "TF card is corrupted and cannot be repaired.",
+    "Custom": "O cartão TF está corrompido e não pode ser reparado."
+  },
+  "DOCKER.TF_FORMAT_ADVICE": {
+    "Original": "Using DiskGenius software to format TF card to FAT32 or EXT4 before inserting it into iHost is recommended.Here are formatting guides for various systems. Click to access detailed instructions on how to format your TF card:",
+    "Custom": "É recomendado usar o software DiskGenius para formatar o cartão TF para FAT32 ou EXT4 antes de inseri-lo no iHost. Aqui estão guias de formatação para vários sistemas. Clique para acessar instruções detalhadas sobre como formatar seu cartão TF:"
+  },
+  "DOCKER.ADD_ON_PATH": {
+    "Original": "add-on path",
+    "Custom": "caminho do complemento"
+  },
+  "DOCKER.PLEASE_COMPLETE_ADDON_PATH": {
+    "Original": "Enter the add-on path corresponding to the USB device.",
+    "Custom": "Insira o caminho do complemento correspondente ao dispositivo USB."
+  },
+  "DOCKER.FIND_USB_INSERT": {
+    "Original": "USB device(s) connected.",
+    "Custom": "Dispositivo(s) USB conectado(s)."
+  },
+  "DOCKER.FIND_USE_OUT": {
+    "Original": "USB device(s) removed.",
+    "Custom": "Dispositivo(s) USB removido(s)."
+  },
+  "DOCKER.USB_HAS_USED": {
+    "Original": "USB device is being used by {name}.",
+    "Custom": "O dispositivo USB está sendo usado por {nome}."
+  },
+  "DOCKER.USB_ONLY_ONE_USE": {
+    "Original": "A USB device can be configured for one add-on only.",
+    "Custom": "Um dispositivo USB pode ser configurado apenas para um complemento."
+  },
+  "DOCKER.USE_SHORT_TUTORIAL.SMART_HOME": {
+    "Original": "Control eWeLink's LAN devices in iHost",
+    "Custom": "Controle os dispositivos LAN do eWeLink no iHost"
+  },
+  "DOCKER.USE_SHORT_TUTORIAL.PARAL_SYNC": {
+    "Original": "Control the local zigbee device of NSPanel Pro in eWeLink CUBE.",
+    "Custom": "Controle o dispositivo zigbee local do NSPanel Pro no eWeLink CUBE."
+  },
+  "DOCKER.USE_SHORT_TUTORIAL.WEATHER_API": {
+    "Original": "Support to view the weather conditions in the next few days",
+    "Custom": "Suporte para visualizar as condições climáticas nos próximos dias"
+  },
+  "DOCKER.USE_SHORT_TUTORIAL.TASMOTA": {
+    "Original": "Control tasmota equipment in eWeLink CUBE",
+    "Custom": "Controle o equipamento tasmota no eWeLink CUBE"
+  },
+  "DOCKER.USE_SHORT_TUTORIAL.PICO": {
+    "Original": "The text-to-speech service provided, the converted and saved voice files can be played by hardware speakers through linkage in the eWeLink CUBE scene",
+    "Custom": "O serviço de conversão de texto em fala fornecido, os arquivos de voz convertidos e salvos podem ser reproduzidos por alto-falantes de hardware por meio de ligação na cena eWeLink CUBE"
+  },
+  "DOCKER.OPEN_NEW_PAGE": {
+    "Original": "Show in new window",
+    "Custom": "Mostrar em nova janela"
+  },
+  "DOCKER.SEARCH_ADD_ON_TIP": {
+    "Original": " Click {HERE} to view add-ons on Docker hub. The recommended Add-on architecture is linux/arm/v7, other architectures may fail to install.",
+    "Custom": " Clique {AQUI} para visualizar complementos no hub Docker. A arquitetura complementar recomendada é linux/arm/v7; outras arquiteturas podem falhar na instalação."
+  },
+  "DOCKER.HERE": {
+    "Original": "HERE",
+    "Custom": "AQUI"
+  },
+  "CUBE.CUBE": {
+    "Original": "CUBE",
+    "Custom": "CUBO"
+  },
+  "CUBE.DEVICELIST": {
+    "Original": "Devices List",
+    "Custom": "Lista de dispositivos"
+  },
+  "CUBE.ADDON": {
+    "Original": "All Add-on",
+    "Custom": "Todos os complementos"
+  },
+  "LABORATORY.LABORATORY": {
+    "Original": "Pilot Features",
+    "Custom": "Recursos piloto"
+  },
+  "LABORATORY.WELCOME_TO_UES": {
+    "Original": "Discover new possibilities with Pilot Features! ",
+    "Custom": "Descubra novas possibilidades com Pilot Features!"
+  },
+  "LABORATORY.DESCRIPTION": {
+    "Original": "Here we will disclose some features that are still under development for users willing to get the preview, try it out, and shape it with us before it is available to the public, just toggle it on to activate the one that you'd like to onboard, free to let us know your brilliant ideas about pilot features, maybe we can make it happen together.",
+    "Custom": "Aqui iremos divulgar alguns recursos que ainda estão em desenvolvimento para usuários que desejam obter uma prévia, testá-los e moldá-los conosco antes que estejam disponíveis ao público, basta ativá-los para ativar aquele que você deseja. a bordo, fique à vontade para nos contar suas idéias brilhantes sobre os recursos do piloto, talvez possamos fazer isso acontecer juntos."
+  },
+  "LABORATORY.DESCRIPTION_TAKE_RISKS": {
+    "Original": "Please Note",
+    "Custom": "Observe"
+  },
+  "LABORATORY.DESCRIPTION_MAY_DISAPPEAR": {
+    "Original": "1、The pilot features may lack important functionality and may have future breaking changes, but is operational and available.",
+    "Custom": "1?Os recursos piloto podem não ter funcionalidades importantes e podem ter alterações significativas futuras, mas estão operacionais e disponíveis."
+  },
+  "LABORATORY.DESCRIPTION_CONTACT_US": {
+    "Original": "2、Some pilot features may be removed or replaced in later updates based on comprehensive considerations, DO NOT use them to run production workloads is highly recommended.",
+    "Custom": "2. Alguns recursos piloto podem ser removidos ou substituídos em atualizações posteriores com base em considerações abrangentes. NÃO usá-los para executar cargas de trabalho de produção é altamente recomendado."
+  },
+  "LABORATORY.SUPPORTED_FUNCTION": {
+    "Original": "Available for now",
+    "Custom": "Disponível por enquanto"
+  },
+  "LABORATORY.ZIGEBEE2CUBE_DESCRIPTION": {
+    "Original": "Working as a bridge that enables communities between NON-ZigBee 3.0 standard protocol devices and eWeLink CUBE.",
+    "Custom": "Trabalhando como uma ponte que permite comunidades entre dispositivos de protocolo padrão NÃO ZigBee 3.0 e eWeLink CUBE."
+  },
+  "LABORATORY.ZIGEBEE2CUBE_DESCRIPTION_FEATURES": {
+    "Original": "Working as a bridge that enables communities between NON-ZigBee 3.0 standard protocol devices and eWeLink CUBE.",
+    "Custom": "Trabalhando como uma ponte que permite comunidades entre dispositivos de protocolo padrão NÃO ZigBee 3.0 e eWeLink CUBE."
+  },
+  "LABORATORY.LEARN_MORE": {
+    "Original": "Learn more",
+    "Custom": "Saber mais"
+  },
+  "LABORATORY.PLEASE_NOTE": {
+    "Original": "Please Note",
+    "Custom": "Observe"
+  },
+  "LABORATORY.SUPPORT": {
+    "Original": "1.Support discovering and adding NON-ZigBee 3.0 devices that of eWeLink supported, such as SONOFF NON-ZigBee 3.0 devices.",
+    "Custom": "1.Suporte para descobrir e adicionar dispositivos NÃO-ZigBee 3.0 compatíveis com eWeLink, como dispositivos SONOFF NÃO-ZigBee 3.0."
+  },
+  "LABORATORY.CANT_GUARANTEE": {
+    "Original": "2.Can’t guarantee full support of Device Types or Features from other Brands.",
+    "Custom": "2.Não é possível garantir suporte total de tipos de dispositivos ou recursos de outras marcas."
+  },
+  "LABORATORY.STANDARD": {
+    "Original": "3.Standard device types, like Switches, Lights, and some Sensors, with standard features, like Power ON/OFF, Dim and Color Adjustment, and Open/ Close monitoring of contact sensors are supported now, while some special features of the devices, such as air pressure and water leakage monitoring, are not supported for the time being.",
+    "Custom": "3. Tipos de dispositivos padrão, como interruptores, luzes e alguns sensores, com recursos padrão, como ligar/desligar, ajuste de intensidade e cor e monitoramento de abertura/fechamento de sensores de contato são suportados agora, enquanto alguns recursos especiais dos dispositivos, como monitoramento de pressão de ar e vazamento de água, não são suportados por enquanto."
+  },
+  "LABORATORY.SUPPORT_REFERENCE": {
+    "Original": "4.We have sorted out a list of devices (check below) that theoretically should be supported by the iHost Zigbee2CUBE, but we can't test all of them, In case your ZigBee device doesn't appear as expected in iHost, please make sure to check if it is included in the supported list provided below first.If it is not listed, kindly await periodic updates as we continue to expand the list of supported devices. If the device is listed but is not displaying or functioning correctlywithin iHost, please inform us by commenting on your verification result here in this",
+    "Custom": "4. Organizamos uma lista de dispositivos (confira abaixo) que teoricamente deveriam ser suportados pelo iHost Zigbee2CUBE, mas não podemos testar todos eles. Caso seu dispositivo ZigBee não apareça conforme o esperado no iHost, por favor, faça certifique-se de verificar primeiro se ele está incluído na lista de suporte fornecida abaixo. Se não estiver listado, aguarde atualizações periódicas enquanto continuamos a expandir a lista de dispositivos suportados. Se o dispositivo estiver listado, mas não estiver sendo exibido ou funcionando corretamente no iHost, informe-nos comentando o resultado da sua verificação aqui neste"
+  },
+  "LABORATORY.SUPPORT_MAY_REFERENCE": {
+    "Original": ", We will address and resolve the issue on a case-by-case basis.",
+    "Custom": ", Iremos abordar e resolver o problema caso a caso."
+  },
+  "LABORATORY.EXAMPLE": {
+    "Original": "Example",
+    "Custom": "Exemplo"
+  },
+  "LABORATORY.SHARD": {
+    "Original": "shared Google spreadsheet",
+    "Custom": "planilha do Google compartilhada"
+  },
+  "LABORATORY.TURBO.TURBO_MODE": {
+    "Original": "Turbo Mode",
+    "Custom": "Modo turbo"
+  },
+  "LABORATORY.TURBO.TURBO_DESCRIPTION": {
+    "Original": "Enhance Zigbee signal by maximizing the transmit power of the iHost Zigbee module.",
+    "Custom": "Melhore o sinal Zigbee maximizando a potência de transmissão do módulo iHost Zigbee."
+  },
+  "LABORATORY.REMOTE.NAME": {
+    "Original": "eWeLink-Remote Control",
+    "Custom": "eWeLink-Controle Remoto"
+  },
+  "LABORATORY.REMOTE.DESCRIPTION": {
+    "Original": "Add an entry for adding eWeLink-Remote sub-devices on the home page.",
+    "Custom": "Adicione uma entrada para adicionar subdispositivos eWeLink-Remote na página inicial."
+  },
+  "LABORATORY.REMOTE.REMOTE_DESCRIPTION": {
+    "Original": "Add an entry for adding eWeLink-Remote sub-devices on the home page.",
+    "Custom": "Adicione uma entrada para adicionar subdispositivos eWeLink-Remote na página inicial."
+  },
+  "LABORATORY.REMOTE.WHAT_IS": {
+    "Original": "What is",
+    "Custom": "O que é"
+  },
+  "LABORATORY.REMOTE.CONTROL": {
+    "Original": "eWeLink-Remote Control",
+    "Custom": "eWeLink-Controle Remoto"
+  },
+  "LABORATORY.REMOTE.OPEN_PAIR_FILED": {
+    "Original": "Please go to the lab to enable the \"eWeLink-Remote Control\" function and try again.",
+    "Custom": "Vá ao laboratório para ativar a função \"eWeLink-Remote Control\" e tente novamente."
+  },
+  "LABORATORY.REMOTE.MAXED": {
+    "Original": "You have reached the limit for adding eWeLink-Remote sub-devices.",
+    "Custom": "Você atingiu o limite para adicionar subdispositivos eWeLink-Remote."
+  },
+  "LABORATORY.BLUE_TOOTH_DESCRIPTION": {
+    "Original": "Add an entry to connect Bluetooth speakers on the settings page and play iHost audio through the connected one.",
+    "Custom": "Adicione uma entrada para conectar alto-falantes Bluetooth na página de configurações e reproduzir áudio iHost através do conectado."
+  },
+  "LABORATORY.BLUE_TOOTH": {
+    "Original": "Bluetooth Speaker",
+    "Custom": "Alto-falante Bluetooth"
+  },
+  "MATTER.MATTER_BRIDGE": {
+    "Original": "Matter Bridge",
+    "Custom": "Ponte da Matéria"
+  },
+  "MATTER.INTRODUCTION": {
+    "Original": "About This Feature",
+    "Custom": "Sobre este recurso"
+  },
+  "MATTER.WITH_MATTER_BRIDGE": {
+    "Original": "With Matter Bridge, you can seamlessly add the iHost-managed devices to Matter-supported platforms, so you can control, view, set automation, and interact with other smart home devices across the Brands.",
+    "Custom": "Com o Matter Bridge, você pode adicionar perfeitamente os dispositivos gerenciados pelo iHost às plataformas suportadas pelo Matter, para que possa controlar, visualizar, definir a automação e interagir com outros dispositivos domésticos inteligentes das marcas."
+  },
+  "MATTER.HERE_ARE_SOME": {
+    "Original": "Here are some Matter-supported platforms which support Matter Bridge: Apple Home App, Amazon Alexa App, Google Home App",
+    "Custom": "Aqui estão algumas plataformas suportadas pelo Matter que suportam o Matter Bridge: Apple Home App, Amazon Alexa App, Google Home App"
+  },
+  "MATTER.START": {
+    "Original": "Start",
+    "Custom": "Começar"
+  },
+  "MATTER.WARM_REMINDER1": {
+    "Original": "The available features/functions of the devices depend on the Matter-supported platforms and the adaptation progress of the Matter protocol from CSA.",
+    "Custom": "Os recursos/funções disponíveis dos dispositivos dependem das plataformas suportadas pelo Matter e do progresso da adaptação do protocolo Matter do CSA."
+  },
+  "MATTER.WARM_REMINDER2": {
+    "Original": "Switches, plugs, lights and sensors are supported now.",
+    "Custom": "Interruptores, plugues, luzes e sensores são suportados agora."
+  },
+  "MATTER.READ_MORE": {
+    "Original": "Read more",
+    "Custom": "Consulte Mais informação"
+  },
+  "MATTER.STEP1": {
+    "Original": "Step 1: Preparation",
+    "Custom": "Etapa 1: Preparação"
+  },
+  "MATTER.BEFORE_PAIRING": {
+    "Original": "Following the steps below to smooth your pairing procedure:",
+    "Custom": "Seguindo as etapas abaixo para facilitar o procedimento de emparelhamento:"
+  },
+  "MATTER.OPEN_THE_MATTER": {
+    "Original": "Open the App from the Matter-supported platform that you preferred to add the Matter Bridge to, and tap Add Device/ Accessories.",
+    "Custom": "Abra o aplicativo da plataforma suportada pelo Matter à qual você preferiu adicionar o Matter Bridge e toque em Adicionar dispositivo/acessórios."
+  },
+  "MATTER.ADD_DEVICE": {
+    "Original": "Add Devices",
+    "Custom": "Adicionar dispositivos"
+  },
+  "MATTER.SCAN_QR_CODE": {
+    "Original": "Scan QR code",
+    "Custom": "Digitalize o código QR"
+  },
+  "MATTER.INPUT_PAIRING_CODE": {
+    "Original": "Enter numeric code",
+    "Custom": "Digite o código numérico"
+  },
+  "MATTER.STEP2": {
+    "Original": "Step 2: Pairing",
+    "Custom": "Etapa 2: emparelhamento"
+  },
+  "MATTER.ENABLED": {
+    "Original": "Enabled. Please complete the pairing within 15 minutes.",
+    "Custom": "Habilitado. Conclua o emparelhamento em 15 minutos."
+  },
+  "MATTER.LOADING": {
+    "Original": "Loading",
+    "Custom": "Carregando"
+  },
+  "MATTER.START_PAIRING": {
+    "Original": "Start pairing",
+    "Custom": "Iniciar o emparelhamento"
+  },
+  "MATTER.PAIRING_CODE": {
+    "Original": "Pairing code",
+    "Custom": "Código de emparelhamento"
+  },
+  "MATTER.STOP": {
+    "Original": "Stop",
+    "Custom": "Parar"
+  },
+  "MATTER.GETTING_NEW": {
+    "Original": "Getting new pairing codes is needed if you want to add the iHost-managed devices to other Matter-supported platforms.",
+    "Custom": "É necessário obter novos códigos de emparelhamento se você deseja adicionar dispositivos gerenciados por iHost a outras plataformas suportadas pelo Matter."
+  },
+  "MATTER.HERE_ARE_THE": {
+    "Original": "Here are the steps for your reference:",
+    "Custom": "Aqui estão as etapas para sua referência:"
+  },
+  "MATTER.OPEN": {
+    "Original": "Open the App from the Matter-supported platform which you have already added to.",
+    "Custom": "Abra o aplicativo da plataforma suportada pelo Matter que você já adicionou."
+  },
+  "MATTER.GO_TO": {
+    "Original": "Go to the Settings page of the Matter Bridge in the App and get a new pairing code in the corresponding menu. ",
+    "Custom": "Vá para a página Configurações do Matter Bridge no aplicativo e obtenha um novo código de emparelhamento no menu correspondente."
+  },
+  "MATTER.SCAN_THE_QR": {
+    "Original": "Scan the QR code or type in the numeric code with another App from Matter-supported platforms to initiate the pairing procedure.",
+    "Custom": "Digitalize o código QR ou digite o código numérico com outro aplicativo de plataformas suportadas pelo Matter para iniciar o procedimento de emparelhamento."
+  },
+  "MATTER.CURRENT_IHOST1": {
+    "Original": "This Matter Bridge has been added to ",
+    "Custom": "Esta Matter Bridge foi adicionada ao"
+  },
+  "MATTER.CURRENT_IHOST2": {
+    "Original": " Matter-supported platforms.",
+    "Custom": " Plataformas suportadas por matéria."
+  },
+  "MATTER.REMOVE_ALL": {
+    "Original": "Remove all",
+    "Custom": "Deletar tudo"
+  },
+  "MATTER.REMOVE": {
+    "Original": "Remove",
+    "Custom": "Remover"
+  },
+  "MATTER.RELATED_CONFIGURATIONS": {
+    "Original": "Related configurations in \"{name}\" will be removed, confirm to proceed? ",
+    "Custom": "As configurações relacionadas em \"{name}\" serão removidas. Confirme para continuar?"
+  },
+  "MATTER.RELATED_CONFIGURATIONS_OF": {
+    "Original": "Related configurations of the Matter Bridge in all Matter-supported platforms will be removed, confirm to proceed? ",
+    "Custom": "As configurações relacionadas do Matter Bridge em todas as plataformas suportadas pelo Matter serão removidas. Confirme para continuar?"
+  },
+  "MATTER.THE_MATTER_BRIDGE": {
+    "Original": "The Matter Bridge has been removed from all Matter-supported platforms.",
+    "Custom": "O Matter Bridge foi removido de todas as plataformas suportadas pelo Matter."
+  },
+  "MATTER.OK": {
+    "Original": "OK",
+    "Custom": "OK"
+  },
+  "MATTER.ADDED_SUCCESSFULLY": {
+    "Original": "Added successfully",
+    "Custom": "Adicionado com sucesso"
+  },
+  "MATTER.IHOST_BRIDGED": {
+    "Original": "iHost-managed devices have been added to the Matter-supported platforms, following the steps in the App for more settings.",
+    "Custom": "Dispositivos gerenciados por iHost foram adicionados às plataformas suportadas pelo Matter, seguindo as etapas no aplicativo para obter mais configurações."
+  },
+  "MATTER.VIEW_SUPPORTED_DEVICES": {
+    "Original": "View supported devices",
+    "Custom": "Ver dispositivos suportados"
+  },
+  "MATTER.SUPPORTED_MATTER": {
+    "Original": "Supported",
+    "Custom": "Suportado"
+  },
+  "MATTER.NOT_SUPPORTED_MATTER": {
+    "Original": "More devices",
+    "Custom": "Mais dispositivos"
+  },
+  "MATTER.NOT_SUPPORTED_MATTER_TIP": {
+    "Original": "*The following devices are not supported to be added to Matter-supported platforms yet. Please stay tuned with us for further releases and updates about the iHost Matter Bridge feature.",
+    "Custom": "*Os seguintes dispositivos ainda não são suportados para serem adicionados às plataformas suportadas pelo Matter. Fique ligado conosco para novos lançamentos e atualizações sobre o recurso iHost Matter Bridge."
+  },
+  "MATTER.VIEW_MORE_PLAN": {
+    "Original": "View more",
+    "Custom": "Veja mais"
+  },
+  "MATTER.NO_DEVICE": {
+    "Original": "No devices yet. Please add devices first by following the instructions in the home page.",
+    "Custom": "Nenhum dispositivo ainda. Adicione dispositivos primeiro seguindo as instruções na página inicial."
+  },
+  "MATTER.INITIAL_LOADING": {
+    "Original": "Initializing Matter Bridge, please wait...",
+    "Custom": "Inicializando o Matter Bridge, aguarde..."
+  },
+  "MATTER.INITIAL_FAILED": {
+    "Original": "Initialization failed",
+    "Custom": "Falha na inicialização"
+  },
+  "MATTER.CONNECT_NETWORK": {
+    "Original": "Please check iHost internet connection",
+    "Custom": "Verifique a conexão com a Internet do iHost"
+  },
+  "MATTER.TRY_TO_RESTART": {
+    "Original": "Try to reboot the iHost",
+    "Custom": "Tente reiniciar o iHost"
+  },
+  "MATTER.PAIRING": {
+    "Original": "Pairing",
+    "Custom": "Emparelhamento"
+  },
+  "MATTER.DEVICE_LIST": {
+    "Original": "Device List",
+    "Custom": "Lista de dispositivos"
+  },
+  "MATTER.MORE_SUPPORT_PLANS": {
+    "Original": "More device types will be supported in further updates, please stay tuned.",
+    "Custom": "Mais tipos de dispositivos serão suportados em futuras atualizações, fique atento."
+  },
+  "MATTER.FEEDBACK_ISSUES": {
+    "Original": "Free to let us know any issues you may experience or support requests during the tryout procedure via the feedback channel {FEEDBACK} or discuss with us in our {OFFICIAL_FORUM}.",
+    "Custom": "Sinta-se à vontade para nos informar sobre quaisquer problemas que você possa enfrentar ou solicitações de suporte durante o procedimento de teste por meio do canal de feedback {FEEDBACK} ou discutir conosco em nosso {OFFICIAL_FORUM}."
+  },
+  "MATTER.FEEDBACK": {
+    "Original": "HERE",
+    "Custom": "AQUI"
+  },
+  "MATTER.OFFICIAL_FORUM": {
+    "Original": "Official Forum",
+    "Custom": "Fórum Oficial"
+  },
+  "MATTER.PAIRING_STEP": {
+    "Original": "{SCAN_QRCODE} or {ENTER_MANUAL_PAIRING} by using the App from Matter-supported platforms after being enabled to add the iHost-managed devices (eWeLink Smart Bridge).",
+    "Custom": "{SCAN_QRCODE} ou {ENTER_MANUAL_PAIRING} usando o aplicativo de plataformas suportadas pelo Matter após ser habilitado para adicionar os dispositivos gerenciados por iHost (eWeLink Smart Bridge)."
+  },
+  "MATTER.SCAN_QRCODE": {
+    "Original": "Scan the QR code",
+    "Custom": "Digitalize o código QR"
+  },
+  "MATTER.ENTER_MANUAL_PAIRING": {
+    "Original": "type in the numeric code",
+    "Custom": "digite o código numérico"
+  }
+}
