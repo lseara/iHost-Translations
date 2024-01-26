@@ -4185,7 +4185,7 @@
   },
   "SETTING.SIDE_MENU_CAST": {
     "Original": "Cast",
-    "Custom": "Elenco"
+    "Custom": "Cast"
   },
   "SETTING.SIDE_MENU_DOCKER": {
     "Original": "Docker",
@@ -4193,11 +4193,11 @@
   },
   "SETTING.SIDE_MENU_MATTER": {
     "Original": "Matter",
-    "Custom": "Matéria"
+    "Custom": "Matter"
   },
   "SETTING.SIDE_MENU_PILOT_FEATURES": {
     "Original": "Pilot Features",
-    "Custom": "Recursos piloto"
+    "Custom": "Pilot Features"
   },
   "SETTING.SIDE_MENU_SETTING": {
     "Original": "Settings",
@@ -4625,7 +4625,7 @@
   },
   "CAST.CAST": {
     "Original": "Cast",
-    "Custom": "Elenco"
+    "Custom": "Cast"
   },
   "CAST.NAME": {
     "Original": "Your Cast Name",
@@ -5773,7 +5773,7 @@
   },
   "LABORATORY.LABORATORY": {
     "Original": "Pilot Features",
-    "Custom": "Recursos piloto"
+    "Custom": "Pilot Features"
   },
   "LABORATORY.WELCOME_TO_UES": {
     "Original": "Discover new possibilities with Pilot Features! ",
@@ -5781,7 +5781,7 @@
   },
   "LABORATORY.DESCRIPTION": {
     "Original": "Here we will disclose some features that are still under development for users willing to get the preview, try it out, and shape it with us before it is available to the public, just toggle it on to activate the one that you'd like to onboard, free to let us know your brilliant ideas about pilot features, maybe we can make it happen together.",
-    "Custom": "Aqui iremos divulgar alguns recursos que ainda estão em desenvolvimento para usuários que desejam obter uma prévia, testá-los e moldá-los conosco antes que estejam disponíveis ao público, basta ativá-los para ativar aquele que você deseja. a bordo, fique à vontade para nos contar suas idéias brilhantes sobre os recursos do piloto, talvez possamos fazer isso acontecer juntos."
+    "Custom": "Aqui iremos divulgar alguns recursos que ainda estão em desenvolvimento para usuários que desejam obter uma prévia, testá-los e moldá-los conosco antes que estejam disponíveis ao público, basta ativá-los para ativar aquele que você deseja. a bordo, fique à vontade para nos contar suas idéias brilhantes sobre Pilot Features, talvez possamos fazer isso acontecer juntos."
   },
   "LABORATORY.DESCRIPTION_TAKE_RISKS": {
     "Original": "Please Note",
@@ -5789,11 +5789,11 @@
   },
   "LABORATORY.DESCRIPTION_MAY_DISAPPEAR": {
     "Original": "1、The pilot features may lack important functionality and may have future breaking changes, but is operational and available.",
-    "Custom": "1?Os recursos piloto podem não ter funcionalidades importantes e podem ter alterações significativas futuras, mas estão operacionais e disponíveis."
+    "Custom": "1?Os Pilot Features podem não ter funcionalidades importantes e podem ter alterações significativas futuras, mas estão operacionais e disponíveis."
   },
   "LABORATORY.DESCRIPTION_CONTACT_US": {
     "Original": "2、Some pilot features may be removed or replaced in later updates based on comprehensive considerations, DO NOT use them to run production workloads is highly recommended.",
-    "Custom": "2. Alguns recursos piloto podem ser removidos ou substituídos em atualizações posteriores com base em considerações abrangentes. NÃO usá-los para executar cargas de trabalho de produção é altamente recomendado."
+    "Custom": "2. Alguns Pilot Features podem ser removidos ou substituídos em atualizações posteriores com base em considerações abrangentes. NÃO usá-los para executar cargas de trabalho de produção é altamente recomendado."
   },
   "LABORATORY.SUPPORTED_FUNCTION": {
     "Original": "Available for now",
@@ -5889,7 +5889,7 @@
   },
   "MATTER.MATTER_BRIDGE": {
     "Original": "Matter Bridge",
-    "Custom": "Ponte da Matéria"
+    "Custom": "Ponte Matter"
   },
   "MATTER.INTRODUCTION": {
     "Original": "About This Feature",
@@ -5993,7 +5993,7 @@
   },
   "MATTER.CURRENT_IHOST2": {
     "Original": " Matter-supported platforms.",
-    "Custom": " Plataformas suportadas por matéria."
+    "Custom": " Plataformas Matter suportadas."
   },
   "MATTER.REMOVE_ALL": {
     "Original": "Remove all",
