@@ -3297,7 +3297,7 @@
   },
   "SCENE.TTS_ENGINE_DELETE": {
     "Original": "TTS service provided by \"{name}\" will be removed if you delete the add-on from the add-on list. You can reinstall it to use the TTS service again later. Confirm to proceed?",
-    "Custom": "O serviço TTS fornecido por \"{name}\" será removido se você excluir o complemento da lista de add-on. Você pode reinstalá-lo para usar o serviço TTS novamente mais tarde. Confirmar para prosseguir?"
+    "Custom": "O serviço TTS fornecido por \"{name}\" será removido se você excluir o add-on da lista de add-on. Você pode reinstalá-lo para usar o serviço TTS novamente mais tarde. Confirmar para prosseguir?"
   },
   "SCENE.TTS_ENGINE_DELETE_TIP": {
     "Original": "Delete {name} from the add-on list",
@@ -3305,7 +3305,7 @@
   },
   "SCENE.TTS_IS_DELETED": {
     "Original": "TTS Add-on has been removed",
-    "Custom": "O complemento TTS foi removido"
+    "Custom": "O add-on TTS foi removido"
   },
   "SCENE.ENGINE_IS_NOT_RUNNING": {
     "Original": "\"{name}\" is not running,",
@@ -4569,19 +4569,19 @@
   },
   "ERROR.190001": {
     "Original": "Operation failed, add-on has been removed",
-    "Custom": "A operação falhou, o complemento foi removido"
+    "Custom": "A operação falhou, o add-on foi removido"
   },
   "ERROR.190002": {
     "Original": "Add-on is not downloading.",
-    "Custom": "O complemento não está baixando."
+    "Custom": "O add-on não está baixando."
   },
   "ERROR.190003": {
     "Original": "Please install the Add-on first",
-    "Custom": "Instale o complemento primeiro"
+    "Custom": "Instale o add-on primeiro"
   },
   "ERROR.190004": {
     "Original": "Addon not found",
-    "Custom": "Complemento não encontrado"
+    "Custom": "Add-on não encontrado"
   },
   "ERROR.190005": {
     "Original": "Version information has changed, please refresh",
@@ -4593,7 +4593,7 @@
   },
   "ERROR.190009": {
     "Original": "Add-on has been used.",
-    "Custom": "O complemento foi usado."
+    "Custom": "O add-on foi usado."
   },
   "ERROR.190011": {
     "Original": "insufficient storage available on TF card",
@@ -4785,7 +4785,7 @@
   },
   "CAST.VISIT": {
     "Original": "Visit",
-    "Custom": "Visita"
+    "Custom": "Visite"
   },
   "CAST.USE_CAST_PANEL": {
     "Original": "to use eWeLink Cast dashboard",
@@ -4977,7 +4977,7 @@
   },
   "DOCKER.TF_DESCRIBE": {
     "Original": "Please insert a TF card with adequate capacity to your iHost before installing add-on. Do not remove the TF card after installation.",
-    "Custom": "Insira um cartão TF com capacidade adequada em seu iHost antes de instalar o complemento. Não remova o cartão TF após a instalação."
+    "Custom": "Insira um cartão TF com capacidade adequada em seu iHost antes de instalar o add-on. Não remova o cartão TF após a instalação."
   },
   "DOCKER.FORMAT": {
     "Original": "Format",
@@ -4989,11 +4989,11 @@
   },
   "DOCKER.DELETE_STATEMENT": {
     "Original": "Add-on configurations will be erased after deleting, confirm to delete {name} ?",
-    "Custom": "As configurações do complemento serão apagadas após a exclusão. Confirme para excluir {nome}?"
+    "Custom": "As configurações do add-on serão apagadas após a exclusão. Confirme para excluir {nome}?"
   },
   "DOCKER.UNINSTALL_STATEMENT": {
     "Original": "Add-on configurations will be erased after uninstall, confirm to uninstall {name} ? ",
-    "Custom": "As configurações do complemento serão apagadas após a desinstalação. Confirme para desinstalar {nome}?"
+    "Custom": "As configurações do add-on serão apagadas após a desinstalação. Confirme para desinstalar {nome}?"
   },
   "DOCKER.RUN": {
     "Original": "Run",
@@ -5001,7 +5001,7 @@
   },
   "DOCKER.DOCKER_HOST_PORT_PLACEHOLDER": {
     "Original": "Host Port",
-    "Custom": "Porta hospedeira"
+    "Custom": "Porta do Host"
   },
   "DOCKER.DOCKER_ADDON_PORT_PLACEHOLDER": {
     "Original": "Add-on Port",
@@ -5009,11 +5009,11 @@
   },
   "DOCKER.DOCKER_RAM_PLACEHOLDER": {
     "Original": "Set the memory limit for each Add-on runtime",
-    "Custom": "Defina o limite de memória para cada tempo de execução do complemento"
+    "Custom": "Defina o limite de memória para cada tempo de execução do add-on"
   },
   "DOCKER.DOCKER_CPU_PLACEHOLDER": {
     "Original": "Percentage of CPU utilization allowed when Add-on is running",
-    "Custom": "Porcentagem de utilização da CPU permitida quando o complemento está em execução"
+    "Custom": "Porcentagem de utilização da CPU permitida quando o add-on está em execução"
   },
   "DOCKER.MICRO_PHONE_SPEAKER": {
     "Original": "Microphone/Speaker",
@@ -5021,7 +5021,7 @@
   },
   "DOCKER.DOCKER_SEARCH_INPUT_VAL": {
     "Original": "Search Add-on with name in Docker hub",
-    "Custom": "Pesquisar complemento com nome no hub Docker"
+    "Custom": "Pesquisar add-on com nome no hub Docker"
   },
   "DOCKER.VERSION_UPDATE": {
     "Original": "Check for updates",
@@ -5033,7 +5033,7 @@
   },
   "DOCKER.OFFICIAL_WEBSITE": {
     "Original": "docker docs",
-    "Custom": "documentos do docker"
+    "Custom": "Modo de rede"
   },
   "DOCKER.ALREADY_UPDATES_VERSION": {
     "Original": "Your version is up to date",
@@ -5049,7 +5049,7 @@
   },
   "DOCKER.ADDON_DOCK_HUB": {
     "Original": "Add Add-on to list",
-    "Custom": "Adicionar complemento à lista"
+    "Custom": "Adicionar add-on à lista"
   },
   "DOCKER.FIND_NEW_TF_CARD": {
     "Original": "{name} card inserted",
@@ -5213,7 +5213,7 @@
   },
   "DOCKER.PLEASE_SELECT_ADDON": {
     "Original": "Please select an Add-on.",
-    "Custom": "Selecione um complemento."
+    "Custom": "Selecione um add-on."
   },
   "DOCKER.CANCEL_DOWNLOAD_SUCCESS": {
     "Original": "Cancelled successfully",
@@ -5265,7 +5265,7 @@
   },
   "DOCKER.RAM": {
     "Original": "RAM",
-    "Custom": "BATER"
+    "Custom": "RAM"
   },
   "DOCKER.CPU": {
     "Original": "CPU",
@@ -5301,7 +5301,7 @@
   },
   "DOCKER.ADDON_ID": {
     "Original": "Add-on ID",
-    "Custom": "ID do complemento"
+    "Custom": "ID do add-on"
   },
   "DOCKER.INSTALL": {
     "Original": "Install",
@@ -5397,11 +5397,11 @@
   },
   "DOCKER.ADDON_RUNTIME_ERROR": {
     "Original": "Add-on running error, page loading failed. ",
-    "Custom": "Erro de execução do complemento, falha no carregamento da página."
+    "Custom": "Erro de execução do add-on, falha no carregamento da página."
   },
   "DOCKER.ADDON_STOP_RUNNING": {
     "Original": "Add-on stopped running, page loading failed.",
-    "Custom": "O complemento parou de funcionar, o carregamento da página falhou."
+    "Custom": "O add-on parou de funcionar, o carregamento da página falhou."
   },
   "DOCKER.VOLUME_MANAGE.CREATE_VOLUME": {
     "Original": "Create volume",
@@ -5417,7 +5417,7 @@
   },
   "DOCKER.VOLUME_MANAGE.PORT_USEFUL": {
     "Original": "Map the Add-on internal port to the host port. When the host port is empty, it will be randomly mapped to a port of the host.",
-    "Custom": "Mapeie a porta interna do complemento para a porta do host. Quando a porta do host estiver vazia, ela será mapeada aleatoriamente para uma porta do host."
+    "Custom": "Mapeie a porta interna do add-on para a porta do host. Quando a porta do host estiver vazia, ela será mapeada aleatoriamente para uma porta do host."
   },
   "DOCKER.VOLUME_MANAGE.VOLUME_USEFUL": {
     "Original": "Volume is used to store Add-on data.",
@@ -5425,7 +5425,7 @@
   },
   "DOCKER.VOLUME_MANAGE.VOLUME_VIEW": {
     "Original": "Install the \"filebrowser/filebrowser\" Add-on to manage files in the volume if needed.",
-    "Custom": "Instale o complemento \"filebrowser/filebrowser\" para gerenciar arquivos no volume, se necessário."
+    "Custom": "Instale o add-on \"filebrowser/filebrowser\" para gerenciar arquivos no volume, se necessário."
   },
   "DOCKER.VOLUME_MANAGE.VOLUME_NAME": {
     "Original": "Name",
@@ -5449,11 +5449,11 @@
   },
   "DOCKER.VOLUME_MANAGE.ADD_ON_VOLUME": {
     "Original": "Add-on volume",
-    "Custom": "Volume adicional"
+    "Custom": "Volume do Add-on"
   },
   "DOCKER.VOLUME_MANAGE.ENVIRONMENT": {
     "Original": "Environment variables",
-    "Custom": "Variáveis ??ambientais"
+    "Custom": "Variáveis de ambiente"
   },
   "DOCKER.VOLUME_MANAGE.VARIABLE": {
     "Original": "Variable",
@@ -5477,7 +5477,7 @@
   },
   "DOCKER.VOLUME_MANAGE.ALREADY_USE": {
     "Original": "{name} volume is in use.,Please delete the Add-on that is using {name} volume first, and try again.",
-    "Custom": "O volume {name} está em uso. Exclua primeiro o complemento que está usando o volume {name} e tente novamente."
+    "Custom": "O volume {name} está em uso. Exclua primeiro o add-on que está usando o volume {name} e tente novamente."
   },
   "DOCKER.VOLUME_MANAGE.NAME": {
     "Original": "Volume Name",
@@ -5513,11 +5513,11 @@
   },
   "DOCKER.VOLUME_MANAGE.COMMAND_USEFUL": {
     "Original": "The command and its parameters to be executed when the add-on is set to start",
-    "Custom": "O comando e seus parâmetros a serem executados quando o complemento estiver configurado para iniciar"
+    "Custom": "O comando e seus parâmetros a serem executados quando o add-on estiver configurado para iniciar"
   },
   "DOCKER.VOLUME_MANAGE.ENVIRONMENT_USEFUL": {
     "Original": "These values will be applied to the add-on when deployed",
-    "Custom": "Esses valores serão aplicados ao complemento quando implantado"
+    "Custom": "Esses valores serão aplicados ao add-on quando implantado"
   },
   "DOCKER.VOLUME_MANAGE.VOLUME_NAME_EXIST": {
     "Original": "A volume named {name} already exists. Enter a different volume name.",
@@ -5549,7 +5549,7 @@
   },
   "DOCKER.ADDON_NOT_EXIST": {
     "Original": "Failed, Add-on does not exist",
-    "Custom": "Falha, o complemento não existe"
+    "Custom": "Falha, o add-on não existe"
   },
   "DOCKER.NO_UPDATES_AVAILABLE": {
     "Original": "No updates available",
@@ -5629,7 +5629,7 @@
   },
   "DOCKER.ADD_ADD_ON": {
     "Original": "Add Add-on",
-    "Custom": "Adicionar complemento"
+    "Custom": "Adicionar add-on"
   },
   "DOCKER.DETAIL": {
     "Original": "More Details",
@@ -5705,11 +5705,11 @@
   },
   "DOCKER.ADD_ON_PATH": {
     "Original": "add-on path",
-    "Custom": "caminho do complemento"
+    "Custom": "caminho do add-on"
   },
   "DOCKER.PLEASE_COMPLETE_ADDON_PATH": {
     "Original": "Enter the add-on path corresponding to the USB device.",
-    "Custom": "Insira o caminho do complemento correspondente ao dispositivo USB."
+    "Custom": "Insira o caminho do add-on correspondente ao dispositivo USB."
   },
   "DOCKER.FIND_USB_INSERT": {
     "Original": "USB device(s) connected.",
@@ -5725,7 +5725,7 @@
   },
   "DOCKER.USB_ONLY_ONE_USE": {
     "Original": "A USB device can be configured for one add-on only.",
-    "Custom": "Um dispositivo USB pode ser configurado apenas para um complemento."
+    "Custom": "Um dispositivo USB pode ser configurado apenas para um add-on."
   },
   "DOCKER.USE_SHORT_TUTORIAL.SMART_HOME": {
     "Original": "Control eWeLink's LAN devices in iHost",
@@ -5753,7 +5753,7 @@
   },
   "DOCKER.SEARCH_ADD_ON_TIP": {
     "Original": " Click {HERE} to view add-ons on Docker hub. The recommended Add-on architecture is linux/arm/v7, other architectures may fail to install.",
-    "Custom": " Clique {AQUI} para visualizar add-on no Docker Hub. A arquitetura recomendada do Add-on é linux/arm/v7; outras arquiteturas podem falhar na instalação."
+    "Custom": " Clique {HERE} para visualizar o add-on no Docker Hub. A arquitetura recomendada do Add-on é linux/arm/v7. Outras arquiteturas podem falhar na instalação."
   },
   "DOCKER.HERE": {
     "Original": "HERE",
